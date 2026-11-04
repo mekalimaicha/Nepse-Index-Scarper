@@ -1,7 +1,8 @@
 <#
-  Registers a Windows Task Scheduler job that runs sync_local.ps1 every
-  Monday-Friday at 17:00 (after the GitHub Action has published the day's data).
-  If the PC was off, the task runs as soon as it is next available.
+  Installs the automatic sync (no administrator rights needed):
+    (a) a Startup-folder launcher  -> runs at every Windows login (catches up after the PC was off)
+    (b) a scheduled task           -> Mon-Fri 17:00
+  Both run scripts\windows\sync_local.ps1 from this repo.
 #>
 param(
     [string]$Time = "17:00",
@@ -9,11 +10,19 @@ param(
 )
 
 $script = Join-Path $PSScriptRoot "sync_local.ps1"
-$action = New-ScheduledTaskAction -Execute "powershell.exe" `
-    -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$script`" -Dest `"$Dest`""
-$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday,Tuesday,Wednesday,Thursday,Friday -At $Time
-$settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -AllowStartIfOnBatteries
+$args   = "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$script`" -Dest `"$Dest`""
 
-Register-ScheduledTask -TaskName "NEPSE Index Data Sync" -Action $action -Trigger $trigger `
-    -Settings $settings -Description "Merge NEPSE index CSVs from GitHub into $Dest" -Force
-Write-Host "Task 'NEPSE Index Data Sync' registered for Mon-Fri at $Time."
+$startup = [Environment]::GetFolderPath("Startup")
+Set-Content -Path "$startup\NEPSE_Index_Sync.bat" -Encoding ASCII `
+    -Value "@echo off`r`nstart `"`" /min powershell $args"
+Write-Host "Login sync installed: $startup\NEPSE_Index_Sync.bat" -ForegroundColor Green
+
+try {
+    $action   = New-ScheduledTaskAction -Execute "powershell.exe" -Argument $args
+    $trigger  = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday,Tuesday,Wednesday,Thursday,Friday -At $Time
+    $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -RunOnlyIfNetworkAvailable
+    Register-ScheduledTask -TaskName "NEPSE Index Data Sync" -Action $action -Trigger $trigger -Settings $settings -Force | Out-Null
+    Write-Host "Scheduled task installed (Mon-Fri $Time)." -ForegroundColor Green
+} catch {
+    Write-Host "Scheduled task NOT installed: $_" -ForegroundColor Yellow
+}

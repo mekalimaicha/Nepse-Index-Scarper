@@ -99,3 +99,12 @@ def test_sync_merges_without_losing_local_rows(tmp_path):
     write_csv(dst / "NEPSE.csv", {date(2026, 11, 2): _rec(date(2026, 11, 2), 4.0)})
     updater.run_sync(src, dst, [spec])
     assert set(read_csv(dst / "NEPSE.csv")) == {date(2026, 11, 2), date(2026, 11, 3)}
+
+
+# ---------------------------------------------------------------- holidays archive
+def test_seeded_holiday_archive():
+    hol = calendar.load_holidays()
+    assert len(hol) > 2000
+    assert date(2027, 4, 6) in hol            # Ghode Jatra (2027 list from the supplied file)
+    assert date(2026, 1, 11) in hol
+    assert min(hol).year == 2007

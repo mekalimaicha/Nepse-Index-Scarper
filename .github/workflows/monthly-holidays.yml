@@ -1,9 +1,13 @@
 name: Monthly holiday archive
 
+# History 2007-2027 is seeded from "Holidays List 2007-2027.csv".
+# Automatic checks start on 1 January 2027 and then repeat on the 1st of every month.
+# Each check scrapes the current year onward (Year in AD) and merges into data/holidays/.
+
 on:
   schedule:
-    - cron: "0 3 1 * *"      # 1st of every month, 08:45 NPT
-  workflow_dispatch:
+    - cron: "0 3 1 * *"      # 1st of every month, 08:45 NPT (ignored until 2027-01-01, see gate step)
+  workflow_dispatch:         # manual run is always allowed
 
 permissions:
   contents: write
@@ -17,20 +21,35 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      - name: Gate - start on 2027-01-01
+        id: gate
+        run: |
+          today=$(TZ=Asia/Kathmandu date +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && [[ "$today" < "2027-01-01" ]]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Before 2027-01-01 ($today): skipping scheduled holiday check."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
 
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install
+        if: steps.gate.outputs.run == 'true'
         run: |
           pip install -r requirements.txt
           pip install -e .
           python -m playwright install --with-deps chromium
 
-      - name: Scrape holiday list (all years, AD)
+      - name: Scrape holiday list (current year onward, AD)
+        if: steps.gate.outputs.run == 'true'
         run: python -m nepse_scraper holidays
 
       - name: Upload debug dumps on failure
@@ -42,7 +61,7 @@ jobs:
           if-no-files-found: ignore
 
       - name: Commit archive
-        if: always()
+        if: steps.gate.outputs.run == 'true' && always()
         run: |
           git config user.name  "nepse-scraper-bot"
           git config user.email "actions@users.noreply.github.com"

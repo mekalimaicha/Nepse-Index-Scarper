@@ -7,8 +7,8 @@ clone of them in `F:\MEGA\NEPSE Analysis\NEPSE Index Data`.
 * **14 CSV files** with the same names and column layout you supplied
   (`NEPSE.csv`, `Banking.csv`, `Dev Bank.csv`, `Hotel and Tourism.csv`, ...).
 * **History from 1997-07-20**, then one new row per trading day.
-* **Holidays skipped.** Holiday dates come from <https://nepalstock.com/holiday-listing>
-  (all years, *Year in AD*), are refreshed automatically once a month and archived in `data/holidays/`.
+* **Holidays skipped.** Holiday history 2007-2027 is seeded from `Holidays List 2007-2027.csv` into `data/holidays/holidays.csv`.
+  From **1 January 2027** an automatic check of <https://nepalstock.com/holiday-listing> (*Year in AD*, current year onward) runs on the 1st of every month and is merged into the archive.
   If the only days since the last stored row are weekends/holidays, the site is not contacted at all.
 
 ## How the pieces fit
@@ -53,17 +53,21 @@ In the repo: **Settings -> Actions -> General -> Workflow permissions -> Read an
 Then **Actions -> Monthly holiday archive -> Run workflow** once (builds the holiday list), and
 **Actions -> Daily index update -> Run workflow** to test.
 
-### 2. Local clone on Windows
-```powershell
-git clone https://github.com/<you>/nepse-index-scraper.git
-cd nepse-index-scraper
-py -m venv .venv
-.venv\Scripts\pip install -e .
-.venv\Scripts\python -m playwright install chromium   # only needed to scrape locally
+### 2. Automatic pull to your laptop (F: drive)
+Everything lives on F: - nothing is kept in `C:\Users\...`:
 
-.\scripts\windows\sync_local.ps1                      # first sync (merges into F:\MEGA\...)
-.\scripts\windows\install_scheduled_task.ps1          # optional: Mon-Fri 17:00 auto-sync
+| What | Where |
+|---|---|
+| CSV data (same file names) | `F:\MEGA\NEPSE Analysis\NEPSE Index Data` |
+| Code + git clone + logs | `F:\MEGA\NEPSE Analysis\NEPSE Index Scraper` |
+
+```powershell
+cd "F:\MEGA\NEPSE Analysis\NEPSE Index Scraper\scripts\windows"
+powershell -ExecutionPolicy Bypass -File .\setup_local.ps1 -RepoUrl https://github.com/<user>/<repo>.git
 ```
+Runs at every Windows login and Mon-Fri 17:00: `git pull`, then new rows are merged into your CSVs by date
+(local rows are never deleted). Check: `Get-Content "F:\MEGA\NEPSE Analysis\NEPSE Index Scraper\logs\local_sync.log" -Tail 20`.
+Tip: exclude the `NEPSE Index Scraper` folder from MEGA sync (it contains `.venv` and `.git`).
 
 ### Run locally (no GitHub)
 ```powershell

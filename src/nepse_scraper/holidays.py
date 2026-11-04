@@ -79,7 +79,9 @@ def _year_select(page):
     return None, []
 
 
-def fetch_all_years(headed: bool = False) -> dict[date, str]:
+def fetch_all_years(headed: bool = False, min_year: int | None = None) -> dict[date, str]:
+    """Scrape holiday years >= min_year (default: current year). Older years come from the seeded archive."""
+    min_year = min_year or config.now_npt().year
     found: dict[date, str] = {}
     with open_browser(headed) as ctx:
         page = ctx.new_page()
@@ -94,9 +96,12 @@ def fetch_all_years(headed: bool = False) -> dict[date, str]:
         if select is None:
             log.warning("Year dropdown not found - parsing whatever table is shown.")
             for d, desc in _parse(_table_rows(page)):
-                found[d] = desc
+                if d.year >= min_year:
+                    found[d] = desc
         else:
             for value, year in sorted(years, key=lambda t: t[1]):
+                if year < min_year:
+                    continue
                 select.evaluate(SET_VALUE_JS, value)
                 page.wait_for_timeout(1200)
                 try:
