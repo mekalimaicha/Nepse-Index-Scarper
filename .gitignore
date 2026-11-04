@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+build/
+dist/
+# runtime logs and debug dumps (kept out of git)
+logs/*
+!logs/.gitkeep

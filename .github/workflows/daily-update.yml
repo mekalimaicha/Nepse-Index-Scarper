@@ -1,0 +1,69 @@
+name: Daily index update
+
+on:
+  schedule:
+    # NEPSE closes 15:00 NPT (09:15 UTC). Trading week is Mon-Fri.
+    - cron: "30 10 * * 1-5"   # 16:15 NPT  - main run
+    - cron: "30 12 * * 1-5"   # 18:15 NPT  - retry if the site published late
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Scrape even if no trading day is pending"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          pip install -e .
+          python -m playwright install --with-deps chromium
+
+      - name: Make sure a holiday archive exists
+        run: |
+          if [ "$(wc -l < data/holidays/holidays.csv)" -le 1 ]; then
+            python -m nepse_scraper holidays || echo "holiday scrape failed; continuing without it"
+          fi
+
+      - name: Update index CSVs
+        run: python -m nepse_scraper update ${{ inputs.force && '--force' || '' }}
+
+      - name: Upload debug dumps on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: logs/
+          if-no-files-found: ignore
+
+      - name: Commit data
+        if: always()
+        run: |
+          git config user.name  "nepse-scraper-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: index update $(TZ=Asia/Kathmandu date +%F)"
+            git pull --rebase
+            git push
+          fi
