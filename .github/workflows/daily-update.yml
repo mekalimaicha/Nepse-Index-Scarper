@@ -8,9 +8,9 @@ on:
   workflow_dispatch:
     inputs:
       force:
-        description: "Scrape even if no trading day is pending"
+        description: "Scrape even if no trading day is pending (manual runs always check the site)"
         type: boolean
-        default: false
+        default: true
 
 permissions:
   contents: write
@@ -45,6 +45,11 @@ jobs:
 
       - name: Update index CSVs
         run: python -m nepse_scraper update ${{ inputs.force && '--force' || '' }}
+
+      - name: Update Promoter Lock In
+        if: always()
+        continue-on-error: true
+        run: python -m nepse_scraper lockin
 
       - name: Upload debug dumps on failure
         if: failure()

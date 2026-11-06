@@ -27,6 +27,14 @@ GitHub Actions (Mon-Fri 16:15 NPT)         GitHub Actions (1st of month)
 
 You can also skip GitHub and scrape straight into the F: folder (see "Run locally").
 
+## Promoter Lock In
+`python -m nepse_scraper lockin` scrapes <https://www.sharesansar.com/promoter-lockin> (sector ALL, both the
+**Locked** and **Unlocked** tabs, every page) into **`Promoter Lock In.csv`**, stored next to the index CSVs
+and copied to `F:\MEGA\NEPSE Analysis\NEPSE Index Data` by the same local sync.
+Columns = `Status` (Locked/Unlocked) + the columns shown on the website. The file is a full snapshot replaced on
+each run; an empty result, or one with under half the stored rows, never overwrites it. It runs after the index update in the
+daily GitHub job (a lock-in failure does not stop the index update, and vice versa).
+
 ## Trading calendar
 
 | Period | Trading days |
@@ -65,7 +73,7 @@ Everything lives on F: - nothing is kept in `C:\Users\...`:
 cd "F:\MEGA\NEPSE Analysis\NEPSE Index Scraper\scripts\windows"
 powershell -ExecutionPolicy Bypass -File .\setup_local.ps1 -RepoUrl https://github.com/<user>/<repo>.git
 ```
-Runs at every Windows login and Mon-Fri 17:00: `git pull`, then new rows are merged into your CSVs by date
+Runs at every Windows login, Mon-Fri 17:00, **and a silent check every 5 minutes** (so data from a manual workflow run reaches F: within about 5 minutes; the check is a cheap `git fetch` and only syncs when GitHub has something new; the laptop must be on): `git pull`, then new rows are merged into your CSVs by date
 (local rows are never deleted). Check: `Get-Content "F:\MEGA\NEPSE Analysis\NEPSE Index Scraper\logs\local_sync.log" -Tail 20`.
 Tip: exclude the `NEPSE Index Scraper` folder from MEGA sync (it contains `.venv` and `.git`).
 

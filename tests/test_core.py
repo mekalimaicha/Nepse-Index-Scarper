@@ -108,3 +108,29 @@ def test_seeded_holiday_archive():
     assert date(2027, 4, 6) in hol            # Ghode Jatra (2027 list from the supplied file)
     assert date(2026, 1, 11) in hol
     assert min(hol).year == 2007
+
+
+# ---------------------------------------------------------------- promoter lock-in
+def test_lockin_combine_write_guard_and_sync(tmp_path):
+    from nepse_scraper import lockin
+    parts = {"Locked": (["Symbol", "Shares"], [["AAA", "1,000"], ["BBB", "2,000"]]),
+             "Unlocked": (["Symbol", "Shares", "Remarks"], [["CCC", "5", "done"]])}
+    header, rows = lockin.combine(parts)
+    assert header == ["Status", "Symbol", "Shares", "Remarks"]
+    assert rows[0] == ["Locked", "AAA", "1,000", ""] and rows[2] == ["Unlocked", "CCC", "5", "done"]
+
+    p = tmp_path / "repo" / config.LOCKIN_FILE
+    assert lockin.write_snapshot(p, header, rows) == "written"
+    assert lockin.write_snapshot(p, header, rows) == "unchanged"
+    with pytest.raises(lockin.LockInError):
+        lockin.write_snapshot(p, header, [])                    # empty scrape never overwrites
+    with pytest.raises(lockin.LockInError):
+        lockin.write_snapshot(p, header, rows[:1] * 0 or [rows[0]][:0])
+    big = [["Locked", f"S{i}", "1", ""] for i in range(10)]
+    lockin.write_snapshot(p, header, big)
+    with pytest.raises(lockin.LockInError):
+        lockin.write_snapshot(p, header, big[:2])               # shrinks below 50% -> refused
+
+    dst = tmp_path / "local"
+    updater.sync_lockin(p.parent, dst)
+    assert (dst / config.LOCKIN_FILE).read_bytes() == p.read_bytes()

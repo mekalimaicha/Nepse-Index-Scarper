@@ -12,6 +12,8 @@ from pathlib import Path
 # --------------------------------------------------------------------------- #
 INDEX_HISTORY_URL = "https://www.sharesansar.com/index-history-data"
 HOLIDAY_URL = "https://nepalstock.com/holiday-listing"
+PROMOTER_LOCKIN_URL = "https://www.sharesansar.com/promoter-lockin"
+LOCKIN_FILE = "Promoter Lock In.csv"   # written next to the index CSVs and synced to the local folder
 
 # First date available on the site ("From Date" default).
 HISTORY_START = date(1997, 7, 20)

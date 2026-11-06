@@ -108,7 +108,24 @@ def run_sync(src: Path, dst: Path, specs: list[IndexSpec]) -> int:
         if added or updated or not d.exists():
             write_csv(d, merged)
         log.info("%-27s synced: +%d new, %d revised -> %s", spec.file_stem, added, updated, d)
-    return code
+    return code | sync_lockin(src, dst)
+
+
+def sync_lockin(src: Path, dst: Path) -> int:
+    """Promoter Lock In.csv is a full snapshot: copy it over when it differs."""
+    s, d = src / config.LOCKIN_FILE, dst / config.LOCKIN_FILE
+    if not s.exists():
+        log.info("%s: not in repo yet - skipped.", config.LOCKIN_FILE)
+        return 0
+    if d.exists() and d.read_bytes() == s.read_bytes():
+        log.info("%-27s already up to date", config.LOCKIN_FILE)
+        return 0
+    dst.mkdir(parents=True, exist_ok=True)
+    tmp = d.with_suffix(".csv.tmp")
+    tmp.write_bytes(s.read_bytes())
+    tmp.replace(d)
+    log.info("%-27s copied -> %s", config.LOCKIN_FILE, d)
+    return 0
 
 
 def run_status(out_dir: Path, specs: list[IndexSpec]) -> int:

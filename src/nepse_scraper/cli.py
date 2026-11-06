@@ -7,7 +7,7 @@ import os
 import sys
 from pathlib import Path
 
-from . import config, holidays, updater
+from . import config, holidays, lockin, updater
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -28,6 +28,11 @@ def build_parser() -> argparse.ArgumentParser:
 
     b = sub.add_parser("backfill", help=f"Re-download full history from {config.HISTORY_START} and merge.")
     common(b)
+
+    lk = sub.add_parser("lockin", help="Scrape sharesansar.com/promoter-lockin into 'Promoter Lock In.csv'.")
+    lk.add_argument("--headed", action="store_true")
+    lk.add_argument("--out", metavar="DIR", help="Folder for the CSV (default: $NEPSE_OUT_DIR, else <repo>/data/indices).")
+    lk.add_argument("--url", help=argparse.SUPPRESS)
 
     h = sub.add_parser("holidays", help="Scrape nepalstock.com holiday list (all years, AD) into the archive.")
     h.add_argument("--headed", action="store_true")
@@ -54,6 +59,8 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.cmd == "holidays":
         return holidays.run(args.headed)
+    if args.cmd == "lockin":
+        return lockin.run(config.resolve_out_dir(args.out), args.headed, args.url)
 
     specs = config.enabled_indices(getattr(args, "indices", None))
     if args.cmd == "sync":
