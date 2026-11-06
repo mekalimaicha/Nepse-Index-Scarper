@@ -7,7 +7,7 @@ import os
 import sys
 from pathlib import Path
 
-from . import config, holidays, lockin, updater
+from . import config, holidays, lockin, merger, updater
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -34,6 +34,11 @@ def build_parser() -> argparse.ArgumentParser:
     lk.add_argument("--out", metavar="DIR", help="Folder for the CSV (default: $NEPSE_OUT_DIR, else <repo>/data/indices).")
     lk.add_argument("--url", help=argparse.SUPPRESS)
 
+    mg = sub.add_parser("merger", help="Scrape sharesansar.com/merger-acquisition into 'Merger and Acquisition.csv'.")
+    mg.add_argument("--headed", action="store_true")
+    mg.add_argument("--out", metavar="DIR", help="Folder for the CSV (default: $NEPSE_OUT_DIR, else <repo>/data/indices).")
+    mg.add_argument("--url", help=argparse.SUPPRESS)
+
     h = sub.add_parser("holidays", help="Scrape nepalstock.com holiday list (all years, AD) into the archive.")
     h.add_argument("--headed", action="store_true")
 
@@ -59,6 +64,8 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.cmd == "holidays":
         return holidays.run(args.headed)
+    if args.cmd == "merger":
+        return merger.run(config.resolve_out_dir(args.out), args.headed, args.url)
     if args.cmd == "lockin":
         return lockin.run(config.resolve_out_dir(args.out), args.headed, args.url)
 

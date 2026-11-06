@@ -134,3 +134,12 @@ def test_lockin_combine_write_guard_and_sync(tmp_path):
     dst = tmp_path / "local"
     updater.sync_lockin(p.parent, dst)
     assert (dst / config.LOCKIN_FILE).read_bytes() == p.read_bytes()
+
+
+def test_merger_snapshot_sync(tmp_path):
+    src, dst = tmp_path / "src", tmp_path / "dst"
+    src.mkdir()
+    (src / config.MERGER_FILE).write_bytes(b"Status,A\r\nCompleted,1\r\n")
+    updater.sync_snapshots(src, dst)
+    assert (dst / config.MERGER_FILE).read_bytes() == b"Status,A\r\nCompleted,1\r\n"
+    assert not (dst / config.LOCKIN_FILE).exists()          # missing source files are skipped, not errors

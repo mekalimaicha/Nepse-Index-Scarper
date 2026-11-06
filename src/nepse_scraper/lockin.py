@@ -40,9 +40,18 @@ def _is_serial(header: str) -> bool:
 
 
 class LockInPage:
-    def __init__(self, context, url: str):
+    """Generic 'tabbed DataTables page' scraper (used for Promoter Lock In and Merger & Acquisition)."""
+
+    def __init__(self, context, url: str, expect: str = "lock",
+                 anchors: dict[str, str] | None = None, use_search: bool = True):
         self.page = context.new_page()
         self.url = url
+        self.expect = expect.lower()              # text that must appear on the page
+        self.anchors = anchors or {}              # tab label -> anchor id (default: label.lower())
+        self.use_search = use_search              # click Select-Sector / Search before reading?
+
+    def _anchor(self, tab: str) -> str:
+        return self.anchors.get(tab, tab.lower())
 
     # ------------------------------------------------------------------ #
     def open(self) -> None:
@@ -52,20 +61,20 @@ class LockInPage:
             p.wait_for_load_state("networkidle", timeout=30_000)
         except Exception:
             pass
-        if "lock" not in p.content().lower():
-            save_debug(p, "lockin_page_unexpected")
-            raise LockInError("Promoter Lock In page not recognised (blocked, or layout changed).")
+        if self.expect not in p.content().lower():
+            save_debug(p, "tabbed_page_unexpected")
+            raise LockInError(f"Page not recognised (no '{self.expect}' text: blocked, or layout changed).")
 
     def _pane(self, tab: str):
-        loc = self.page.locator(f"#{tab.lower()}")
+        loc = self.page.locator(f"#{self._anchor(tab)}")
         return loc if loc.count() else self.page
 
     def _activate_tab(self, tab: str) -> None:
-        link = self.page.locator(f"a[href='#{tab.lower()}']")
+        link = self.page.locator(f"a[href='#{self._anchor(tab)}']")
         if link.count():
             link.first.click()
         else:
-            alt = self.page.get_by_text(re.compile(rf"^\s*{tab}\s*$", re.I))
+            alt = self.page.get_by_text(re.compile(rf"^\s*{re.escape(tab)}\s*$", re.I))
             if alt.count():
                 alt.first.click()
         self.page.wait_for_timeout(500)
@@ -163,8 +172,9 @@ class LockInPage:
     # ------------------------------------------------------------------ #
     def scrape_tab(self, tab: str) -> tuple[list[str], list[list[str]]]:
         self._activate_tab(tab)
-        self._set_sector_all()
-        self._click_search()
+        if self.use_search:
+            self._set_sector_all()
+            self._click_search()
         pane = self._pane(tab)
         table = self._table(pane)
         headers = self._headers(table)
@@ -232,35 +242,39 @@ def write_snapshot(path: Path, header: list[str], rows: list[list[str]]) -> str:
         raise
 
 
-def run(out_dir: Path, headed: bool = False, url: str | None = None) -> int:
-    url = url or config.PROMOTER_LOCKIN_URL
+def run_tabs(out_dir: Path, filename: str, url: str, tabs: tuple[str, ...], label: str,
+             headed: bool = False, **page_kwargs) -> int:
     parts: dict[str, tuple[list[str], list[list[str]]]] = {}
     try:
         with open_browser(headed) as ctx:
-            page = LockInPage(ctx, url)
+            page = LockInPage(ctx, url, **page_kwargs)
             try:
                 page.open()
-                for tab in TABS:
+                for tab in tabs:
                     for attempt in (1, 2, 3):
                         try:
                             parts[tab] = page.scrape_tab(tab)
-                            log.info("Promoter Lock In - %s: %d rows, columns %s",
-                                     tab, len(parts[tab][1]), parts[tab][0])
+                            log.info("%s - %s: %d rows, columns %s", label, tab, len(parts[tab][1]), parts[tab][0])
                             break
                         except Exception as exc:
-                            log.warning("%s attempt %d/3 failed: %s", tab, attempt, exc)
+                            log.warning("%s: %s attempt %d/3 failed: %s", label, tab, attempt, exc)
                             if attempt == 3:
-                                save_debug(page.page, f"lockin_fail_{tab}")
+                                save_debug(page.page, f"{label}_fail_{tab}")
                                 raise
                             time.sleep(4 * attempt)
                             page.open()
             finally:
                 page.close()
         header, rows = combine(parts)
-        path = out_dir / config.LOCKIN_FILE
+        path = out_dir / filename
         result = write_snapshot(path, header, rows)
-        log.info("Promoter Lock In: %s (%d rows) -> %s", result, len(rows), path)
+        log.info("%s: %s (%d rows) -> %s", label, result, len(rows), path)
         return 0
     except Exception as exc:
-        log.error("Promoter Lock In FAILED: %s", exc)
+        log.error("%s FAILED: %s", label, exc)
         return 1
+
+
+def run(out_dir: Path, headed: bool = False, url: str | None = None) -> int:
+    return run_tabs(out_dir, config.LOCKIN_FILE, url or config.PROMOTER_LOCKIN_URL, TABS,
+                    "Promoter Lock In", headed, expect="lock", use_search=True)

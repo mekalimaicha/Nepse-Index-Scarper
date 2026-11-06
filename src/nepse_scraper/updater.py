@@ -108,24 +108,28 @@ def run_sync(src: Path, dst: Path, specs: list[IndexSpec]) -> int:
         if added or updated or not d.exists():
             write_csv(d, merged)
         log.info("%-27s synced: +%d new, %d revised -> %s", spec.file_stem, added, updated, d)
-    return code | sync_lockin(src, dst)
+    return code | sync_snapshots(src, dst)
 
 
-def sync_lockin(src: Path, dst: Path) -> int:
-    """Promoter Lock In.csv is a full snapshot: copy it over when it differs."""
-    s, d = src / config.LOCKIN_FILE, dst / config.LOCKIN_FILE
-    if not s.exists():
-        log.info("%s: not in repo yet - skipped.", config.LOCKIN_FILE)
-        return 0
-    if d.exists() and d.read_bytes() == s.read_bytes():
-        log.info("%-27s already up to date", config.LOCKIN_FILE)
-        return 0
-    dst.mkdir(parents=True, exist_ok=True)
-    tmp = d.with_suffix(".csv.tmp")
-    tmp.write_bytes(s.read_bytes())
-    tmp.replace(d)
-    log.info("%-27s copied -> %s", config.LOCKIN_FILE, d)
+def sync_snapshots(src: Path, dst: Path) -> int:
+    """Snapshot files (Promoter Lock In, Merger and Acquisition) are full copies: replace when different."""
+    for name in config.SNAPSHOT_FILES:
+        s, d = src / name, dst / name
+        if not s.exists():
+            log.info("%s: not in repo yet - skipped.", name)
+            continue
+        if d.exists() and d.read_bytes() == s.read_bytes():
+            log.info("%-27s already up to date", name)
+            continue
+        dst.mkdir(parents=True, exist_ok=True)
+        tmp = d.with_suffix(".csv.tmp")
+        tmp.write_bytes(s.read_bytes())
+        tmp.replace(d)
+        log.info("%-27s copied -> %s", name, d)
     return 0
+
+
+sync_lockin = sync_snapshots   # backwards-compatible name
 
 
 def run_status(out_dir: Path, specs: list[IndexSpec]) -> int:

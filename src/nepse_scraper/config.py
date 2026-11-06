@@ -13,6 +13,8 @@ from pathlib import Path
 INDEX_HISTORY_URL = "https://www.sharesansar.com/index-history-data"
 HOLIDAY_URL = "https://nepalstock.com/holiday-listing"
 PROMOTER_LOCKIN_URL = "https://www.sharesansar.com/promoter-lockin"
+MERGER_URL = "https://www.sharesansar.com/merger-acquisition"
+MERGER_FILE = "Merger and Acquisition.csv"
 LOCKIN_FILE = "Promoter Lock In.csv"   # written next to the index CSVs and synced to the local folder
 
 # First date available on the site ("From Date" default).
@@ -24,6 +26,10 @@ HISTORY_START = date(1997, 7, 20)
 NPT = timezone(timedelta(hours=5, minutes=45), name="NPT")
 # Market closes 15:00 NPT; allow time for the site to publish end-of-day data.
 PUBLISH_AFTER = time(15, 30)
+
+
+# Snapshot files that live next to the index CSVs and are copied whole to the local folder.
+SNAPSHOT_FILES = (LOCKIN_FILE, MERGER_FILE)
 
 
 def now_npt() -> datetime:

@@ -35,6 +35,12 @@ Columns = `Status` (Locked/Unlocked) + the columns shown on the website. The fil
 each run; an empty result, or one with under half the stored rows, never overwrites it. It runs after the index update in the
 daily GitHub job (a lock-in failure does not stop the index update, and vice versa).
 
+## Merger and Acquisition
+`python -m nepse_scraper merger` scrapes <https://www.sharesansar.com/merger-acquisition> (tabs **Completed** and
+**On Process**, all pages) into **`Merger and Acquisition.csv`** (`Status` + the website's columns), next to the index CSVs,
+and the local sync copies it to the F: folder. Run it manually any time (Actions -> *Merger and Acquisition (every 6 months)* ->
+Run workflow); it also runs automatically on **6 May and 6 November** every year.
+
 ## Trading calendar
 
 | Period | Trading days |

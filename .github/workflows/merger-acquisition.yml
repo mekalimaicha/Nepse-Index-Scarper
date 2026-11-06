@@ -1,0 +1,60 @@
+name: Merger and Acquisition (every 6 months)
+
+# Scrapes https://www.sharesansar.com/merger-acquisition (tabs: Completed, On Process)
+# into data/indices/"Merger and Acquisition.csv".
+#   - Run it manually any time: Actions -> this workflow -> Run workflow.
+#   - Runs automatically on 6 May and 6 November every year (every 6 months).
+
+on:
+  schedule:
+    - cron: "0 4 6 5,11 *"      # 04:00 UTC = 09:45 NPT on 6 May and 6 Nov
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  merger:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          pip install -e .
+          python -m playwright install --with-deps chromium
+
+      - name: Scrape Merger and Acquisition
+        run: python -m nepse_scraper merger
+
+      - name: Upload debug dumps on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: logs/
+          if-no-files-found: ignore
+
+      - name: Commit data
+        run: |
+          git config user.name  "nepse-scraper-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "data: merger and acquisition $(TZ=Asia/Kathmandu date +%F)"
+            git pull --rebase
+            git push
+          fi
