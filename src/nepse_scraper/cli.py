@@ -7,7 +7,7 @@ import os
 import sys
 from pathlib import Path
 
-from . import config, holidays, lockin, merger, updater
+from . import config, hamroshare, holidays, lockin, merger, updater
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -39,6 +39,12 @@ def build_parser() -> argparse.ArgumentParser:
     mg.add_argument("--out", metavar="DIR", help="Folder for the CSV (default: $NEPSE_OUT_DIR, else <repo>/data/indices).")
     mg.add_argument("--url", help=argparse.SUPPRESS)
 
+    dvd = sub.add_parser("dividend", help="Scrape hamroshare.com.np proposed dividends and merge into 'Dividend History.csv'.")
+    dvd.add_argument("--headed", action="store_true")
+    dvd.add_argument("--out", metavar="DIR", help="Folder holding the CSV (default: $NEPSE_FUND_DIR, else <repo>/data/fundamental).")
+    dvd.add_argument("--url", help=argparse.SUPPRESS)
+    dvd.add_argument("--force", action="store_true", help="Allow an unusually large number of new rows.")
+
     h = sub.add_parser("holidays", help="Scrape nepalstock.com holiday list (all years, AD) into the archive.")
     h.add_argument("--headed", action="store_true")
 
@@ -47,6 +53,8 @@ def build_parser() -> argparse.ArgumentParser:
     s.add_argument("--dst", metavar="DIR", default=None,
                    help=f"Destination (default: $NEPSE_OUT_DIR, else {config.LOCAL_CLONE_DIR}).")
     s.add_argument("--indices", nargs="*", metavar="NAME")
+    s.add_argument("--fund-dst", metavar="DIR", default=None,
+                   help=f"Dividend History destination (default: $NEPSE_FUND_DIR, else {config.LOCAL_FUNDAMENTAL_DIR}).")
 
     st = sub.add_parser("status", help="Show last stored date and pending trading days per index.")
     st.add_argument("--out", metavar="DIR")
@@ -64,6 +72,8 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.cmd == "holidays":
         return holidays.run(args.headed)
+    if args.cmd == "dividend":
+        return hamroshare.run(config.resolve_fund_dir(args.out), args.headed, args.url, args.force)
     if args.cmd == "merger":
         return merger.run(config.resolve_out_dir(args.out), args.headed, args.url)
     if args.cmd == "lockin":
@@ -73,7 +83,8 @@ def main(argv: list[str] | None = None) -> int:
     if args.cmd == "sync":
         src = Path(args.src) if args.src else config.DEFAULT_REPO_DATA
         dst = Path(args.dst or os.environ.get("NEPSE_OUT_DIR") or config.LOCAL_CLONE_DIR)
-        return updater.run_sync(src, dst, specs)
+        fund_dst = Path(args.fund_dst or os.environ.get("NEPSE_FUND_DIR") or config.LOCAL_FUNDAMENTAL_DIR)
+        return updater.run_sync(src, dst, specs, config.REPO_FUNDAMENTAL_DIR, fund_dst)
 
     out = config.resolve_out_dir(args.out)
     if args.cmd == "status":

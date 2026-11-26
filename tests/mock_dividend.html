@@ -1,0 +1,27 @@
+<!doctype html><html><body>
+<h1>Proposed Dividend</h1><p>Dividend announcements for FY 2082/83 and earlier, 849 announcements across 6 fiscal years.</p>
+<div class="card"><span>FY 2082/83</span><b>107 companies</b></div>
+<div id="tabs">
+  <button data-fy="2082/83">FY 2082/83 <small>Latest FY</small></button>
+  <button data-fy="2081/82">FY 2081/82</button>
+  <button data-fy="2079/80">FY 2079/80</button>
+</div>
+<div id="panel"></div>
+<script>
+const H='<table><thead><tr><th>Symbol</th><th>Company</th><th>Cash %</th><th>Bonus %</th><th>Total %</th><th>Announced</th><th>Book Close</th><th>Status</th></tr></thead><tbody>';
+const D={
+ '2082/83':[
+  ['UNL','Unilever Nepal Limited','1,540.00%','—','1,540.00%','2 Nov 2026','—','Proposed'],
+  ['ICRA','ICRA Nepal Limited','62.50%','—','62.50%','16 Sep 2026','—','Proposed'],
+  ['NORVIC','Norvic International Hospital and Medical College Limited','22.11%','20.00%','42.11%','6 Aug 2026','2026-08-16 [Closed]','Distributed'],
+  ['BHDC','Bindhyabasini Hydropower Development Company Limited','0.30%','5.00%','5.30%','14 Oct 2026','2026-10-27 [Closed]','Distributed'],
+  ['NEWCO','Brand New Company Limited','10.00%','5.00%','15.00%','1 Nov 2026','—','Proposed']],
+ '2081/82':[
+  ['ICRA','ICRA Nepal Limited','47.31%','0.00%','47.31%','28 Oct 2025','—','Distributed'],
+  ['UNL','Unilever Nepal Limited','1,842.00%','—','1,842.00%','23 Sep 2025','2025-10-28 [Closed]','Distributed']],
+ '2079/80':[
+  ['XYZ','Some Other Company','5.00%','—','5.00%','3 Jan 2024','—','Distributed']]};
+document.querySelectorAll('#tabs button').forEach(b=>b.onclick=()=>{
+  document.getElementById('panel').innerHTML=H+D[b.dataset.fy].map(r=>'<tr>'+r.map((c,i)=>'<td>'+(i==0?'<a href="/company/'+c+'">'+c+'</a>':c)+'</td>').join('')+'</tr>').join('')+'</tbody></table>';});
+document.querySelector('#tabs button').click();
+</script></body></html>

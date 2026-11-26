@@ -1,21 +1,29 @@
 <#
   Installs the automatic sync (no administrator rights needed):
     (a) Startup-folder launcher            -> full sync at every Windows login
-    (b) task "NEPSE Index Data Sync"       -> full sync Mon-Fri 17:00 (unchanged schedule)
+    (b) task "NEPSE Index Data Sync"       -> full sync Mon-Fri 17:00
     (c) task "NEPSE Index Data Sync Poll"  -> every 5 minutes, silent: if GitHub has new data
-                                              (e.g. you ran the workflow manually) it is pulled
-                                              into the F: folder within minutes.
-  All run scripts\windows\sync_local.ps1 from this repo.
+                                              (e.g. you ran a workflow manually) it is pulled
+                                              into the local folders within minutes.
+  All run scripts\windows\sync_local.ps1 from this repo. Tasks are per-PC: run this once on each PC.
 #>
 param(
     [string]$Time = "17:00",
     [int]$PollMinutes = 5,
-    [string]$Dest = "F:\MEGA\NEPSE Analysis\NEPSE Index Data"
+    [string]$Dest     = "F:\MEGA\NEPSE Analysis\NEPSE Index Data",
+    [string]$FundDest = "F:\MEGA\NEPSE Analysis\Fundamental Data\Fundamental Data sheets",
+    [string]$Python   = "",
+    [string]$StateDir = ""
 )
 
 $script = Join-Path $PSScriptRoot "sync_local.ps1"
 $vbs    = Join-Path $PSScriptRoot "run_hidden.vbs"
-$psArgs = "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$script`" -Dest `"$Dest`""
+
+$extra = " -FundDest `"$FundDest`""
+if ($Python)   { $extra += " -Python `"$Python`"" }
+if ($StateDir) { $extra += " -StateDir `"$StateDir`"" }
+$psArgs = "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$script`" -Dest `"$Dest`"$extra"
+$vbsArgs = "//B //Nologo `"$vbs`" `"$script`" `"$Dest`" `"$FundDest`" `"$Python`" `"$StateDir`""
 
 # (a) login
 $startup = [Environment]::GetFolderPath("Startup")
@@ -36,7 +44,7 @@ try {
 
 # (c) 5-minute poll
 try {
-    $pollAction   = New-ScheduledTaskAction -Execute "wscript.exe" -Argument "//B //Nologo `"$vbs`" `"$script`" `"$Dest`""
+    $pollAction   = New-ScheduledTaskAction -Execute "wscript.exe" -Argument $vbsArgs
     $pollTrigger  = New-ScheduledTaskTrigger -Once -At (Get-Date).AddMinutes(1) `
                         -RepetitionInterval (New-TimeSpan -Minutes $PollMinutes) -RepetitionDuration (New-TimeSpan -Days 3650)
     $pollSettings = New-ScheduledTaskSettingsSet -StartWhenAvailable -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries `

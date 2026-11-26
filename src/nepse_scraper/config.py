@@ -13,6 +13,8 @@ from pathlib import Path
 INDEX_HISTORY_URL = "https://www.sharesansar.com/index-history-data"
 HOLIDAY_URL = "https://nepalstock.com/holiday-listing"
 PROMOTER_LOCKIN_URL = "https://www.sharesansar.com/promoter-lockin"
+DIVIDEND_URL = "https://hamroshare.com.np/investment/proposed-dividend"
+DIVIDEND_FILE = "Dividend History.csv"   # lives in data/fundamental/ and F:\\...\\Fundamental Data sheets
 MERGER_URL = "https://www.sharesansar.com/merger-acquisition"
 MERGER_FILE = "Merger and Acquisition.csv"
 LOCKIN_FILE = "Promoter Lock In.csv"   # written next to the index CSVs and synced to the local folder
@@ -108,10 +110,18 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_REPO_DATA = REPO_ROOT / "data" / "indices"
 HOLIDAY_DIR = REPO_ROOT / "data" / "holidays"
 MANUAL_HOLIDAYS = REPO_ROOT / "config" / "holidays_manual.csv"
-LOG_DIR = REPO_ROOT / "logs"
+LOG_DIR = Path(os.environ.get("NEPSE_LOG_DIR") or REPO_ROOT / "logs")   # per-PC logs can live outside the repo
 
 # Your local clone folder (Windows). Used by `sync` and as a documented default.
 LOCAL_CLONE_DIR = r"F:\MEGA\NEPSE Analysis\NEPSE Index Data"
+LOCAL_FUNDAMENTAL_DIR = r"F:\MEGA\NEPSE Analysis\Fundamental Data\Fundamental Data sheets"
+REPO_FUNDAMENTAL_DIR = REPO_ROOT / "data" / "fundamental"
+
+
+def resolve_fund_dir(cli_value: str | None) -> Path:
+    """--out beats $NEPSE_FUND_DIR beats <repo>/data/fundamental."""
+    value = cli_value or os.environ.get("NEPSE_FUND_DIR")
+    return Path(value) if value else REPO_FUNDAMENTAL_DIR
 
 
 def resolve_out_dir(cli_value: str | None) -> Path:

@@ -41,6 +41,20 @@ daily GitHub job (a lock-in failure does not stop the index update, and vice ver
 and the local sync copies it to the F: folder. Run it manually any time (Actions -> *Merger and Acquisition (every 6 months)* ->
 Run workflow); it also runs automatically on **6 May and 6 November** every year.
 
+## Dividend History (fundamental data)
+`python -m nepse_scraper dividend` scrapes <https://hamroshare.com.np/investment/proposed-dividend> (one tab per fiscal
+year, discovered automatically) and **merges** it into `Dividend History.csv` (stored in `data/fundamental/`, copied by the
+local sync to `F:\MEGA\NEPSE Analysis\Fundamental Data\Fundamental Data sheets`). Workflow *Dividend History (daily 12:00 AM NPT)*
+runs every day at 00:00 Nepal time (18:15 UTC) and can be started manually.
+
+Because part of that file is maintained by hand, it is never overwritten:
+* rows are never deleted (e.g. FY 2080/2081 is not on the site and stays);
+* Bonus/Cash/Total follow the site, but a stored value that equals the site's at 2 decimals is kept (0.2632 stays, not 0.26);
+* Announcement / Book Closure dates follow the site; **Distribution Date and Bonus Listing Date are yours** - never overwritten;
+* new companies/fiscal years are appended; order is fiscal year newest first, then announcement date newest first.
+Local sync saves a one-time copy of your original (`Dividend History.original.bak`) before the first change.
+If you edit Cash/Bonus/Total/Announcement/Book Closure by hand, the next sync will replace them with the website's values.
+
 ## Trading calendar
 
 | Period | Trading days |
@@ -82,6 +96,11 @@ powershell -ExecutionPolicy Bypass -File .\setup_local.ps1 -RepoUrl https://gith
 Runs at every Windows login, Mon-Fri 17:00, **and a silent check every 5 minutes** (so data from a manual workflow run reaches F: within about 5 minutes; the check is a cheap `git fetch` and only syncs when GitHub has something new; the laptop must be on): `git pull`, then new rows are merged into your CSVs by date
 (local rows are never deleted). Check: `Get-Content "F:\MEGA\NEPSE Analysis\NEPSE Index Scraper\logs\local_sync.log" -Tail 20`.
 Tip: exclude the `NEPSE Index Scraper` folder from MEGA sync (it contains `.venv` and `.git`).
+
+### 3. Second PC
+Same repo, own folders. Python and logs are kept outside the repo folder (`%LOCALAPPDATA%\NEPSE-Index-Scraper`) so two
+PCs that share a MEGA folder cannot overwrite each other's files. Run `setup_local.ps1` with the second-PC parameters
+(see the header of `scripts\windows\setup_local.ps1`); it installs its own scheduled tasks, which are per-PC.
 
 ### Run locally (no GitHub)
 ```powershell

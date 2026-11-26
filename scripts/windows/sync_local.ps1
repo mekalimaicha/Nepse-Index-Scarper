@@ -8,13 +8,18 @@
 #>
 param(
     [string]$Dest = "F:\MEGA\NEPSE Analysis\NEPSE Index Data",
+    [string]$FundDest = "F:\MEGA\NEPSE Analysis\Fundamental Data\Fundamental Data sheets",
+    [string]$Python = "",      # optional: python.exe of a venv kept outside the repo (second PC)
+    [string]$StateDir = "",    # optional: per-PC folder for the log + "last synced" marker (default: <repo>\logs)
     [switch]$OnlyIfChanged
 )
 
 $Repo   = (Resolve-Path (Join-Path $PSScriptRoot "..\..")).Path
-$log    = Join-Path $Repo "logs\local_sync.log"
-$marker = Join-Path $Repo "logs\last_synced_commit.txt"
-New-Item -ItemType Directory -Force -Path (Split-Path $log) | Out-Null
+if (-not $StateDir) { $StateDir = Join-Path $Repo "logs" }
+New-Item -ItemType Directory -Force -Path $StateDir | Out-Null
+$log    = Join-Path $StateDir "local_sync.log"
+$marker = Join-Path $StateDir "last_synced_commit.txt"
+$env:NEPSE_LOG_DIR = $StateDir
 function Log($m) { $l = "{0}  {1}" -f (Get-Date -Format "yyyy-MM-dd HH:mm:ss"), $m; Write-Host $l; Add-Content $log $l }
 
 # One sync at a time (the 5-minute poll, the 17:00 run and the login run must not overlap)
@@ -40,8 +45,8 @@ try {
     if ($LASTEXITCODE -ne 0) { throw "git pull failed" }
     Log ($out -join " ")
 
-    $py  = Join-Path $Repo ".venv\Scripts\python.exe"
-    $res = & $py -m nepse_scraper sync --dst $Dest
+    $py  = if ($Python) { $Python } else { Join-Path $Repo ".venv\Scripts\python.exe" }
+    $res = & $py -m nepse_scraper sync --dst $Dest --fund-dst $FundDest
     if ($LASTEXITCODE -ne 0) { throw "sync failed" }
     $res | ForEach-Object { Add-Content $log "    $_" }
 

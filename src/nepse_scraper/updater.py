@@ -93,7 +93,8 @@ def run_update(out_dir: Path, specs: list[IndexSpec], force: bool = False,
     return 0
 
 
-def run_sync(src: Path, dst: Path, specs: list[IndexSpec]) -> int:
+def run_sync(src: Path, dst: Path, specs: list[IndexSpec],
+             fund_src: Path | None = None, fund_dst: Path | None = None) -> int:
     """Merge the repo's data into the local clone folder (never deletes local rows)."""
     dst.mkdir(parents=True, exist_ok=True)
     code = 0
@@ -108,7 +109,10 @@ def run_sync(src: Path, dst: Path, specs: list[IndexSpec]) -> int:
         if added or updated or not d.exists():
             write_csv(d, merged)
         log.info("%-27s synced: +%d new, %d revised -> %s", spec.file_stem, added, updated, d)
-    return code | sync_snapshots(src, dst)
+    code |= sync_snapshots(src, dst)
+    if fund_src is not None and fund_dst is not None:
+        code |= sync_dividend(fund_src, fund_dst)
+    return code
 
 
 def sync_snapshots(src: Path, dst: Path) -> int:
@@ -130,6 +134,33 @@ def sync_snapshots(src: Path, dst: Path) -> int:
 
 
 sync_lockin = sync_snapshots   # backwards-compatible name
+
+
+def sync_dividend(src_dir: Path, dst_dir: Path) -> int:
+    """Merge the repo's Dividend History into the local file (manual columns and local-only rows are kept)."""
+    from . import dividends as dv
+    name = config.DIVIDEND_FILE
+    s, d = src_dir / name, dst_dir / name
+    if not s.exists():
+        log.info("%s: not in repo yet - skipped.", name)
+        return 0
+    try:
+        merged, added, updated = dv.merge(dv.read_rows(d), dv.read_rows(s))
+        if d.exists() and dv.render(merged) == d.read_bytes():
+            log.info("%-27s already up to date", name)
+            return 0
+        if d.exists():
+            backup = d.with_name(d.stem + ".original.bak")
+            if not backup.exists():                     # one-time safety copy of your hand-made file
+                backup.write_bytes(d.read_bytes())
+                log.info("%s: backup of your original saved as %s", name, backup.name)
+        dst_dir.mkdir(parents=True, exist_ok=True)
+        dv.write_if_changed(d, merged)
+        log.info("%-27s synced: +%d new, %d updated -> %s", name, added, updated, d)
+        return 0
+    except Exception as exc:
+        log.error("%s sync failed (local file untouched): %s", name, exc)
+        return 1
 
 
 def run_status(out_dir: Path, specs: list[IndexSpec]) -> int:
