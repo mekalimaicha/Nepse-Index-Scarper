@@ -1,849 +1,852 @@
 ﻿S.N.,SYMBOL,Company,Bonus (%),Cash (%),Total (%),Announcement Date,Book Closure Date,Distribution Date,Bonus Listing Date,Fiscal Year
 1,SMCL,Sopan Multiple Company Limited,5,5.53,10.53,11/13/2026,,,,2083/2084
-2,SHL,Soaltee Hotel Limited,20,16.84,36.84,11/24/2026,2026-12-16,,,2082/2083
-3,MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,9.5,0.5,10,11/23/2026,,,,2082/2083
-4,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,4.75,0.25,5,11/23/2026,,,,2082/2083
-5,LLBS,Laxmi Laghubitta Bittiya Sanstha Limited,4.75,0.25,5,11/20/2026,,,,2082/2083
-6,SMPDA,Sampada Laghubitta Bittiya Sanstha Limited,4,0.21,4.21,11/19/2026,,,,2082/2083
-7,SONA,Sonapur Minerals and Oil Limited,,5.26,5.26,11/18/2026,2026-11-26 [Closed],,,2082/2083
-8,SARBTM,Sarbottam Cement Limited,6,15,21,11/17/2026,2026-12-04,,,2082/2083
-9,SHPC,Sanima Mai Hydropower Limited,10,5,15,11/17/2026,,,,2082/2083
-10,NHDL,Nepal Hydro Developer Limited,10,0.53,10.53,11/17/2026,,,,2082/2083
-11,SMH,Supermai Hydropower Limited,14,4.42,18.42,11/13/2026,,,,2082/2083
-12,SBI,Nepal SBI Bank Limited,3.4,4.85,8.25,11/13/2026,2026-12-03,,,2082/2083
-13,MLBL,Mahalaxmi Bikas Bank Limited,3.7,3.78,7.48,11/6/2026,,,,2082/2083
-14,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,11.96,13.04,25,11/5/2026,,,,2082/2083
-15,API,Api Power Company Limited,5,0.26,5.26,11/5/2026,2026-11-24 [Closed],,,2082/2083
-16,UNL,Unilever Nepal Limited,,"1,540.00","1,540.00",11/2/2026,2026-11-25 [Closed],,,2082/2083
-17,MAKAR,Makar Jitumaya Suri Hydropower Company Limited,13,0.68,13.68,11/2/2026,,,,2082/2083
-18,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,,9.4,9.4,11/2/2026,2026-12-04,,,2082/2083
-19,HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),4.75,0.25,5,11/2/2026,2026-12-09,,,2082/2083
-20,LSL,Laxmi Sunrise Bank Limited,5,0.26,5.26,10/29/2026,2026-11-30,,,2082/2083
-21,SCB,Standard Chartered Bank Nepal Limited,,16,16,10/27/2026,2026-11-26 [Closed],,,2082/2083
-22,MEDICARE,Medicare Hospital Limited,,31.58,31.58,10/17/2026,2026-10-25 [Closed],,,2082/2083
-23,VLUCL,Vision Lumbini Urja Company Limited,,3.68,3.68,10/17/2026,2026-11-02 [Closed],,,2082/2083
-24,MFILPNP,8.75% MFIL Perpetual Non-Cumulative Preference Share,,8.75,8.75,10/16/2026,2026-10-28 [Closed],,,2082/2083
-25,NIMBAC,NIMB Ace Capital Limited,,20,20,10/14/2026,,,,2082/2083
-26,HBLCL,Himalayan Capital Limited,,15,15,10/14/2026,,,,2082/2083
-27,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,,11.05,11.05,10/14/2026,2026-12-01,,,2082/2083
-28,SUL,Samyukta Urja Limited,,7.5,7.5,10/14/2026,,,,2082/2083
-29,BHDC,Bindhyabasini Hydropower Development Company Limited,5,0.26,5.26,10/14/2026,2026-10-27 [Closed],,,2082/2083
-30,MEN,Mountain Energy Nepal Limited,20,1.05,21.05,10/13/2026,2026-10-27 [Closed],,,2082/2083
-31,KBC,Kosh Bewasthapan Company Limited,,10.5,10.5,10/13/2026,,,,2082/2083
-32,BARUN,Barun Hydropower Company Limited,4.75,0.25,5,10/13/2026,2026-10-28 [Closed],,,2082/2083
-33,MFIL,Manjushree Finance Limited,5,15,20,10/9/2026,2026-10-28 [Closed],,,2082/2083
-34,KBSH,Kutheli Bukhari Small Hydropower Limited,18,0.95,18.95,10/8/2026,,,,2082/2083
-35,NMBPNP,8.25% NMB Perpetual Non cumulative Preference Share 2081/82,,8.25,8.25,10/8/2026,2026-11-27,,,2082/2083
-36,NMB,NMB Bank Limited,,7,7,10/8/2026,2026-11-27,,,2082/2083
-37,SIKLES,Sikles Hydropower Limited,12.71,0.67,13.38,10/6/2026,2026-12-04,,,2082/2083
-38,RLEL,Ridge Line Energy Limited,,10.53,10.53,10/1/2026,2026-10-09 [Closed],,,2082/2083
-39,GILB,Global IME Laghubitta Bittiya Sanstha Limited,6,3.5,9.5,9/29/2026,2026-11-27,,,2082/2083
-40,NCHL,Nepal Clearing House Limited,15,0.79,15.79,9/28/2026,,,,2082/2083
-41,MDB,Miteri Development Bank Limited,5,6,11,9/28/2026,,,,2082/2083
-42,TAMOR,Sanima Middle Tamor Hydropower Limited,,5.26,5.26,9/24/2026,2026-10-05 [Closed],,,2082/2083
-43,CPPL,Champawati Hydropower Limited,4,16,20,9/23/2026,,,,2082/2083
-44,MSHL,Mid Solu Hydropower Company Limited,15,0.79,15.79,9/22/2026,,,,2082/2083
-45,CBILSL,Citizens Share Broker Limited,,4.65,4.65,9/21/2026,2026-09-29 [Closed],,,2082/2083
-46,NSML,NIMB Stock Markets Limited (former Mega Stock Markets Limited),,3.75,3.75,9/21/2026,,,,2082/2083
-47,SHEPCL,Super Hewa Power Company Limited,,3.16,3.16,9/21/2026,,,,2082/2083
-48,GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,9.5,0.5,10,9/18/2026,2026-10-14 [Closed],,,2082/2083
-49,RMF2,RBB Mutual Fund 2,,6,6,9/18/2026,2026-09-28 [Closed],,,2082/2083
-50,RMF1,RBB Mutual Fund 1,,2.75,2.75,9/18/2026,2026-09-28 [Closed],,,2082/2083
-51,SBL,Siddhartha Bank Limited,10,10,20,9/17/2026,2026-10-02 [Closed],,,2082/2083
-52,BHCL,Bikash Hydropower Company Limited,10,0.53,10.53,9/17/2026,2026-10-05 [Closed],,,2082/2083
-53,SBLPNP,SBL 8.25% Perpetual Non cumulative Preference Share,,8.25,8.25,9/17/2026,2026-10-02 [Closed],,,2082/2083
-54,ICRA,ICRA Nepal Limited,,62.5,62.5,9/16/2026,,,,2082/2083
-55,CZBIL,Citizens Bank International Limited,3.8,0.2,4,9/16/2026,2026-10-05 [Closed],,,2082/2083
-56,KBL,Kumari Bank Limited,,2.11,2.11,9/16/2026,2026-10-05 [Closed],,,2082/2083
-57,RSML,Reliance Spinning Mills Limited,,30,30,9/15/2026,2026-09-30 [Closed],,,2082/2083
-58,SNORL,Snow Rivers Limited,10,0.53,10.53,9/15/2026,2026-09-24 [Closed],,,2082/2083
-59,NLO,Nepal Lube Oil Limited,15,6.05,21.05,9/14/2026,2026-09-21 [Closed],,,2082/2083
-60,SHINE,Shine Resunga Development Bank Limited,6,10,16,9/14/2026,2026-09-29 [Closed],,,2082/2083
-61,SAPIL,Sarvottam Paints Industries Limited,10,0.53,10.53,9/14/2026,2026-09-29 [Closed],,,2082/2083
-62,MBLPNP,8.25% Machhapuchchhre Perpetual Non-cumulative Preference Share,,8.25,8.25,9/14/2026,2026-09-28 [Closed],,,2082/2083
-63,AHPC,Arun Valley Hydropower Development Company Limited,5,0.26,5.26,9/14/2026,2026-09-29 [Closed],,,2082/2083
-64,TEAM,Team Ventures Limited,3,2,5,9/14/2026,,,,2082/2083
-65,CBIL,Citizens Capital Ltd. (Former CBIL Capital ),,13,13,9/13/2026,2026-09-24 [Closed],,,2082/2083
-66,C30MF,Citizens Super 30 Mutual Fund,,5.25,5.25,9/13/2026,2026-09-24 [Closed],,,2082/2083
-67,SIDCL,Siddhartha Capital Limited,,30,30,9/11/2026,,,,2082/2083
-68,ASICL,Asian Concreto Limited,,7.5,7.5,9/11/2026,,,,2082/2083
-69,MBL,Machhapuchchhre Bank Limited,3,3,6,9/11/2026,2026-09-28 [Closed],,,2082/2083
-70,UMRH,United Idi-Mardi and R.B. Hydropower Limited,5,0.26,5.26,9/11/2026,2026-12-02,,,2082/2083
-71,GBIMEL,Global IME Capital Limited,15,10,25,9/9/2026,,,,2082/2083
-72,NABILINV,Nabil Investment Banking Limited,10,11.05,21.05,9/9/2026,2026-09-24 [Closed],,,2082/2083
-73,IME,IME Limited,,20,20,9/9/2026,,,,2082/2083
-74,KDL,Kalinchowk Darshan Limited,8.5,0.45,8.95,9/9/2026,2026-09-25 [Closed],,,2082/2083
-75,NABILPNP,8% Nabil Perpetual Non cumulative Preference Share,,8,8,9/9/2026,,,,2082/2083
-76,GBBL,Garima Bikas Bank Limited,10,10,20,9/7/2026,2026-09-30 [Closed],,,2082/2083
-77,NABIL,Nabil Bank Limited,5,10.8,15.8,9/7/2026,2026-09-30 [Closed],,,2082/2083
-78,GIBF1,Global IME Balanced Fund-I,,12,12,9/7/2026,2026-09-28 [Closed],,,2082/2083
-79,NBF2,Nabil Balanced Fund - 2,,3.5,3.5,9/4/2026,2026-09-23 [Closed],,,2082/2083
-80,NBF3,Nabil Balanced Fund III,,2.5,2.5,9/4/2026,2026-09-23 [Closed],,,2082/2083
-81,H8020,Himalayan 80-20,,15,15,9/3/2026,2026-09-22 [Closed],,,2082/2083
-82,MuktinathCap,Muktinath Capital Limited,,5,5,9/3/2026,,,,2082/2083
-83,DIVINE,Divine Healthcare Limited,1.25,0.07,1.32,9/3/2026,2026-09-11 [Closed],,,2082/2083
-84,GBIME,Global IME Bank Limited,4,6,10,9/2/2026,2026-09-21 [Closed],,,2082/2083
-85,ICFC,ICFC Finance Limited,,10.53,10.53,9/1/2026,2026-09-21 [Closed],,,2082/2083
-86,NIFRA,Nepal Infrastructure Bank Limited,,5.26,5.26,8/31/2026,2026-09-30 [Closed],,,2082/2083
-87,MNMF1,Muktinath Mutual Fund 1,,2.2,2.2,8/31/2026,2026-09-09 [Closed],,,2082/2083
-88,SANIMA,Sanima Bank Limited,,10,10,8/30/2026,2026-09-17 [Closed],,,2082/2083
-89,HSLTD,Hotel Sarathi Limited,13,2.79,15.79,8/27/2026,,,,2082/2083
-90,EBL,Everest Bank Limited,5,10,15,8/27/2026,2026-09-17 [Closed],,,2082/2083
-91,SMHL,Super Madi Hydropower Limited,15,0.79,15.79,8/25/2026,2026-09-08 [Closed],,,2082/2083
-92,HHEL,Hilton Hydro Energy Limited,,20,20,8/24/2026,2026-09-04 [Closed],,,2082/2083
-93,VHPL,Venture Hire Purchase Limited,,15,15,8/24/2026,,,,2082/2083
-94,PSF,Prabhu Select Fund,,12,12,8/24/2026,2026-09-10 [Closed],,,2082/2083
-95,PRSF,Prabhu Smart Fund,,12,12,8/24/2026,2026-09-10 [Closed],,,2082/2083
-96,SAGF,Sanima Growth Fund,,5,5,8/24/2026,2026-09-03 [Closed],,,2082/2083
-97,SFEF,Sunrise Focused Equity Fund,,4.5,4.5,8/24/2026,2026-09-03 [Closed],,,2082/2083
-98,AELTD,Aashutosh Energy Limited,,18.95,18.95,8/22/2026,2026-09-04 [Closed],,,2082/2083
-99,KHCL,Kabeli Hydropower Company Limited,,16.32,16.32,8/22/2026,2026-09-04 [Closed],,,2082/2083
-100,SADBL,Shangrila Development Bank Limited,4,6.53,10.53,8/18/2026,2026-09-24 [Closed],,,2082/2083
-101,SIGS3,Siddhartha Investment Growth Scheme 3,,10,10,8/18/2026,2026-08-31 [Closed],,,2082/2083
-102,SIGS2,Siddhartha Investment Growth Scheme-2,,8,8,8/18/2026,2026-08-31 [Closed],,,2082/2083
-103,NSIF2,NMB Sulav Investment Fund - II,,10,10,8/17/2026,2026-08-24 [Closed],,,2082/2083
-104,MCL,Machhapuchchhre Capital Limited,,7,7,8/17/2026,,,,2082/2083
-105,NMBHF2,NMB Hybrid Fund L-II,,4.5,4.5,8/17/2026,2026-08-24 [Closed],,,2082/2083
-106,NMB50,NMB 50,,3.15,3.15,8/17/2026,2026-08-24 [Closed],,,2082/2083
-107,MANDU,Mandu Hydropower Limited,,12,12,8/13/2026,2026-08-21 [Closed],,,2082/2083
-108,RSY,Reliable Samriddhi Yojana,,8.42,8.42,8/13/2026,2026-08-26 [Closed],,,2082/2083
-109,NICACL,NIC Asia Capital Limited,,50,50,8/12/2026,,,,2082/2083
-110,SHLTD,Shivam Holdings Limited,,2.5,2.5,8/8/2026,,,,2082/2083
-111,KSBBL,Kamana Sewa Bikas Bank Limited,,15,15,8/7/2026,2026-09-03 [Closed],,,2082/2083
-112,KDBY,Kumari Dhanabriddhi Yojana,,10,10,8/7/2026,2026-08-20 [Closed],,,2082/2083
-113,KEF,Kumari Equity Fund,,10,10,8/7/2026,2026-08-20 [Closed],,,2082/2083
-114,NMBSBF,NMB Saral Bachat Fund - E,,5.25,5.25,8/7/2026,2026-08-06 [Closed],,,2082/2083
-115,KSLY,Kumari Sunaulo Lagani Yojana,,4.7,4.7,8/7/2026,2026-08-06 [Closed],,,2082/2083
-116,KSY,Kumari Sabal Yojana,,2.9,2.9,8/7/2026,2026-08-20 [Closed],,,2082/2083
-117,NORVIC,Norvic International Hospital and Medical College Limited,20,22.11,42.11,8/6/2026,2026-08-16 [Closed],,,2082/2083
-118,MBLEF,MBL Equity Fund,,8,8,8/6/2026,2026-08-18 [Closed],,,2082/2083
-119,SAPSU,Sapsu Kalika Hydropower Company Limited,,5,5,8/3/2026,,,,2082/2083
-120,SSIS,Siddhartha Systematic Investment Scheme,,3,3,7/26/2026,2026-07-24 [Closed],,,2082/2083
-121,RKDHL,R.K.D Holdings Limited,,5,5,6/19/2026,,,,2081/2082
-122,UAIL,United Ajod Insurance Limited,4.29,0.23,4.51,6/19/2026,2026-07-03 [Closed],,,2081/2082
-123,ANLB,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,3/26/2026,2026-04-09 [Closed],,,2081/2082
-124,CIGL,Chandragiri Investment Group Limited,,4,4,3/22/2026,,,,2081/2082
-125,PHLTD,Professional Holdings Limited,2.63,50,52.63,3/19/2026,,,,2081/2082
-126,UNIGLOBE,Uniglobe Higher Secondary School Kathmandu Limited,0.26,5,5.26,3/19/2026,,,,2081/2082
-127,SGIC,Sanima GIC Insurance Limited,5,0.26,5.26,3/15/2026,2026-05-06 [Closed],,,2081/2082
-128,PRIN,Prabhu Insurance Company Limited,8.7,0.46,9.16,3/3/2026,2026-04-09 [Closed],,,2081/2082
-129,UMHL,United Modi Hydropower Limited,7,0.37,7.37,2/22/2026,2026-04-17 [Closed],,,2081/2082
-130,STC,Salt Trading Corporation Limited,9.5,0.5,10,2/12/2026,2026-05-27 [Closed],,,2081/2082
-131,SUMERU,Sumeru Polymers Limited,9,0.02,9.02,1/30/2026,2026-02-05 [Closed],,,2081/2082
-132,HIGHLAND,Highland Distillery Limited,25,1.32,25.32,1/21/2026,,,,2081/2082
-133,NIL,Neco Insurance Limited,3,12.79,13.79,1/16/2026,2026-02-08 [Closed],,,2081/2082
-134,ALICL,Asian Life Insurance Company Limited,5,5.53,10.53,1/14/2026,2026-02-12 [Closed],,,2081/2082
-135,HEI,Himalayan Everest Insurance Limited,,8,8,12/28/2025,2026-01-05 [Closed],,,2081/2082
-136,NTC,Nepal Doorsanchar Company Limited,,30,30,12/24/2025,2026-01-04 [Closed],,,2081/2082
-137,CHCL,Chilime Hydro power Company Limited,8,4,12,12/24/2025,2026-01-01 [Closed],,,2081/2082
-138,UHEWA,Upper Hewakhola Hydropower Company Limited,15,0.79,15.79,12/23/2025,2026-01-01 [Closed],,,2081/2082
-139,NHAEL,Nepal Hydro and Electric Limited,10,0.53,10.53,12/23/2025,,,,2081/2082
-140,NLG,NLG Insurance Company Limited,4,3.37,7.37,12/23/2025,2026-01-06 [Closed],,,2081/2082
-141,MERO,Mero Microfinance Laghubitta Bittiya Sanstha Limited,4.75,0.25,5,12/23/2025,2026-01-02 [Closed],,,2081/2082
-142,CIT,Citizen Investment Trust,5,8,13,12/22/2025,2026-01-05 [Closed],,,2081/2082
-143,KPCL,Kalika Power Company Limited,7,0.37,7.37,12/22/2025,2026-01-02 [Closed],,,2081/2082
-144,LICN,Life Insurance Corporation Nepal Limited,,21.05,21.05,12/21/2025,2026-01-01 [Closed],,,2081/2082
-145,MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/21/2025,2025-12-31 [Closed],,,2081/2082
-146,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/21/2025,2026-01-02 [Closed],,,2081/2082
-147,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,12.76,0.67,13.43,12/21/2025,,,,2081/2082
-148,SJLIC,SuryaJyoti Life Insurance Company Limited,,13,13,12/21/2025,2026-01-02 [Closed],,,2081/2082
-149,RNLI,Reliable Nepal Life Insurance Limited,,12,12,12/21/2025,2026-01-05 [Closed],,,2081/2082
-150,SPDL,Synergy Power Development Limited,10,0.53,10.53,12/21/2025,2025-12-29 [Closed],,,2081/2082
-151,KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,12/21/2025,2026-01-05 [Closed],,,2081/2082
-152,SMB,Support Laghubitta Bittiya Sanstha Limited,9.5,0.5,10,12/21/2025,2025-12-31 [Closed],,,2081/2082
-153,CDS,CDS & Clearing Limited,,100,100,12/19/2025,,,,2081/2082
-154,RURU,Ru Ru Jalbidhyut Pariyojana Limited,10,5.79,15.79,12/19/2025,2025-12-28 [Closed],,,2081/2082
-155,SALICO,Sagarmatha Lumbini Insurance Company Limited,,15,15,12/19/2025,2026-01-04 [Closed],,,2081/2082
-156,BFIINL,Banking Finance and Insurance Institute of Nepal Limited,,14.74,14.74,12/19/2025,,,,2081/2082
-157,PCBL,Prime Commercial Bank Limited,8,0.42,8.42,12/19/2025,2026-01-05 [Closed],,,2081/2082
-158,BPCL,Butwal Power Company Limited,,6,6,12/19/2025,2025-12-30 [Closed],,,2081/2082
-159,SNLI,Sun Nepal Life Insurance Company Limited,5,15.26,20.26,12/18/2025,2025-12-29 [Closed],,,2081/2082
-160,NLICL,National Life Insurance Company Limited,4,8.5,12.5,12/18/2025,2026-01-01 [Closed],,,2081/2082
-161,NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,5,7,12,12/18/2025,2026-01-01 [Closed],,,2081/2082
-162,PMLI,Prabhu Mahalaxmi Life Insurance Company Limited,4,4.42,8.42,12/18/2025,2026-01-05 [Closed],,,2081/2082
-163,NICL,Nepal Insurance Company Limited,,6.32,6.32,12/18/2025,2025-12-29 [Closed],,,2081/2082
-164,NMFBS,National Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/17/2025,2026-01-06 [Closed],,,2081/2082
-165,SICL,Shikhar Insurance Company Limited,6,0.32,6.32,12/17/2025,2025-12-29 [Closed],,,2081/2082
-166,SRLI,Sanima Reliance Life Insurance Limited,,10.18,10.18,12/16/2025,2025-12-26 [Closed],,,2081/2082
-167,CGH,Chandragiri Hills Limited,5,0.26,5.26,12/16/2025,2025-12-26 [Closed],,,2081/2082
-168,ENL,Emerging Nepal Limited,,5.26,5.26,12/15/2025,2026-01-01 [Closed],,,2081/2082
-169,JBLB,Jeevan Bikas Laghubitta Bittiya Sanstha Limited,14,0.74,14.74,12/14/2025,2026-01-05 [Closed],,,2081/2082
-170,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,5,0.26,5.26,12/14/2025,2026-01-02 [Closed],,,2081/2082
-171,HIDCL,Hydroelectricity Investment and Development Company Limited,1.5,2,3.5,12/14/2025,2025-12-23 [Closed],,,2081/2082
-172,SPIL,Siddhartha Premier Insurance Limited,,25,25,12/12/2025,2026-01-02 [Closed],,,2081/2082
-173,ILI,IME Life Insurance Company Limited,,10.53,10.53,12/12/2025,2025-12-26 [Closed],,,2081/2082
-174,NLIC,Nepal Life Insurance Company Limited,5,16.05,21.05,12/11/2025,2025-12-22 [Closed],,,2081/2082
-175,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,10,5,15,12/11/2025,2025-12-31 [Closed],,,2081/2082
-176,IGI,IGI Prudential Insurance Limited,,5,5,12/11/2025,2025-12-31 [Closed],,,2081/2082
-177,SEEL,Seed Energy Limited,,3.16,3.16,12/11/2025,,,,2081/2082
-178,CLI,Citizen Life Insurance Company Limited,,20,20,12/10/2025,2025-12-23 [Closed],,,2081/2082
-179,TRH,Taragaon Regency Hotel Limited,,5,5,12/9/2025,2025-12-22 [Closed],,,2081/2082
-180,BIGIL,Business Interest Group of Industries Limited,6,0.32,6.32,12/1/2025,,,,2081/2082
-181,GCIL,Ghorahi Cement Industry Limited,10,0.53,10.53,11/30/2025,2025-12-12 [Closed],,,2081/2082
-182,ALBSL,Asha Laghubitta Bittiya Sanstha Limited,9.5,0.5,10,11/28/2025,2025-12-08 [Closed],,,2081/2082
-183,GRDBL,Green Development Bank Limited,8.04,0.42,8.46,11/27/2025,2026-01-01 [Closed],,,2081/2082
-184,HLI,Himalayan Life Insurance Limited,14,,14,1/19/2025,2025-02-07 [Closed],,,2079/2080
-185,SRLI,Sanima Reliance Life Insurance Limited,18.38,,18.38,9/16/2024,2024-09-27 [Closed],,,2079/2080
-186,PMLI,Prabhu Mahalaxmi Life Insurance Company Limited,10,0.53,10.53,8/25/2024,2024-10-02 [Closed],,,2079/2080
-187,SWMF,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,14.01,,14.01,7/25/2024,2024-08-08 [Closed],,,2079/2080
-188,NLICL,National Life Insurance Company Limited,4,10,14,7/12/2024,2024-08-08 [Closed],,,2079/2080
-189,NHAEL,Nepal Hydro and Electric Limited,10,10.53,20.53,6/30/2024,,,,2079/2080
-190,CIT,Citizen Investment Trust,14,0.74,14.74,6/14/2024,2024-07-04 [Closed],,,2079/2080
-191,NLIC,Nepal Life Insurance Company Limited,,21.05,21.05,6/2/2024,2024-06-18 [Closed],,,2079/2080
-192,AICL,Aadishakti Investment Company Limited,,10,10,5/30/2024,,,,2079/2080
-193,ILI,IME Life Insurance Company Limited,25,1.32,26.32,5/2/2024,2024-05-27 [Closed],,,2079/2080
-194,NRIC,Nepal Reinsurance Company Limited,4.75,0.25,5,4/16/2024,2024-05-19 [Closed],,,2079/2080
-195,SJLIC,SuryaJyoti Life Insurance Company Limited,10.26,24.74,35,4/3/2024,2024-04-19 [Closed],,,2079/2080
-196,SARBTM,Sarbottam Cement Limited,,15,15,4/2/2024,2024-04-12 [Closed],,,2079/2080
-197,MKJC,Mailung Khola Jal Vidhyut Company Limited,2.22,0.12,2.34,3/21/2024,2024-03-29 [Closed],,,2079/2080
-198,PRIN,Prabhu Insurance Company Limited,4.75,0.25,5,3/4/2024,2024-04-19 [Closed],,,2079/2080
-199,SALICO,Sagarmatha Lumbini Insurance Company Limited,,5,5,2/27/2024,2024-03-26 [Closed],,,2079/2080
-200,SNLI,Sun Nepal Life Insurance Company Limited,23.8,1.25,25.05,2/25/2024,2024-05-09 [Closed],,,2079/2080
-201,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,2/15/2024,2024-03-28 [Closed],,,2079/2080
-202,HRL,Himalayan Reinsurance Limited,4,0.21,4.21,2/9/2024,2024-02-19 [Closed],,,2079/2080
-203,NMFBS,National Laghubitta Bittiya Sanstha Limited,7.5,7.5,15,2/6/2024,2024-03-13 [Closed],,,2079/2080
-204,SPIL,Siddhartha Premier Insurance Limited,,11,11,2/5/2024,2024-02-23 [Closed],,,2079/2080
-205,UMRH,United Idi-Mardi and R.B. Hydropower Limited,5.5,0.29,5.79,2/5/2024,2024-02-16 [Closed],,,2079/2080
-206,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,7,0.37,7.37,1/30/2024,2024-02-25 [Closed],,,2079/2080
-207,ALICL,Asian Life Insurance Company Limited,7.75,0.41,8.16,1/28/2024,2024-02-20 [Closed],,,2079/2080
-208,UAIL,United Ajod Insurance Limited,10.26,0.54,10.8,1/19/2024,2024-02-05 [Closed],,,2079/2080
-209,YETIBL,Yeti Brewery Limited,100,100,200,1/14/2024,,,,2079/2080
-210,NLG,NLG Insurance Company Limited,5.5,0.29,5.79,1/14/2024,2024-02-08 [Closed],,,2079/2080
-211,STC,Salt Trading Corporation Limited,15,0.79,15.79,1/11/2024,2024-03-22 [Closed],,,2079/2080
-212,RNLI,Reliable Nepal Life Insurance Limited,16,0.84,16.84,1/10/2024,2024-01-29 [Closed],,,2079/2080
-213,HEI,Himalayan Everest Insurance Limited,8.63,6.37,15,1/10/2024,2024-01-28 [Closed],,,2079/2080
-214,MEN,Mountain Energy Nepal Limited,15,0.79,15.79,1/8/2024,2024-03-13 [Closed],,,2079/2080
-215,CLI,Citizen Life Insurance Company Limited,5,0.26,5.26,1/2/2024,2024-01-14 [Closed],,,2079/2080
-216,LAXMI,Laxmi Steels Limited,14.25,5.26,19.51,12/26/2023,,,,2079/2080
-217,NMBCAP,NMB Capital Limited,,17,17,12/26/2023,,,,2079/2080
-218,UPCL,Universal Power Company Limited,8.55,0.45,9,12/26/2023,2024-01-03 [Closed],,,2079/2080
-219,NEPSE,Nepal Stock Exchange Limited,,64,64,12/24/2023,,,,2079/2080
-220,KPCL,Kalika Power Company Limited,10,0.53,10.53,12/24/2023,2024-01-03 [Closed],,,2079/2080
-221,RBBL,Rastriya Banijya Bank Limited,,5.5,5.5,12/24/2023,2024-01-03 [Closed],,,2079/2080
-222,RADHI,Radhi Bidyut Company Limited,4.75,0.25,5,12/24/2023,2023-12-31 [Closed],,,2079/2080
-223,SMHL,Super Madi Hydropower Limited,,2,2,12/24/2023,2024-01-02 [Closed],,,2079/2080
-224,CDS,CDS & Clearing Limited,,100,100,12/22/2023,,,,2079/2080
-225,MEDICARE,Medicare Hospital Limited,48.81,14.35,63.16,12/22/2023,2024-01-07 [Closed],,,2079/2080
-226,NTC,Nepal Doorsanchar Company Limited,,40,40,12/22/2023,2024-01-04 [Closed],,,2079/2080
-227,JSML,Jagdamba Spinning Mills Limited,17.46,0.92,18.38,12/22/2023,,,,2079/2080
-228,GCIL,Ghorahi Cement Industry Limited,15,,15,12/22/2023,2024-01-01 [Closed],,,2079/2080
-229,MNBBL,Muktinath Bikas Bank Limited,9.75,0.51,10.26,12/22/2023,2024-01-04 [Closed],,,2079/2080
-230,NPEL,Nepal Power Exchange Limited,,5.26,5.26,12/22/2023,,,,2079/2080
-231,GBBL,Garima Bikas Bank Limited,9.5,0.5,10,12/21/2023,2024-01-02 [Closed],,,2079/2080
-232,SIKLES,Sikles Hydropower Limited,,6,6,12/21/2023,2023-12-29 [Closed],,,2079/2080
-233,HIDCL,Hydroelectricity Investment and Development Company Limited,,5.26,5.26,12/21/2023,2024-01-03 [Closed],,,2079/2080
-234,MLBL,Mahalaxmi Bikas Bank Limited,,6.4,6.4,12/20/2023,2024-01-04 [Closed],,,2079/2080
-235,BHDC,Bindhyabasini Hydropower Development Company Limited,,5.26,5.26,12/20/2023,2024-01-02 [Closed],,,2079/2080
-236,NIMBAC,NIMB Ace Capital Limited,,25,25,12/19/2023,,,,2079/2080
-237,SHIVM,Shivam Cements Limited,14.25,0.75,15,12/19/2023,2024-01-04 [Closed],,,2079/2080
-238,HATHY,Hathway Investment Nepal Limited,10,0.53,10.53,12/19/2023,2023-12-28 [Closed],,,2079/2080
-239,NLO,Nepal Lube Oil Limited,25,5,30,12/18/2023,2023-12-26 [Closed],,,2079/2080
-240,JBLB,Jeevan Bikas Laghubitta Bittiya Sanstha Limited,14,0.74,14.74,12/18/2023,2024-01-03 [Closed],,,2079/2080
-241,RURU,Ru Ru Jalbidhyut Pariyojana Limited,,10.53,10.53,12/18/2023,2024-01-02 [Closed],,,2079/2080
-242,KSKL,Karja Suchana Kendra Limited,,20,20,12/17/2023,,,,2079/2080
-243,BPCL,Butwal Power Company Limited,,5,5,12/17/2023,2024-01-04 [Closed],,,2079/2080
-244,NRNDFL,N.R.N. Nepal Development Fund Limited,,5,5,12/17/2023,,,,2079/2080
-245,MHL,Mandakini Hydropower Limited,4.75,0.25,5,12/16/2023,2024-01-05 [Closed],,,2079/2080
-246,SSL,Secured Securities Limited,100,5.26,105.26,12/15/2023,,,,2079/2080
-247,LSL,Laxmi Sunrise Bank Limited,7,0.37,7.37,12/13/2023,2024-01-04 [Closed],,,2079/2080
-248,SIFC,Shree Investment Finance Company Limited,,5.05,5.05,12/13/2023,2024-01-05 [Closed],,,2079/2080
-249,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,5,10,15,12/12/2023,2024-01-02 [Closed],,,2079/2080
-250,LBBL,Lumbini Bikas Bank Limited,4,4.5,8.5,12/12/2023,2024-01-02 [Closed],,,2079/2080
-251,ANLB,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,10,5,15,12/11/2023,2024-01-01 [Closed],,,2079/2080
-252,BGWT,Bhagawati Hydropower Development Company Limited,,10.53,10.53,12/11/2023,2023-12-21 [Closed],,,2079/2080
-253,GILB,Global IME Laghubitta Bittiya Sanstha Limited,,10,10,12/11/2023,2024-01-04 [Closed],,,2079/2080
-254,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,5.42,0.29,5.71,12/11/2023,2024-04-01 [Closed],,,2079/2080
-255,CHCL,Chilime Hydro power Company Limited,10,5,15,12/10/2023,2023-12-24 [Closed],,,2079/2080
-256,SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/10/2023,2024-01-01 [Closed],,,2079/2080
-257,ICFC,ICFC Finance Limited,,6.5,6.5,12/10/2023,2023-12-29 [Closed],,,2079/2080
-258,CEL,Century Energy Limited,10,,10,12/5/2023,,,,2079/2080
-259,HDL,Himalayan Distillery Limited,10,15,25,12/4/2023,2023-12-29 [Closed],,,2079/2080
-260,TRH,Taragaon Regency Hotel Limited,4,11,15,12/4/2023,2023-12-28 [Closed],,,2079/2080
-261,KBC,Kosh Bewasthapan Company Limited,,5,5,12/4/2023,,,,2079/2080
-262,NHDL,Nepal Hydro Developer Limited,7,0.37,7.37,12/3/2023,2023-12-11 [Closed],,,2079/2080
-263,MFIL,Manjushree Finance Limited,,5.26,5.26,12/1/2023,2023-12-27 [Closed],,,2079/2080
-264,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,7.5,7.5,15,11/30/2023,2023-12-28 [Closed],,,2079/2080
-265,NICL,Nepal Insurance Company Limited,10,0.53,10.53,11/26/2023,2023-12-14 [Closed],,,2079/2080
-266,NABIL,Nabil Bank Limited,,11,11,11/23/2023,2023-12-15 [Closed],,,2079/2080
-267,PTCNL,Power Transmission Company Nepal Limited,,18,18,11/21/2023,,,,2079/2080
-268,SHL,Soaltee Hotel Limited,5,26.58,31.58,11/20/2023,2023-12-21 [Closed],,,2079/2080
-269,SBI,Nepal SBI Bank Limited,3.75,6.8,10.55,11/20/2023,2023-12-15 [Closed],,,2079/2080
-270,NCHL,Nepal Clearing House Limited,28.5,1.5,30,11/17/2023,,,,2079/2080
-271,CARE,Care Ratings Nepal Limited,,80,80,11/10/2023,,,,2079/2080
-272,NFML,National Fund Management Limited,,4.21,4.21,11/10/2023,,,,2079/2080
-273,BNT,Bottlers Nepal (Terai) Limited,,60,60,11/9/2023,2024-01-05 [Closed],,,2079/2080
-274,MDB,Miteri Development Bank Limited,9.5,0.5,10,11/9/2023,2023-12-14 [Closed],,,2079/2080
-275,SMB,Support Laghubitta Bittiya Sanstha Limited,13,0.68,13.68,11/8/2023,2024-01-01 [Closed],,,2079/2080
-276,ENL,Emerging Nepal Limited,,8.42,8.42,11/8/2023,2023-11-22 [Closed],,,2079/2080
-277,NIFRA,Nepal Infrastructure Bank Limited,,4.21,4.21,11/7/2023,2023-12-22 [Closed],,,2079/2080
-278,BFIINL,Banking Finance and Insurance Institute of Nepal Limited,,14.7,14.7,11/6/2023,,,,2079/2080
-279,GBIME,Global IME Bank Limited,1,8,9,11/5/2023,2023-11-29 [Closed],,,2079/2080
-280,MANDU,Mandu Hydropower Limited,,10,10,11/3/2023,2023-11-20 [Closed],,,2079/2080
-281,SCB,Standard Chartered Bank Nepal Limited,,19,19,10/31/2023,2023-11-23 [Closed],,,2079/2080
-282,AELTD,Aashutosh Energy Limited,7.5,,7.5,10/20/2023,,,,2079/2080
-283,SADBL,Shangrila Development Bank Limited,5,0.26,5.26,10/20/2023,2023-11-27 [Closed],,,2079/2080
-284,CCAIL,Chartered Capital and Investment Limited,4,0.21,4.21,10/20/2023,,,,2079/2080
-285,NEPS,Nepal Electronic Payment Systems Limited,20,1.05,21.05,10/18/2023,,,,2079/2080
-286,NICLBSL,NIC Asia Laghubitta Bittiya Sanstha Limited,,15,15,10/18/2023,2023-12-11 [Closed],,,2079/2080
-287,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,12.36,0.65,13.01,10/18/2023,2023-12-08 [Closed],,,2079/2080
-288,SANVI,Sanvi Energy Limited,,5.25,5.25,10/18/2023,,,,2079/2080
-289,UNL,Unilever Nepal Limited,,"1,580.00","1,580.00",10/16/2023,2023-11-28 [Closed],,,2079/2080
-290,NICGF,NIC Asia Growth Fund,,10.5,10.5,10/16/2023,2023-11-08 [Closed],,,2079/2080
-291,NICBF,NIC ASIA Balanced Fund,,10,10,10/16/2023,2023-11-08 [Closed],,,2079/2080
-292,Maruti,Maruti Cements Limited,,10,10,10/16/2023,,,,2079/2080
-293,SBL,Siddhartha Bank Limited,,4.21,4.21,10/12/2023,2023-11-07 [Closed],,,2079/2080
-294,SHINE,Shine Resunga Development Bank Limited,10.5,0.55,11.05,10/11/2023,2023-11-27 [Closed],,,2079/2080
-295,NIIFL,Nepal Infrastructures Investment Fund Limited,,1.05,1.05,10/9/2023,2023-11-07 [Closed],,,2079/2080
-296,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,8.6,0.45,9.05,10/8/2023,2023-11-23 [Closed],,,2079/2080
-297,SHPC,Sanima Mai Hydropower Limited,10,0.53,10.53,10/4/2023,2023-10-11 [Closed],,,2079/2080
-298,GIBF1,Global IME Balanced Fund-I,,5,5,10/3/2023,2023-10-12 [Closed],,,2079/2080
-299,NBF2,Nabil Balanced Fund - 2,,9.6,9.6,9/29/2023,2023-10-13 [Closed],,,2079/2080
-300,RBBMBL,RBB Merchant Banking Limited,,13.16,13.16,9/25/2023,,,,2079/2080
-301,ICRA,ICRA Nepal Limited,,59.1,59.1,9/19/2023,,,,2079/2080
-302,NMB50,NMB 50,,15,15,9/19/2023,2023-09-29 [Closed],,,2079/2080
-303,NMBHF1,NMB Hybrid Fund L- 1,,15,15,9/19/2023,2023-09-29 [Closed],,,2079/2080
-304,OHL,Oriental Hotel Limited,,5.26,5.26,9/19/2023,2023-09-29 [Closed],,,2079/2080
-305,CZBIL,Citizens Bank International Limited,,5.79,5.79,9/17/2023,2023-10-02 [Closed],,,2079/2080
-306,NICA,NIC Asia Bank Limited,29,1.52,30.52,9/15/2023,2023-10-03 [Closed],,,2079/2080
-307,SANIMA,Sanima Bank Limited,9,5.7,14.7,9/15/2023,2023-10-09 [Closed],,,2079/2080
-308,PRABHU,Prabhu Capital Limited,,6.31,6.31,9/15/2023,,,,2079/2080
-309,CBIL,Citizens Capital Ltd. (Former CBIL Capital ),,12,12,9/14/2023,2023-09-25 [Closed],,,2079/2080
-310,EBL,Everest Bank Limited,10,10.53,20.53,9/13/2023,2023-10-03 [Closed],,,2079/2080
-311,PSF,Prabhu Select Fund,,9.5,9.5,9/12/2023,2023-09-29 [Closed],,,2079/2080
-312,SAEF,Sanima Equity Fund,,18,18,9/10/2023,2023-10-01 [Closed],,,2079/2080
-313,SUCL,Sunrise Capital Limited (NCM/NIDC),,30,30,9/6/2023,,,,2079/2080
-314,NIBLPF,NIBL Pragati Fund,,6.8,6.8,9/3/2023,2023-09-19 [Closed],,,2079/2080
-315,MBL,Machhapuchchhre Bank Limited,13.3,0.7,14,8/30/2023,2023-09-25 [Closed],,,2079/2080
-316,CMF2,Citizens Mutual Fund - 2,,8,8,8/27/2023,2023-09-05 [Closed],,,2079/2080
-317,SIGS2,Siddhartha Investment Growth Scheme-2,,6.5,6.5,8/18/2023,2023-08-30 [Closed],,,2079/2080
-318,SEF,Siddhartha Equity Fund,,5,5,8/18/2023,2023-08-30 [Closed],,,2079/2080
-319,KCL,Kumari Capital Limited,,15,15,8/14/2023,,,,2079/2080
-320,SFMF,Sunrise First Mutual Fund,,16,16,8/11/2023,2023-10-01 [Closed],,,2079/2080
-321,KEF,Kumari Equity Fund,,10,10,8/11/2023,2023-09-04 [Closed],,,2079/2080
-322,KDBY,Kumari Dhanabriddhi Yojana,,6,6,8/11/2023,2023-09-04 [Closed],,,2079/2080
-323,NADDF,NIC Asia Dynamic Debt Fund,,10,10,8/5/2023,2023-08-04 [Closed],,,2079/2080
-324,LUK,Laxmi Unnati Kosh,,9.5,9.5,7/30/2023,2023-08-17 [Closed],,,2079/2080
-325,LEMF,Laxmi Equity Fund,,8,8,7/30/2023,2023-08-17 [Closed],,,2079/2080
-326,NIBLSF,NIBL Sahabhagita Fund,,4,4,7/28/2023,2023-07-27 [Closed],,,2079/2080
-327,NICACL,NIC Asia Capital Limited,,46,46,7/26/2023,,,,2079/2080
-328,NHAEL,Nepal Hydro and Electric Limited,,8.42,8.42,6/30/2024,,,,2078/2079
-329,CHDC,CEDB Holdings Limited,11,0.58,11.58,4/23/2024,2024-05-01 [Closed],,,2078/2079
-330,NESDO,Nesdo Sambridha Laghubitta Bittiya Sanstha Limited,,15,15,9/17/2023,2023-10-05 [Closed],,,2078/2079
-331,SAMAJ,Samaj Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,7/26/2023,2023-08-06 [Closed],,,2078/2079
-332,RLFL,Reliance Finance Limited,6.5,0.34,6.84,6/11/2023,2023-07-05 [Closed],,,2078/2079
-333,CIT,Citizen Investment Trust,25,1.32,26.32,5/14/2023,2023-07-04 [Closed],,,2078/2079
-334,NRIC,Nepal Reinsurance Company Limited,4.75,0.25,5,4/30/2023,2023-06-22 [Closed],,,2078/2079
-335,NLICL,National Life Insurance Company Limited,8,6.5,14.5,4/16/2023,2023-05-25 [Closed],,,2078/2079
-336,GRDBL,Green Development Bank Limited,3.8,0.2,4,4/10/2023,2024-03-22 [Closed],,,2078/2079
-337,KSBBL,Kamana Sewa Bikas Bank Limited,4.41,0.23,4.64,4/2/2023,2023-04-28 [Closed],,,2078/2079
-338,SIKLES,Sikles Hydropower Limited,,10.53,10.53,3/14/2023,2023-03-27 [Closed],,,2078/2079
-339,ALICL,Asian Life Insurance Company Limited,8.5,0.45,8.95,3/14/2023,2023-04-21 [Closed],,,2078/2079
-340,NICLBSL,NIC Asia Laghubitta Bittiya Sanstha Limited,,14.75,14.75,3/7/2023,2023-04-14 [Closed],,,2078/2079
-341,JSLBB,Janautthan Samudayic Laghubitta Bittiya Sanstha Limited,15,0.79,15.79,3/5/2023,2023-03-24 [Closed],,,2078/2079
-342,SWMF,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,15,,15,3/1/2023,2023-04-27 [Closed],,,2078/2079
-343,SMFDB,Summit Laghubitta Bittiya Sanstha Limited,13.56,0.71,14.28,2/28/2023,2023-06-05 [Closed],,,2078/2079
-344,SLBSL,Samudayik Laghubitta Bittiya Sanstha Limited,10,5,15,2/22/2023,2023-06-29 [Closed],,,2078/2079
-345,KLBSL,Kisan Laghubitta Bittiya Sanstha Limited(Former NRN Laghubitta Bittiya Sanstha Limited),7,0.37,7.37,2/22/2023,2023-04-03 [Closed],,,2078/2079
-346,JBLB,Jeevan Bikas Laghubitta Bittiya Sanstha Limited,14.29,0.71,14.99,2/20/2023,2023-03-31 [Closed],,,2078/2079
-347,CORBL,Corporate Development Bank Limited,5,0.26,5.26,2/14/2023,2023-02-22 [Closed],,,2078/2079
-348,NGPL,Ngadi Group Power Limited,4.75,0.25,5,2/13/2023,2023-02-22 [Closed],,,2078/2079
-349,SADBL,Shangrila Development Bank Limited,8.53,0.45,8.98,2/10/2023,2023-03-12 [Closed],,,2078/2079
-350,VLBS,Vijaya Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,2/9/2023,2023-03-30 [Closed],,,2078/2079
-351,ALBSL,Asha Laghubitta Bittiya Sanstha Limited,14.29,0.71,15,2/7/2023,2023-03-10 [Closed],,,2078/2079
-352,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,15,3,18,2/5/2023,2023-03-15 [Closed],,,2078/2079
-353,ADLB,Adarsha Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,2/2/2023,2023-02-28 [Closed],,,2078/2079
-354,MKLB,Manakamana Smart Laghubitta Bittiya Sanstha Limited,4.75,0.25,5,1/31/2023,2023-03-15 [Closed],,,2078/2079
-355,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,61.75,3.25,65,1/29/2023,2023-02-16 [Closed],,,2078/2079
-356,HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),11,0.58,11.58,1/29/2023,2023-02-26 [Closed],,,2078/2079
-357,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,1/26/2023,2023-03-17 [Closed],,,2078/2079
-358,SABSL,Sabaiko Laghubitta Bittiya Sanstha Limited,18,0.95,18.95,1/26/2023,2023-02-26 [Closed],,,2078/2079
-359,NMFBS,National Laghubitta Bittiya Sanstha Limited,15,,15,1/24/2023,2023-04-17 [Closed],,,2078/2079
-360,KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,19,1,20,1/23/2023,2023-03-30 [Closed],,,2078/2079
-361,GILB,Global IME Laghubitta Bittiya Sanstha Limited,12,8,20,1/19/2023,2023-02-28 [Closed],,,2078/2079
-362,LLBS,Laxmi Laghubitta Bittiya Sanstha Limited,15,5,20,1/19/2023,2023-03-01 [Closed],,,2078/2079
-363,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,20,,20,1/16/2023,2023-02-14 [Closed],,,2078/2079
-364,NSLB,Naya Sarathi Laghubitta Bittiya Sanstha Limited,19,1,20,1/16/2023,2023-03-29 [Closed],,,2078/2079
-365,SMB,Support Laghubitta Bittiya Sanstha Limited,11,0.58,11.58,1/16/2023,2023-03-05 [Closed],,,2078/2079
-366,UMHL,United Modi Hydropower Limited,7,0.37,7.37,1/16/2023,2023-03-23 [Closed],,,2078/2079
-367,MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,15,0.79,15.79,1/13/2023,2023-02-17 [Closed],,,2078/2079
-368,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,22,3.26,25.26,1/12/2023,2023-03-09 [Closed],,,2078/2079
-369,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,22,1.16,23.16,1/12/2023,2023-03-14 [Closed],,,2078/2079
-370,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,15,6.05,21.05,1/12/2023,2023-02-22 [Closed],,,2078/2079
-371,STC,Salt Trading Corporation Limited,10,5,15,1/12/2023,2023-03-10 [Closed],,,2078/2079
-372,NMBMF,NMB Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,1/12/2023,2023-03-31 [Closed],,,2078/2079
-373,TRH,Taragaon Regency Hotel Limited,,8.42,8.42,1/11/2023,2023-02-01 [Closed],,,2078/2079
-374,HEI,Himalayan Everest Insurance Limited,2.75,0.14,2.89,1/11/2023,2023-03-17 [Closed],,,2078/2079
-375,MLBSL,Mahila Laghubitta Bittiya Sanstha Limited,47.5,2.5,50,1/10/2023,2023-02-17 [Closed],,,2078/2079
-376,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,10,11.05,21.05,1/10/2023,2023-03-03 [Closed],,,2078/2079
-377,MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,1/10/2023,2023-04-12 [Closed],,,2078/2079
-378,ADBL,Agricultural Development Bank Limited,2,11,13,1/10/2023,2023-03-14 [Closed],,,2078/2079
-379,PRIN,Prabhu Insurance Company Limited,6.7,0.35,7.05,1/9/2023,2023-02-24 [Closed],,,2078/2079
-380,JBBL,Jyoti Bikash Bank Limited,3,3.8,6.8,1/8/2023,2023-02-12 [Closed],,,2078/2079
-381,API,Api Power Company Limited,7.5,0.39,7.89,1/6/2023,2023-02-16 [Closed],,,2078/2079
-382,NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,19,1,20,1/4/2023,2023-02-14 [Closed],,,2078/2079
-383,PICL,Prudential Insurance Company Limited,3.33,0.18,3.5,1/3/2023,2023-03-17 [Closed],,,2078/2079
-384,NIBPO,Nepal Investment Bank Limited Promoter Share,4,7,11,1/2/2023,2022-12-07 [Closed],,,2078/2079
-385,LGIL,Lumbini General Insurance Limited,6.99,0.37,7.36,12/29/2022,2023-02-10 [Closed],,,2078/2079
-386,AKBSL,Adhikhola Laghubitta Bittiya Sanstha Limited,30,1.58,31.58,12/26/2022,2023-01-17 [Closed],,,2078/2079
-387,NCHL,Nepal Clearing House Limited,38,2,40,12/23/2022,,,,2078/2079
-388,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,30,1.58,31.58,12/23/2022,2023-01-03 [Closed],,,2078/2079
-389,SDLBSL,Sadhana Laghubitta Bittiya Sanstha Limited,19,1,20,12/23/2022,2023-01-04 [Closed],,,2078/2079
-390,BPCL,Butwal Power Company Limited,5,7.5,12.5,12/23/2022,2023-01-02 [Closed],,,2078/2079
-391,NEPSE,Nepal Stock Exchange Limited,,100,100,12/22/2022,,,,2078/2079
-392,CDS,CDS & Clearing Limited,,100,100,12/22/2022,,,,2078/2079
-393,NTC,Nepal Doorsanchar Company Limited,,40,40,12/22/2022,2023-01-02 [Closed],,,2078/2079
-394,NLBBL,Nerude Laghubitta Bittiya Sanstha Limited,22,1.16,23.16,12/22/2022,2023-01-31 [Closed],,,2078/2079
-395,MMFDB,Mirmire Laghubitta Bittiya Sanstha Limited,23,,23,12/22/2022,2023-01-04 [Closed],,,2078/2079
-396,KPCL,Kalika Power Company Limited,15,0.79,15.79,12/22/2022,2023-01-01 [Closed],,,2078/2079
-397,MERO,Mero Microfinance Laghubitta Bittiya Sanstha Limited,10,10,20,12/21/2022,2023-01-06 [Closed],,,2078/2079
-398,SIC,Sagarmatha Insurance Company Limited,12.4,0.66,13.06,12/21/2022,2023-02-10 [Closed],,,2078/2079
-399,GMFIL,Guheswori Merchant Banking & Finance Limited,6.5,0.34,6.84,12/21/2022,2023-02-03 [Closed],,,2078/2079
-400,RADHI,Radhi Bidyut Company Limited,4.75,0.25,5,12/21/2022,2022-12-28 [Closed],,,2078/2079
-401,CFCL,Central Finance Limited,,5,5,12/21/2022,2023-01-01 [Closed],,,2078/2079
-402,HBL,Himalayan Bank Limited,8,11.11,19.11,12/20/2022,2023-01-02 [Closed],,,2078/2079
-403,CBL,Civil Bank Limited,5,0.26,5.26,12/20/2022,2023-01-03 [Closed],,,2078/2079
-404,PFL,Pokhara Finance Limited,4,0.21,4.21,12/20/2022,2023-01-03 [Closed],,,2078/2079
-405,FOWAD,Forward Microfinance Laghubitta Bittiya Sanstha Limited,25,5,30,12/19/2022,2023-01-01 [Closed],,,2078/2079
-406,MNBBL,Muktinath Bikas Bank Limited,13.5,0.71,14.21,12/18/2022,2023-01-04 [Closed],,,2078/2079
-407,MLBL,Mahalaxmi Bikas Bank Limited,4,6.47,10.47,12/18/2022,2023-01-02 [Closed],,,2078/2079
-408,SICL,Shikhar Insurance Company Limited,16,0.84,16.84,12/16/2022,2023-01-31 [Closed],,,2078/2079
-409,NBL,Nepal Bank Limited,2,10,12,12/16/2022,2022-12-29 [Closed],,,2078/2079
-410,SIFC,Shree Investment Finance Company Limited,2.4,5.2,7.6,12/16/2022,2023-01-03 [Closed],,,2078/2079
-411,BHDC,Bindhyabasini Hydropower Development Company Limited,5,0.03,5.03,12/16/2022,2022-12-28 [Closed],,,2078/2079
-412,MHL,Mandakini Hydropower Limited,,5,5,12/16/2022,2023-01-05 [Closed],,,2078/2079
-413,SHIVM,Shivam Cements Limited,,10.53,10.53,12/15/2022,2023-01-04 [Closed],,,2078/2079
-414,PCBL,Prime Commercial Bank Limited,4,4.95,8.95,12/15/2022,2022-12-29 [Closed],,,2078/2079
-415,HIDCL,Hydroelectricity Investment and Development Company Limited,5,0.26,5.26,12/15/2022,2022-12-29 [Closed],,,2078/2079
-416,GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,4,0.21,4.21,12/14/2022,2023-01-04 [Closed],,,2078/2079
-417,NABIL,Nabil Bank Limited,18.5,11.5,30,12/12/2022,2023-01-02 [Closed],,,2078/2079
-418,PPCL,Panchthar Power Company Limited,,7,7,12/9/2022,2022-12-22 [Closed],,,2078/2079
-419,CHCL,Chilime Hydro power Company Limited,7.5,7.5,15,12/7/2022,2022-12-18 [Closed],,,2078/2079
-420,SBL,Siddhartha Bank Limited,12.5,0.66,13.16,12/7/2022,2022-12-28 [Closed],,,2078/2079
-421,RMDC,RMDC Laghubitta Bittiya Sanstha Limited,26,1.37,27.37,12/6/2022,2023-03-15 [Closed],,,2078/2079
-422,SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,26,1.37,27.37,12/6/2022,2023-03-12 [Closed],,,2078/2079
-423,NMB,NMB Bank Limited,,8.25,8.25,12/6/2022,2022-12-26 [Closed],,,2078/2079
-424,NIL,Neco Insurance Limited,15,0.79,15.79,12/5/2022,2023-01-17 [Closed],,,2078/2079
-425,MDB,Miteri Development Bank Limited,12.35,0.65,13,12/5/2022,2022-12-29 [Closed],,,2078/2079
-426,NLG,NLG Insurance Company Limited,10,0.53,10.53,12/4/2022,2023-03-27 [Closed],,,2078/2079
-427,NRN,NRN Infrastructure and Development Limited,,5.26,5.26,12/4/2022,2022-12-20 [Closed],,,2078/2079
-428,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,19,1,20,12/2/2022,2023-01-01 [Closed],,,2078/2079
-429,AHPC,Arun Valley Hydropower Development Company Limited,8,0.42,8.42,12/2/2022,2023-02-01 [Closed],,,2078/2079
-430,ICFC,ICFC Finance Limited,5,5,10,12/1/2022,2023-01-03 [Closed],,,2078/2079
-431,CCBL,Century Commercial Bank Limited,4.75,0.25,5,12/1/2022,2022-12-19 [Closed],,,2078/2079
-432,LBBL,Lumbini Bikas Bank Limited,3,9,12,11/29/2022,2022-12-28 [Closed],,,2078/2079
-433,SBI,Nepal SBI Bank Limited,3,7.53,10.53,11/29/2022,2022-12-28 [Closed],,,2078/2079
-434,NHDL,Nepal Hydro Developer Limited,5,0.03,5.03,11/28/2022,2022-12-26 [Closed],,,2078/2079
-435,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,8,3,11,11/27/2022,2022-12-30 [Closed],,,2078/2079
-436,HDL,Himalayan Distillery Limited,60,10,70,11/25/2022,2023-01-04 [Closed],,,2078/2079
-437,SHINE,Shine Resunga Development Bank Limited,13.3,0.7,14,11/24/2022,2022-12-27 [Closed],,,2078/2079
-438,UMRH,United Idi-Mardi and R.B. Hydropower Limited,,10.53,10.53,11/24/2022,2022-12-02 [Closed],,,2078/2079
-439,NEPS,Nepal Electronic Payment Systems Limited,,10,10,11/23/2022,,,,2078/2079
-440,RIDI,Ridi Power Company Limited,40,2.1,42.1,11/22/2022,2023-02-01 [Closed],,,2078/2079
-441,IGIL,IME General Insurance Limited,6,0.32,6.32,11/22/2022,2023-01-11 [Closed],,,2078/2079
-442,PRVU,Prabhu Bank Limited,6.5,1.5,8,11/18/2022,2022-12-16 [Closed],,,2078/2079
-443,PIC,Premier Insurance Company (Nepal) Limited,14.25,0.75,15,11/16/2022,2023-01-06 [Closed],,,2078/2079
-444,NIB,Nepal Investment Bank Limited,4,7,11,11/16/2022,2022-12-07 [Closed],,,2078/2079
-445,MEN,Mountain Energy Nepal Limited,,10.53,10.53,11/16/2022,2022-12-13 [Closed],,,2078/2079
-446,SIL,Siddhartha Insurance Limited,9,0.47,9.47,11/16/2022,2023-01-02 [Closed],,,2078/2079
-447,MEGA,Mega Bank Nepal Limited,4,3.79,7.79,11/16/2022,2022-12-09 [Closed],,,2078/2079
-448,UIC,United Insurance Company (Nepal) Limited,5,0.26,5.26,11/13/2022,2023-01-01 [Closed],,,2078/2079
-449,GBBL,Garima Bikas Bank Limited,13,1.5,14.5,11/11/2022,2022-12-23 [Closed],,,2078/2079
-450,MCML,Mega Capital Markets Limited,,24.5,24.5,11/10/2022,,,,2078/2079
-451,CARE,Care Ratings Nepal Limited,21.05,,21.05,11/8/2022,,,,2078/2079
-452,NSDCL,Nagarik Stock Dealer Company Ltd.,6.85,,6.85,11/8/2022,,,,2078/2079
-453,EBL,Everest Bank Limited,13,7.68,20.68,11/6/2022,2022-11-29 [Closed],,,2078/2079
-454,JALPA,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,11/6/2022,2023-06-06 [Closed],,,2078/2079
-455,UNL,Unilever Nepal Limited,,"1,215.00","1,215.00",11/3/2022,2022-11-20 [Closed],,,2078/2079
-456,SCB,Standard Chartered Bank Nepal Limited,,16.51,16.51,10/31/2022,2022-11-23 [Closed],,,2078/2079
-457,GBIME,Global IME Bank Limited,3,10.6,13.6,10/29/2022,2022-11-23 [Closed],,,2078/2079
-458,SANIMA,Sanima Bank Limited,10,0.98,10.98,10/23/2022,2022-12-05 [Closed],,,2078/2079
-459,LAXMICAP,Laxmi Capital Market Limited,7,7,14,10/22/2022,,,,2078/2079
-460,SHL,Soaltee Hotel Limited,5,21.32,26.32,10/19/2022,2022-12-22 [Closed],,,2078/2079
-461,BOKL,Bank of Kathmandu Limited,6,14.95,20.95,10/16/2022,2022-11-25 [Closed],,,2078/2079
-462,NICGF,NIC Asia Growth Fund,,13,13,10/16/2022,2022-11-01 [Closed],,,2078/2079
-463,NICBF,NIC ASIA Balanced Fund,,13,13,10/16/2022,2022-11-01 [Closed],,,2078/2079
-464,NCCB,Nepal Credit and Commerce Bank Limited,3.37,7.63,11,10/16/2022,2022-11-01 [Closed],,,2078/2079
-465,NADDF,NIC Asia Dynamic Debt Fund,,6,6,10/16/2022,2022-11-01 [Closed],,,2078/2079
-466,NIBLACE,NIBL Ace Capital Limited,,20,20,10/14/2022,,,,2078/2079
-467,SUCL,Sunrise Capital Limited (NCM/NIDC),,25,25,10/13/2022,,,,2078/2079
-468,NMBCAP,NMB Capital Limited,,21.05,21.05,10/12/2022,,,,2078/2079
-469,NBF2,Nabil Balanced Fund - 2,,7,7,10/12/2022,2022-11-04 [Closed],,,2078/2079
-470,NEF,Nabil Equity Fund,,5,5,10/12/2022,2022-11-04 [Closed],,,2078/2079
-471,KBL,Kumari Bank Limited,,12.5,12.5,9/30/2022,2022-10-31 [Closed],,,2078/2079
-472,BOKCML,BOK Capital Market Limited,,5.79,5.79,9/28/2022,,,,2078/2079
-473,RBBMBL,RBB Merchant Banking Limited,,7.5,7.5,9/27/2022,,,,2078/2079
-474,RURU,Ru Ru Jalbidhyut Pariyojana Limited,10,0.53,10.53,9/25/2022,2022-10-13 [Closed],,,2078/2079
-475,BNT,Bottlers Nepal (Terai) Limited,,60,60,9/24/2022,2023-01-04 [Closed],,,2078/2079
-476,BNL,Bottlers Nepal Limited (Balaju),,20,20,9/24/2022,2023-01-04 [Closed],,,2078/2079
-477,HATHY,Hathway Investment Nepal Limited,,10,10,9/23/2022,,,,2078/2079
-478,NIFRA,Nepal Infrastructure Bank Limited,,4.21,4.21,9/23/2022,2022-11-17 [Closed],,,2078/2079
-479,SIDCL,Siddhartha Capital Limited,,25,25,9/22/2022,,,,2078/2079
-480,CZBIL,Citizens Bank International Limited,,9,9,9/22/2022,2022-10-14 [Closed],,,2078/2079
-481,NLO,Nepal Lube Oil Limited,25,5,30,9/21/2022,2022-09-30 [Closed],,,2078/2079
-482,AKPL,Arun Kabeli Power Limited,10,0.53,10.53,9/20/2022,2022-11-04 [Closed],,,2078/2079
-483,SANCAP,Sanima Capital Limited,,15.79,15.79,9/14/2022,,,,2078/2079
-484,SAEF,Sanima Equity Fund,,22,22,9/13/2022,2022-09-25 [Closed],,,2078/2079
-485,SHPC,Sanima Mai Hydropower Limited,,5.26,5.26,9/6/2022,2022-09-28 [Closed],,,2078/2079
-486,SFMF,Sunrise First Mutual Fund,,12,12,8/31/2022,2022-09-14 [Closed],,,2078/2079
-487,NIBLSF,NIBL Sahabhagita Fund,,7.2,7.2,8/26/2022,2022-08-25 [Closed],,,2078/2079
-488,NIBLPF,NIBL Pragati Fund,,4.2,4.2,8/25/2022,2022-09-14 [Closed],,,2078/2079
-489,KCL,Kumari Capital Limited,,5,5,8/14/2022,,,,2078/2079
-490,SIGS2,Siddhartha Investment Growth Scheme-2,,10,10,8/11/2022,2022-08-23 [Closed],,,2078/2079
-491,SEF,Siddhartha Equity Fund,,9,9,8/11/2022,2022-08-23 [Closed],,,2078/2079
-492,NMBHF1,NMB Hybrid Fund L- 1,,21.05,21.05,8/5/2022,2022-08-16 [Closed],,,2078/2079
-493,NMB50,NMB 50,,21.05,21.05,8/5/2022,2022-08-16 [Closed],,,2078/2079
-494,NICACL,NIC Asia Capital Limited,,55,55,8/2/2022,,,,2078/2079
-495,LUK,Laxmi Unnati Kosh,,5,5,8/2/2022,2022-08-23 [Closed],,,2078/2079
-496,LEMF,Laxmi Equity Fund,,5,5,8/2/2022,2022-08-23 [Closed],,,2078/2079
-497,NICL,Nepal Insurance Company Limited,8,0.42,8.42,,2022-12-23 [Closed],,,2078/2079
-498,PLI,Prabhu Life Insurance Limited,9.8,0.52,10.32,5/17/2023,2023-05-26 [Closed],,,2077/2078
-499,GLICL,Gurans Life Insurance Company Limited,13.27,,13.27,3/26/2023,2023-04-06 [Closed],,,2077/2078
-500,ULI,Union Life Insurance Company Limited,8.97,,8.97,12/28/2022,2023-01-30 [Closed],,,2077/2078
-501,PLIC,Prime Life Insurance Company Limited,13,0.68,13.68,10/20/2022,2022-12-23 [Closed],,,2077/2078
-502,NLIC,Nepal Life Insurance Company Limited,,15.79,15.79,9/16/2022,2022-11-04 [Closed],,,2077/2078
-503,NLICL,National Life Insurance Company Limited,15,0.79,15.79,9/13/2022,2022-11-24 [Closed],,,2077/2078
-504,ALICL,Asian Life Insurance Company Limited,14.5,0.76,15.26,8/7/2022,2022-09-20 [Closed],,,2077/2078
-505,CIT,Citizen Investment Trust,30,1.58,31.58,6/25/2022,2022-08-10 [Closed],,,2077/2078
-506,LGIL,Lumbini General Insurance Limited,9.5,0.5,10,6/23/2022,2022-06-29 [Closed],,,2077/2078
-507,NRIC,Nepal Reinsurance Company Limited,5,0.26,5.26,6/19/2022,2022-09-04 [Closed],,,2077/2078
-508,EDBL,Excel Development Bank Limited,8.5,0.45,8.95,6/14/2022,2022-07-12 [Closed],,,2077/2078
-509,WNLB,Wean Nepal Laghubitta Bittiya Sanstha Limited,9.33,0.5,9.83,3/28/2022,2022-06-01 [Closed],,,2077/2078
-510,NICL,Nepal Insurance Company Limited,11,0.58,11.58,3/22/2022,2022-05-31 [Closed],,,2077/2078
-511,NTC,Nepal Doorsanchar Company Limited,20,20,40,3/15/2022,2022-03-25 [Closed],,,2077/2078
-512,STC,Salt Trading Corporation Limited,10,0.5,10.5,3/13/2022,2022-03-29 [Closed],,,2077/2078
-513,SIC,Sagarmatha Insurance Company Limited,20,1.05,21.05,2/25/2022,2022-04-29 [Closed],,,2077/2078
-514,NSLB,Naya Sarathi Laghubitta Bittiya Sanstha Limited,19,1,20,2/23/2022,2022-04-06 [Closed],,,2077/2078
-515,EIC,Everest Insurance Company Limited,6,0.32,6.32,2/23/2022,2022-04-25 [Closed],,,2077/2078
-516,JBLB,Jeevan Bikas Laghubitta Bittiya Sanstha Limited,70,3.68,73.68,2/20/2022,2022-03-26 [Closed],,,2077/2078
-517,IGIL,IME General Insurance Limited,7,0.37,7.37,2/17/2022,2022-04-08 [Closed],,,2077/2078
-518,NHPC,National Hydro Power Company Limited,18.53,0.98,19.5,2/14/2022,2022-02-25 [Closed],,,2077/2078
-519,ACLBSL,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,21,,21,2/9/2022,2022-03-31 [Closed],,,2077/2078
-520,PICL,Prudential Insurance Company Limited,7,0.37,7.37,2/8/2022,2022-04-07 [Closed],,,2077/2078
-521,SIL,Siddhartha Insurance Limited,15,0.79,15.79,2/3/2022,2022-03-31 [Closed],,,2077/2078
-522,NLG,NLG Insurance Company Limited,10,0.53,10.53,1/28/2022,2022-03-20 [Closed],,,2077/2078
-523,KLBSL,Kisan Laghubitta Bittiya Sanstha Limited(Former NRN Laghubitta Bittiya Sanstha Limited),20,,20,1/17/2022,2022-06-03 [Closed],,,2077/2078
-524,NIL,Neco Insurance Limited,15,0.79,15.79,1/17/2022,2022-03-15 [Closed],,,2077/2078
-525,PIC,Premier Insurance Company (Nepal) Limited,14.25,0.75,15,1/14/2022,2022-01-19 [Closed],,,2077/2078
-526,PRIN,Prabhu Insurance Company Limited,11,0.58,11.58,1/14/2022,2022-03-31 [Closed],,,2077/2078
-527,JFL,Janaki Finance Company Limited,15,0.79,15.79,1/11/2022,2022-02-07 [Closed],,,2077/2078
-528,GBBL,Garima Bikas Bank Limited,16,,16,1/6/2022,2022-03-18 [Closed],,,2077/2078
-529,HGI,Himalayan General Insurance Company Limited,6.65,0.35,7,1/6/2022,2022-02-28 [Closed],,,2077/2078
-530,KPCL,Kalika Power Company Limited,15,0.79,15.79,12/24/2021,2022-01-03 [Closed],,,2077/2078
-531,NEPSE,Nepal Stock Exchange Limited,66.67,100,166.67,12/23/2021,2022-01-02 [Closed],,,2077/2078
-532,RBBL,Rastriya Banijya Bank Limited,30,3,33,12/23/2021,2022-01-03 [Closed],,,2077/2078
-533,HDL,Himalayan Distillery Limited,75,25,100,12/22/2021,2021-12-31 [Closed],,,2077/2078
-534,CBL,Civil Bank Limited,5,0.26,5.26,12/21/2021,2022-01-04 [Closed],,,2077/2078
-535,RLFL,Reliance Finance Limited,15,0.79,15.79,12/20/2021,2022-01-04 [Closed],,,2077/2078
-536,NRN,NRN Infrastructure and Development Limited,5,0.26,5.26,12/20/2021,2021-12-30 [Closed],,,2077/2078
-537,SMFDB,Summit Laghubitta Bittiya Sanstha Limited,25.29,,25.29,12/17/2021,2021-12-30 [Closed],,,2077/2078
-538,ADBL,Agricultural Development Bank Limited,20,1.05,21.05,12/17/2021,2021-12-31 [Closed],,,2077/2078
-539,PFL,Pokhara Finance Limited,8.08,0.43,8.5,12/17/2021,2022-01-05 [Closed],,,2077/2078
-540,NHDL,Nepal Hydro Developer Limited,7,0.37,7.37,12/17/2021,2021-12-28 [Closed],,,2077/2078
-541,PROFL,Progressive Finance Limited,6,0.32,6.32,12/17/2021,2022-01-03 [Closed],,,2077/2078
-542,CCBL,Century Commercial Bank Limited,5.75,0.3,6.05,12/17/2021,2022-01-03 [Closed],,,2077/2078
-543,CFCL,Central Finance Limited,7.7,3.3,11,12/16/2021,2022-01-02 [Closed],,,2077/2078
-544,BPCL,Butwal Power Company Limited,10,10,20,12/15/2021,2021-12-26 [Closed],,,2077/2078
-545,MPFL,Multipurpose Finance Company Limited,13,0.68,13.68,12/15/2021,2022-01-05 [Closed],,,2077/2078
-546,AKBSL,Adhikhola Laghubitta Bittiya Sanstha Limited,19,1,20,12/13/2021,2022-01-02 [Closed],,,2077/2078
-547,GFCL,Goodwill Finance Company Limited,9.1,3.9,13,12/13/2021,2021-12-31 [Closed],,,2077/2078
-548,MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,12/12/2021,2022-01-03 [Closed],,,2077/2078
-549,MFIL,Manjushree Finance Limited,40,6,46,12/10/2021,2021-12-30 [Closed],,,2077/2078
-550,CHCL,Chilime Hydro power Company Limited,7.5,7.5,15,12/10/2021,2021-12-30 [Closed],,,2077/2078
-551,MDB,Miteri Development Bank Limited,13.3,0.7,14,12/9/2021,2021-12-29 [Closed],,,2077/2078
-552,FOWAD,Forward Microfinance Laghubitta Bittiya Sanstha Limited,35,7,42,12/8/2021,2021-12-31 [Closed],,,2077/2078
-553,JSLBB,Janautthan Samudayic Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,12/6/2021,2022-01-05 [Closed],,,2077/2078
-554,GMFIL,Guheswori Merchant Banking & Finance Limited,10,0.53,10.53,12/2/2021,2022-01-06 [Closed],,,2077/2078
-555,RMDC,RMDC Laghubitta Bittiya Sanstha Limited,20,5,25,12/1/2021,2022-01-02 [Closed],,,2077/2078
-556,SIFC,Shree Investment Finance Company Limited,7.7,3.3,11,12/1/2021,2022-01-06 [Closed],,,2077/2078
-557,NCCB,Nepal Credit and Commerce Bank Limited,8,0.42,8.42,12/1/2021,2021-12-27 [Closed],,,2077/2078
-558,MLBL,Mahalaxmi Bikas Bank Limited,20,1.05,21.05,11/29/2021,2021-12-28 [Closed],,,2077/2078
-559,NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,29.5,1.55,31.05,11/26/2021,2021-12-28 [Closed],,,2077/2078
-560,SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,11/25/2021,2021-12-20 [Closed],,,2077/2078
-561,JBBL,Jyoti Bikash Bank Limited,11,4.5,15.5,11/25/2021,2021-12-24 [Closed],,,2077/2078
-562,KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,13,,13,11/25/2021,2022-01-05 [Closed],,,2077/2078
-563,SBI,Nepal SBI Bank Limited,3.5,1.81,5.31,11/24/2021,2021-12-22 [Closed],,,2077/2078
-564,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,27.7,1.46,29.16,11/21/2021,2021-12-30 [Closed],,,2077/2078
-565,NMFBS,National Laghubitta Bittiya Sanstha Limited,40,5,45,11/18/2021,2022-01-11 [Closed],,,2077/2078
-566,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,27,3,30,11/18/2021,2021-12-22 [Closed],,,2077/2078
-567,VLBS,Vijaya Laghubitta Bittiya Sanstha Limited,20.03,1.05,21.09,11/16/2021,2021-12-27 [Closed],,,2077/2078
-568,WOMI,Womi Laghubitta Bittiya Sanstha Limited,20,,20,11/12/2021,2021-12-16 [Closed],,,2077/2078
-569,SLBS,Suryodaya Laghubitta Bittiya Sanstha Limited,20,,20,11/11/2021,2021-12-16 [Closed],,,2077/2078
-570,PRVU,Prabhu Bank Limited,12,0.63,12.63,11/11/2021,2021-12-19 [Closed],,,2077/2078
-571,LBL,Laxmi Bank Limited,8,3.5,11.5,11/11/2021,2021-12-10 [Closed],,,2077/2078
-572,PCBL,Prime Commercial Bank Limited,16,0.63,16.63,11/9/2021,2021-12-08 [Closed],,,2077/2078
-573,MEGA,Mega Bank Nepal Limited,10,2.07,12.07,11/9/2021,2021-11-30 [Closed],,,2077/2078
-574,SRBL,Sunrise Bank Limited,6.65,0.35,7,11/9/2021,2021-12-19 [Closed],,,2077/2078
-575,NABIL,Nabil Bank Limited,33.6,4.4,38,11/3/2021,2021-12-31 [Closed],,,2077/2078
-576,MKLB,Manakamana Smart Laghubitta Bittiya Sanstha Limited,17,,17,11/2/2021,2021-12-19 [Closed],,,2077/2078
-577,HIDCL,Hydroelectricity Investment and Development Company Limited,8,0.42,8.42,11/2/2021,2021-12-20 [Closed],,,2077/2078
-578,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,20,5,25,11/1/2021,2021-12-10 [Closed],,,2077/2078
-579,SHINE,Shine Resunga Development Bank Limited,10.93,0.57,11.5,11/1/2021,2021-12-03 [Closed],,,2077/2078
-580,MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,26,,26,10/31/2021,2021-12-27 [Closed],,,2077/2078
-581,MNBBL,Muktinath Bikas Bank Limited,17.58,0.93,18.5,10/31/2021,2021-12-01 [Closed],,,2077/2078
-582,NMB,NMB Bank Limited,12.5,3.3,15.8,10/31/2021,2021-12-22 [Closed],,,2077/2078
-583,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,30,,30,10/29/2021,2021-12-29 [Closed],,,2077/2078
-584,NMBMF,NMB Laghubitta Bittiya Sanstha Limited,21.5,1.13,22.63,10/29/2021,2021-12-24 [Closed],,,2077/2078
-585,EBL,Everest Bank Limited,6,4.32,10.32,10/29/2021,2021-12-03 [Closed],,,2077/2078
-586,NADEP,NADEP Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,10/28/2021,2022-01-17 [Closed],,,2077/2078
-587,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,19,1,20,10/28/2021,2021-12-22 [Closed],,,2077/2078
-588,BOKL,Bank of Kathmandu Limited,10,4,14,10/26/2021,2021-11-26 [Closed],,,2077/2078
-589,LBBL,Lumbini Bikas Bank Limited,13,0.68,13.68,10/26/2021,2021-12-13 [Closed],,,2077/2078
-590,NBL,Nepal Bank Limited,14,3,17,10/25/2021,2021-12-07 [Closed],,,2077/2078
-591,SBL,Siddhartha Bank Limited,14.25,0.75,15,10/25/2021,2022-01-02 [Closed],,,2077/2078
-592,SMB,Support Laghubitta Bittiya Sanstha Limited,30,1.58,31.58,10/24/2021,2021-12-16 [Closed],,,2077/2078
-593,ICFC,ICFC Finance Limited,10,4,14,10/17/2021,2021-12-09 [Closed],,,2077/2078
-594,GIMES1,Global IME Samunnat Scheme 1,,100,100,10/11/2021,2021-12-08 [Closed],,,2077/2078
-595,NLBBL,Nerude Laghubitta Bittiya Sanstha Limited,21.49,1.13,22.62,10/11/2021,2021-12-12 [Closed],,,2077/2078
-596,GBIME,Global IME Bank Limited,10,3.5,13.5,10/11/2021,2021-11-29 [Closed],,,2077/2078
-597,RRHP,Rairang Hydropower Development Company Limited.,,12.6,12.6,10/11/2021,2021-10-21 [Closed],,,2077/2078
-598,MLBSL,Mahila Laghubitta Bittiya Sanstha Limited,47.5,2.5,50,10/10/2021,2021-12-02 [Closed],,,2077/2078
-599,SHIVM,Shivam Cements Limited,,29,29,10/10/2021,2021-10-25 [Closed],,,2077/2078
-600,NBB,Nepal Bangladesh Bank Limited,12,3.5,15.5,10/10/2021,2021-11-01 [Closed],,,2077/2078
-601,HBL,Himalayan Bank Limited,21.38,4.62,26,10/8/2021,2021-12-26 [Closed],,,2077/2078
-602,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,19,6,25,10/8/2021,2021-12-21 [Closed],,,2077/2078
-603,MBL,Machhapuchchhre Bank Limited,13.3,0.7,14,10/8/2021,2021-10-24 [Closed],,,2077/2078
-604,SABSL,Sabaiko Laghubitta Bittiya Sanstha Limited,31.05,1.63,32.68,10/6/2021,2021-12-03 [Closed],,,2077/2078
-605,GILB,Global IME Laghubitta Bittiya Sanstha Limited,28,,28,10/6/2021,2021-11-30 [Closed],,,2077/2078
-606,SADBL,Shangrila Development Bank Limited,10,0.53,10.53,10/6/2021,2021-10-22 [Closed],,,2077/2078
-607,MERO,Mero Microfinance Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,10/5/2021,2021-11-25 [Closed],,,2077/2078
-608,SCB,Standard Chartered Bank Nepal Limited,10,3.06,13.06,10/5/2021,2021-11-26 [Closed],,,2077/2078
-609,NICLBSL,NIC Asia Laghubitta Bittiya Sanstha Limited,,5.41,5.41,10/5/2021,2021-11-09 [Closed],,,2077/2078
-610,ALBSL,Asha Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,10/4/2021,2021-10-29 [Closed],,,2077/2078
-611,NIB,Nepal Investment Bank Limited,12.61,3.39,16,10/4/2021,2021-11-22 [Closed],,,2077/2078
-612,NIBPO,Nepal Investment Bank Limited Promoter Share,12.61,3.39,16,10/4/2021,2021-11-22 [Closed],,,2077/2078
-613,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,32.3,1.7,34,10/3/2021,2021-12-09 [Closed],,,2077/2078
-614,LLBS,Laxmi Laghubitta Bittiya Sanstha Limited,20,7.37,27.37,10/3/2021,2021-11-16 [Closed],,,2077/2078
-615,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,10/3/2021,2021-11-16 [Closed],,,2077/2078
-616,HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),19,1,20,9/30/2021,2021-10-31 [Closed],,,2077/2078
-617,RHPC,Ridi Hydropower Development Company Limited,,12.6,12.6,9/30/2021,2021-10-19 [Closed],,,2077/2078
-618,KBL,Kumari Bank Limited,6,2.67,8.67,9/28/2021,2021-10-25 [Closed],,,2077/2078
-619,GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,16.91,0.89,17.8,9/27/2021,2021-10-25 [Closed],,,2077/2078
-620,CZBIL,Citizens Bank International Limited,12.91,3.09,16,9/26/2021,2021-10-08 [Closed],,,2077/2078
-621,KSBBL,Kamana Sewa Bikas Bank Limited,18.5,0.97,19.47,9/24/2021,2021-10-27 [Closed],,,2077/2078
-622,SANIMA,Sanima Bank Limited,17,0.89,17.89,9/23/2021,2021-10-24 [Closed],,,2077/2078
-623,NIFRA,Nepal Infrastructure Bank Limited,8,0.42,8.42,9/21/2021,2021-11-25 [Closed],,,2077/2078
-624,AHPC,Arun Valley Hydropower Development Company Limited,10,0.53,10.53,9/16/2021,2021-09-27 [Closed],,,2077/2078
-625,NLO,Nepal Lube Oil Limited,30,5,35,9/12/2021,2021-09-21 [Closed],,,2077/2078
-626,SDLBSL,Sadhana Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,9/10/2021,2021-10-20 [Closed],,,2077/2078
-627,SHPC,Sanima Mai Hydropower Limited,10,0.53,10.53,9/10/2021,2021-10-04 [Closed],,,2077/2078
-628,NEF,Nabil Equity Fund,,40,40,9/8/2021,2021-09-27 [Closed],,,2077/2078
-629,NBF2,Nabil Balanced Fund - 2,,35,35,9/8/2021,2021-09-27 [Closed],,,2077/2078
-630,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,25,,25,9/8/2021,2021-10-29 [Closed],,,2077/2078
-631,UNL,Unilever Nepal Limited,,650,650,9/7/2021,2021-10-11 [Closed],,,2077/2078
-632,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,9/5/2021,2021-11-21 [Closed],,,2077/2078
-633,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,9/2/2021,2021-09-28 [Closed],,,2077/2078
-634,SAEF,Sanima Equity Fund,,33,33,9/1/2021,2021-09-17 [Closed],,,2077/2078
-635,SLCF,Sanima Large Cap Fund,,4,4,9/1/2021,2021-09-17 [Closed],,,2077/2078
-636,CMF1,Citizens Mutual Fund-1,,40,40,8/18/2021,2021-09-09 [Closed],,,2077/2078
-637,CMF2,Citizens Mutual Fund - 2,,40,40,8/18/2021,2021-09-09 [Closed],,,2077/2078
-638,AKPL,Arun Kabeli Power Limited,17,0.89,17.89,8/18/2021,2021-08-31 [Closed],,,2077/2078
-639,RURU,Ru Ru Jalbidhyut Pariyojana Limited,10,0.53,10.53,8/18/2021,2021-09-23 [Closed],,,2077/2078
-640,NMB50,NMB 50,,30,30,8/17/2021,2021-09-03 [Closed],,,2077/2078
-641,NMBHF1,NMB Hybrid Fund L- 1,,20,20,8/17/2021,2021-09-03 [Closed],,,2077/2078
-642,API,Api Power Company Limited,10.5,0.55,11.05,8/17/2021,2021-09-03 [Closed],,,2077/2078
-643,SFMF,Sunrise First Mutual Fund,,50,50,8/16/2021,2021-09-01 [Closed],,,2077/2078
-644,NGPL,Ngadi Group Power Limited,20,1.05,21.05,8/15/2021,2021-09-03 [Closed],,,2077/2078
-645,MMFDB,Mirmire Laghubitta Bittiya Sanstha Limited,20,,20,8/15/2021,2022-01-03 [Closed],,,2077/2078
-646,SPDL,Synergy Power Development Limited,10,0.53,10.53,8/9/2021,2021-08-20 [Closed],,,2077/2078
-647,SEF,Siddhartha Equity Fund,,30,30,8/6/2021,2021-08-16 [Closed],,,2077/2078
-648,SIGS2,Siddhartha Investment Growth Scheme-2,,30,30,8/6/2021,2021-08-16 [Closed],,,2077/2078
-649,KEF,Kumari Equity Fund,,5,5,8/2/2021,2021-08-09 [Closed],,,2077/2078
-650,NICGF,NIC Asia Growth Fund,,30,30,8/1/2021,2021-09-12 [Closed],,,2077/2078
-651,NICBF,NIC ASIA Balanced Fund,,30,30,8/1/2021,2021-09-12 [Closed],,,2077/2078
-652,NADDF,NIC Asia Dynamic Debt Fund,,10,10,8/1/2021,2021-08-12 [Closed],,,2077/2078
-653,NIBLPF,NIBL Pragati Fund,,50,50,7/30/2021,2021-08-13 [Closed],,,2077/2078
-654,NIBLSF,NIBL Sahabhagita Fund,,50,50,7/30/2021,2021-07-29 [Closed],,,2077/2078
-655,NIBSF1,NIBL Samriddhi Fund 1,,35,35,7/30/2021,2021-08-13 [Closed],,,2077/2078
-656,LEMF,Laxmi Equity Fund,,35,35,7/22/2021,2021-07-30 [Closed],,,2077/2078
-657,LUK,Laxmi Unnati Kosh,,25,25,7/20/2021,2021-07-28 [Closed],,,2077/2078
-658,GBIMEL,Global IME Capital Limited,70,30,100,,,,,2077/2078
-659,HATHY,Hathway Investment Nepal Limited,25,30,55,,,,,2077/2078
-660,ICRA,ICRA Nepal Limited,20,31.32,51.32,,,,,2077/2078
-661,NICACL,NIC Asia Capital Limited,,48,48,,,,,2077/2078
-662,PRABHU,Prabhu Capital Limited,28.39,17.61,46,,,,,2077/2078
-663,SIDCL,Siddhartha Capital Limited,,40,40,,,,,2077/2078
-664,SUCL,Sunrise Capital Limited (NCM/NIDC),,40,40,,,,,2077/2078
-665,CDS,CDS & Clearing Limited,,40,40,,,,,2077/2078
-666,NABILINV,Nabil Investment Banking Limited,35,1.84,36.84,,,,,2077/2078
-667,NMBCAP,NMB Capital Limited,,30,30,,,,,2077/2078
-668,NIBLACE,NIBL Ace Capital Limited,,26,26,,,,,2077/2078
-669,SANCAP,Sanima Capital Limited,,25,25,,,,,2077/2078
-670,CBIL,Citizens Capital Ltd. (Former CBIL Capital ),,25,25,,,,,2077/2078
-671,NBCL,Nepal Bangladesh Capital Limited,,19,19,,,,,2077/2078
-672,MuktinathCap,Muktinath Capital Limited,,18,18,,,,,2077/2078
-673,BOKCML,BOK Capital Market Limited,,18,18,,,,,2077/2078
-674,MCML,Mega Capital Markets Limited,,16,16,,,,,2077/2078
-675,GCL,Garima Capital Limited,,15.65,15.65,,,,,2077/2078
-676,MCL,Machhapuchchhre Capital Limited,7,6.4,13.4,,,,,2077/2078
-677,RBBMBL,RBB Merchant Banking Limited,,10,10,,,,,2077/2078
-678,LGIL,Lumbini General Insurance Limited,9.52,0.48,10,,,,,2077/2078
-679,CCML,Century Capital Markets Limited,,6.25,6.25,,,,,2077/2078
-680,SLI,Sanima Life Insurance Company Limited,4.2,0.22,4.42,4/13/2022,2022-06-22 [Closed],,,2076/2077
-681,NLIC,Nepal Life Insurance Company Limited,14,0.74,14.74,2/6/2022,2022-03-21 [Closed],,,2076/2077
-682,NLICL,National Life Insurance Company Limited,19,1,20,1/27/2022,2022-03-06 [Closed],,,2076/2077
-683,LICN,Life Insurance Corporation Nepal Limited,20,1.05,21.05,12/24/2021,2022-02-07 [Closed],,,2076/2077
-684,RLI,Reliance Life Insurance Limited,,5.26,5.26,12/5/2021,2021-12-12 [Closed],,,2076/2077
-685,ALICL,Asian Life Insurance Company Limited,25,2,27,11/17/2021,2022-01-26 [Closed],,,2076/2077
-686,JLI,Jyoti Life Insurance Company Limited,10,0.53,10.53,11/1/2021,2022-02-07 [Closed],,,2076/2077
-687,SLICL,Surya Life Insurance Company Limited,12.7,0.67,13.37,10/31/2021,2021-12-24 [Closed],,,2076/2077
-688,PLIC,Prime Life Insurance Company Limited,15,0.87,15.87,9/26/2021,2021-11-26 [Closed],,,2076/2077
-689,RURU,Ru Ru Jalbidhyut Pariyojana Limited,,10.53,10.53,8/18/2021,2021-09-23 [Closed],,,2076/2077
-690,NRIC,Nepal Reinsurance Company Limited,16.5,2.5,19,6/22/2021,2021-12-29 [Closed],,,2076/2077
-691,NAGRO,Nepal Agro Laghubitta Bittiya Sanstha Limited,14,,14,6/14/2021,2021-06-22 [Closed],,,2076/2077
-692,NLG,NLG Insurance Company Limited,10,0.53,10.53,6/1/2021,2021-07-29 [Closed],,,2076/2077
-693,NIL,Neco Insurance Limited,15.5,0.82,16.32,5/24/2021,2021-07-02 [Closed],,,2076/2077
-694,SIC,Sagarmatha Insurance Company Limited,11,0.58,11.58,5/19/2021,2021-07-01 [Closed],,,2076/2077
-695,RADHI,Radhi Bidyut Company Limited,36.5,,36.5,5/17/2021,2021-06-29 [Closed],,,2076/2077
-696,LGIL,Lumbini General Insurance Limited,5,5,10,4/16/2021,2021-05-28 [Closed],,,2076/2077
-697,EDBL,Excel Development Bank Limited,12,0.63,12.63,4/9/2021,2021-09-17 [Closed],,,2076/2077
-698,STC,Salt Trading Corporation Limited,20,5,25,4/5/2021,2021-10-19 [Closed],,,2076/2077
-699,CIT,Citizen Investment Trust,9,8.89,17.89,4/4/2021,2021-06-22 [Closed],,,2076/2077
-700,SIL,Siddhartha Insurance Limited,12,3.79,15.79,3/25/2021,2021-05-28 [Closed],,,2076/2077
-701,SLBS,Suryodaya Laghubitta Bittiya Sanstha Limited,15.35,0.81,16.15,3/15/2021,2021-04-01 [Closed],,,2076/2077
-702,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,17.81,,17.81,3/9/2021,2021-03-31 [Closed],,,2076/2077
-703,MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,12,0.63,12.63,3/9/2021,2021-03-30 [Closed],,,2076/2077
-704,NHDL,Nepal Hydro Developer Limited,15,0.79,15.79,3/7/2021,2021-03-16 [Closed],,,2076/2077
-705,RLFL,Reliance Finance Limited,10,0.53,10.53,3/5/2021,2021-04-23 [Closed],,,2076/2077
-706,KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,10,,10,3/5/2021,2021-04-04 [Closed],,,2076/2077
-707,EIC,Everest Insurance Company Limited,8,0.42,8.42,3/5/2021,2021-05-12 [Closed],,,2076/2077
-708,NTC,Nepal Doorsanchar Company Limited,,40,40,3/3/2021,2021-03-12 [Closed],,,2076/2077
-709,SADBL,Shangrila Development Bank Limited,5,0.26,5.26,2/28/2021,2021-03-23 [Closed],,,2076/2077
-710,ACLBSL,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,8.85,,8.85,2/24/2021,2021-03-31 [Closed],,,2076/2077
-711,NSLB,Naya Sarathi Laghubitta Bittiya Sanstha Limited,8.12,0.43,8.55,2/24/2021,2021-04-01 [Closed],,,2076/2077
-712,IGIL,IME General Insurance Limited,7,0.37,7.37,2/17/2021,2021-04-15 [Closed],,,2076/2077
-713,HGI,Himalayan General Insurance Company Limited,3,3.75,6.75,2/16/2021,2021-05-27 [Closed],,,2076/2077
-714,MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,2/14/2021,2021-03-23 [Closed],,,2076/2077
-715,PRIN,Prabhu Insurance Company Limited,10,0.53,10.53,2/14/2021,2021-05-09 [Closed],,,2076/2077
-716,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,15,5,20,2/11/2021,2021-03-23 [Closed],,,2076/2077
-717,PICL,Prudential Insurance Company Limited,8,0.42,8.42,2/8/2021,2021-05-02 [Closed],,,2076/2077
-718,MLBL,Mahalaxmi Bikas Bank Limited,8.8,0.46,9.26,2/3/2021,2021-03-16 [Closed],,,2076/2077
-719,JSLBB,Janautthan Samudayic Laghubitta Bittiya Sanstha Limited,49.4,2.6,52,2/2/2021,2021-05-06 [Closed],,,2076/2077
-720,SABSL,Sabaiko Laghubitta Bittiya Sanstha Limited,10.5,0.55,11.05,1/31/2021,2021-03-12 [Closed],,,2076/2077
-721,NICL,Nepal Insurance Company Limited,8,2,10,1/22/2021,2021-03-30 [Closed],,,2076/2077
-722,MSMBS,Mahila Sahayatra Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,1/21/2021,2021-03-14 [Closed],,,2076/2077
-723,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,1/18/2021,2021-02-12 [Closed],,,2076/2077
-724,GRDBL,Green Development Bank Limited,3.8,0.2,4,1/13/2021,2021-03-30 [Closed],,,2076/2077
-725,PIC,Premier Insurance Company (Nepal) Limited,,11.05,11.05,1/12/2021,2021-03-24 [Closed],,,2076/2077
-726,CBL,Civil Bank Limited,8,0.42,8.42,1/12/2021,2021-02-05 [Closed],,,2076/2077
-727,HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),3.5,0.18,3.68,1/12/2021,2021-03-04 [Closed],,,2076/2077
-728,NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,13,0.68,13.68,1/10/2021,2021-02-23 [Closed],,,2076/2077
-729,NLBBL,Nerude Laghubitta Bittiya Sanstha Limited,8,0.42,8.42,1/10/2021,2021-02-19 [Closed],,,2076/2077
-730,TRH,Taragaon Regency Hotel Limited,,10,10,1/8/2021,2021-02-12 [Closed],,,2076/2077
-731,FOWAD,Forward Microfinance Laghubitta Bittiya Sanstha Limited,25,6.58,31.58,1/7/2021,2021-02-17 [Closed],,,2076/2077
-732,NIBPO,Nepal Investment Bank Limited Promoter Share,13,5.5,18.5,1/7/2021,2021-01-06 [Closed],,,2076/2077
-733,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,15,0.79,15.79,1/7/2021,2021-02-26 [Closed],,,2076/2077
-734,SICL,Shikhar Insurance Company Limited,27.77,1.46,29.23,1/5/2021,2021-03-10 [Closed],,,2076/2077
-735,NMFBS,National Laghubitta Bittiya Sanstha Limited,21,6,27,1/4/2021,2021-02-26 [Closed],,,2076/2077
-736,NRN,NRN Infrastructure and Development Limited,2.85,0.15,3,1/1/2021,2021-01-25 [Closed],,,2076/2077
-737,CFCL,Central Finance Limited,7,3,10,12/28/2020,2021-01-25 [Closed],,,2076/2077
-738,GBBL,Garima Bikas Bank Limited,13.5,0.71,14.21,12/27/2020,2021-01-25 [Closed],,,2076/2077
-739,SFFIL,Srijana Finance Limited,13.59,0.68,14.27,12/24/2020,2021-03-14 [Closed],,,2076/2077
-740,NEPSE,Nepal Stock Exchange Limited,20,30,50,12/23/2020,2021-01-02 [Closed],,,2076/2077
-741,NABIL,Nabil Bank Limited,33.5,1.76,35.26,12/22/2020,2020-12-30 [Closed],,,2076/2077
-742,NGPL,Ngadi Group Power Limited,10,0.53,10.53,12/22/2020,2020-12-30 [Closed],,,2076/2077
-743,VLBS,Vijaya Laghubitta Bittiya Sanstha Limited,19,1,20,12/21/2020,2021-01-01 [Closed],,,2076/2077
-744,NMB,NMB Bank Limited,13,3.2,16.2,12/21/2020,2020-12-31 [Closed],,,2076/2077
-745,PCBL,Prime Commercial Bank Limited,15,,15,12/21/2020,2021-01-04 [Closed],,,2076/2077
-746,BPCL,Butwal Power Company Limited,10,15,25,12/20/2020,2021-01-01 [Closed],,,2076/2077
-747,LLBS,Laxmi Laghubitta Bittiya Sanstha Limited,15,8.16,23.16,12/20/2020,2021-01-01 [Closed],,,2076/2077
-748,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,19.01,1,20.01,12/20/2020,2021-03-12 [Closed],,,2076/2077
-749,NIB,Nepal Investment Bank Limited,13,5.5,18.5,12/20/2020,2021-01-06 [Closed],,,2076/2077
-750,SHINE,Shine Resunga Development Bank Limited,13,,13,12/20/2020,2020-12-31 [Closed],,,2076/2077
-751,GFCL,Goodwill Finance Company Limited,8.4,3.6,12,12/20/2020,2021-01-01 [Closed],,,2076/2077
-752,NCCB,Nepal Credit and Commerce Bank Limited,10.27,0.54,10.81,12/20/2020,2021-01-05 [Closed],,,2076/2077
-753,PFL,Pokhara Finance Limited,5,0.26,5.26,12/20/2020,2021-01-01 [Closed],,,2076/2077
-754,KSBBL,Kamana Sewa Bikas Bank Limited,4.4,0.23,4.63,12/20/2020,2020-12-31 [Closed],,,2076/2077
-755,HDL,Himalayan Distillery Limited,50,50,100,12/18/2020,2021-01-01 [Closed],,,2076/2077
-756,JBBL,Jyoti Bikash Bank Limited,10,,10,12/18/2020,2021-01-13 [Closed],,,2076/2077
-757,NBL,Nepal Bank Limited,12,4,16,12/17/2020,2020-12-31 [Closed],,,2076/2077
-758,MEGA,Mega Bank Nepal Limited,10,3.05,13.05,12/17/2020,2021-01-01 [Closed],,,2076/2077
-759,TMDBL,Tinau Mission Development Bank Limited,6,,6,12/17/2020,2021-01-15 [Closed],,,2076/2077
-760,CHL,Chhyangdi Hydropower Company Limited,5,0.26,5.26,12/16/2020,2021-01-01 [Closed],,,2076/2077
-761,SPDL,Synergy Power Development Limited,4.75,0.25,5,12/16/2020,2020-12-27 [Closed],,,2076/2077
-762,SPARS,Sparsha Laghubitta Bittiya Sanstha Limited,19.5,1.03,20.53,12/15/2020,2020-12-30 [Closed],,,2076/2077
-763,LBL,Laxmi Bank Limited,9,2.5,11.5,12/15/2020,2021-01-01 [Closed],,,2076/2077
-764,GILB,Global IME Laghubitta Bittiya Sanstha Limited,27.47,1.45,28.92,12/14/2020,2020-12-30 [Closed],,,2076/2077
-765,ADBL,Agricultural Development Bank Limited,15,0.79,15.79,12/14/2020,2020-12-30 [Closed],,,2076/2077
-766,CCBL,Century Commercial Bank Limited,5.25,2.25,7.5,12/14/2020,2020-12-31 [Closed],,,2076/2077
-767,BARUN,Barun Hydropower Company Limited,5,0.26,5.26,12/14/2020,2020-12-31 [Closed],,,2076/2077
-768,SDLBSL,Sadhana Laghubitta Bittiya Sanstha Limited,18,0.95,20,12/13/2020,2020-12-31 [Closed],,,2076/2077
-769,GMFIL,Guheswori Merchant Banking & Finance Limited,8,3.4,11.4,12/10/2020,2021-01-05 [Closed],,,2076/2077
-770,UMHL,United Modi Hydropower Limited,,5.26,5.26,12/10/2020,2020-12-20 [Closed],,,2076/2077
-771,SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,12/8/2020,2020-12-31 [Closed],,,2076/2077
-772,LBBL,Lumbini Bikas Bank Limited,7,3,10,12/8/2020,2020-12-29 [Closed],,,2076/2077
-773,MNBBL,Muktinath Bikas Bank Limited,11.25,4.26,15.51,12/7/2020,2020-12-28 [Closed],,,2076/2077
-774,ICFC,ICFC Finance Limited,10.5,4.5,15,12/7/2020,2021-01-03 [Closed],,,2076/2077
-775,PRVU,Prabhu Bank Limited,10,0.53,10.52,12/7/2020,2020-12-25 [Closed],,,2076/2077
-776,MFIL,Manjushree Finance Limited,18,5.5,23.5,12/6/2020,2020-12-30 [Closed],,,2076/2077
-777,MDB,Miteri Development Bank Limited,15,0.79,15.79,12/6/2020,2020-12-29 [Closed],,,2076/2077
-778,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/6/2020,2021-01-22 [Closed],,,2076/2077
-779,SBL,Siddhartha Bank Limited,12,3,15,12/6/2020,2021-01-12 [Closed],,,2076/2077
-780,SIFC,Shree Investment Finance Company Limited,7.37,3.16,10.53,12/4/2020,2020-12-30 [Closed],,,2076/2077
-781,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,22,7,29,12/3/2020,2020-12-30 [Closed],,,2076/2077
-782,WOMI,Womi Laghubitta Bittiya Sanstha Limited,30,,30,12/2/2020,2020-12-30 [Closed],,,2076/2077
-783,CHCL,Chilime Hydro power Company Limited,10,10,20,12/1/2020,2020-12-14 [Closed],,,2076/2077
-784,SHPC,Sanima Mai Hydropower Limited,10,5,15,12/1/2020,2020-12-28 [Closed],,,2076/2077
-785,NBB,Nepal Bangladesh Bank Limited,6,2.42,8.42,12/1/2020,2020-12-25 [Closed],,,2076/2077
-786,HBL,Himalayan Bank Limited,14,6,20,11/30/2020,2020-12-29 [Closed],,,2076/2077
-787,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,12.39,0.65,13.04,11/29/2020,2021-02-27 [Closed],,,2076/2077
-788,AHPC,Arun Valley Hydropower Development Company Limited,5,0.26,5.26,11/29/2020,2020-12-11 [Closed],,,2076/2077
-789,NMBMF,NMB Laghubitta Bittiya Sanstha Limited,19,1,20,11/25/2020,2020-12-29 [Closed],,,2076/2077
-790,SRBL,Sunrise Bank Limited,5.8,2.48,8.28,11/23/2020,2020-12-22 [Closed],,,2076/2077
-791,SBI,Nepal SBI Bank Limited,6,3.47,9.47,11/20/2020,2020-12-30 [Closed],,,2076/2077
-792,RHPC,Ridi Hydropower Development Company Limited,5,0.26,5.26,11/20/2020,2020-11-30 [Closed],,,2076/2077
-793,AKPL,Arun Kabeli Power Limited,5.71,0.29,6,11/19/2020,2020-11-27 [Closed],,,2076/2077
-794,MMFDB,Mirmire Laghubitta Bittiya Sanstha Limited,9.2,0.48,9.68,11/12/2020,2021-03-21 [Closed],,,2076/2077
-795,EBL,Everest Bank Limited,5,5.53,10.53,11/5/2020,2020-12-25 [Closed],,,2076/2077
-796,MERO,Mero Microfinance Laghubitta Bittiya Sanstha Limited,16.94,0.89,17.83,11/4/2020,2021-01-01 [Closed],,,2076/2077
-797,RMDC,RMDC Laghubitta Bittiya Sanstha Limited,15,5,20,11/2/2020,2020-11-23 [Closed],,,2076/2077
-798,API,Api Power Company Limited,9,,9,11/1/2020,2020-11-16 [Closed],,,2076/2077
-799,SCB,Standard Chartered Bank Nepal Limited,7,4.84,11.84,10/30/2020,2020-12-24 [Closed],,,2076/2077
-800,GBIME,Global IME Bank Limited,14,2,16,10/28/2020,2020-12-30 [Closed],,,2076/2077
-801,KBL,Kumari Bank Limited,10.85,3.15,14,10/22/2020,2020-11-30 [Closed],,,2076/2077
-802,NICA,NIC Asia Bank Limited,19,1,20,10/21/2020,2020-11-25 [Closed],,,2076/2077
-803,CZBIL,Citizens Bank International Limited,8,3,11,10/19/2020,2020-11-26 [Closed],,,2076/2077
-804,SHIVM,Shivam Cements Limited,,24.21,24.21,10/15/2020,2020-10-29 [Closed],,,2076/2077
-805,SANIMA,Sanima Bank Limited,10,3.6,13.6,10/14/2020,2020-11-02 [Closed],,,2076/2077
-806,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,9,3.63,12.63,10/11/2020,2020-12-25 [Closed],,,2076/2077
-807,SAEF,Sanima Equity Fund,,7,7,10/4/2020,2020-10-30 [Closed],,,2076/2077
-808,BOKL,Bank of Kathmandu Limited,13,3,16,10/1/2020,2020-11-13 [Closed],,,2076/2077
-809,NLO,Nepal Lube Oil Limited,,10,10,9/30/2020,2020-10-08 [Closed],,,2076/2077
-810,UNL,Unilever Nepal Limited,,100,100,9/27/2020,2020-11-12 [Closed],,,2076/2077
-811,NMBHF1,NMB Hybrid Fund L- 1,,8,8,9/21/2020,2020-10-02 [Closed],,,2076/2077
-812,NMB50,NMB 50,,5,5,9/21/2020,2020-10-02 [Closed],,,2076/2077
-813,ALBSL,Asha Laghubitta Bittiya Sanstha Limited,15,0.79,15.79,9/17/2020,2020-12-27 [Closed],,,2076/2077
-814,MBL,Machhapuchchhre Bank Limited,7.03,3.37,10.4,9/17/2020,2020-10-08 [Closed],,,2076/2077
-815,CMF1,Citizens Mutual Fund-1,,15,15,9/15/2020,2020-10-01 [Closed],,,2076/2077
-816,CMF2,Citizens Mutual Fund - 2,,10,10,9/15/2020,2020-10-01 [Closed],,,2076/2077
-817,SFMF,Sunrise First Mutual Fund,,7,7,9/13/2020,2020-09-27 [Closed],,,2076/2077
-818,GIMES1,Global IME Samunnat Scheme 1,,4,4,8/31/2020,2020-09-25 [Closed],,,2076/2077
-819,LEMF,Laxmi Equity Fund,,4.25,4.25,8/30/2020,2020-09-08 [Closed],,,2076/2077
-820,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,9.5,4.18,13.68,8/27/2020,2020-11-20 [Closed],,,2076/2077
-821,NBF2,Nabil Balanced Fund - 2,,9,9,8/27/2020,2020-09-10 [Closed],,,2076/2077
-822,NEF,Nabil Equity Fund,,6,6,8/27/2020,2020-09-10 [Closed],,,2076/2077
-823,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,20,6.32,26.32,8/23/2020,2020-12-20 [Closed],,,2076/2077
-824,NIBLSF,NIBL Sahabhagita Fund,,8.25,8.25,8/19/2020,2020-08-07 [Closed],,,2076/2077
-825,NIBSF1,NIBL Samriddhi Fund 1,,12,12,8/14/2020,2020-08-21 [Closed],,,2076/2077
-826,NICGF,NIC Asia Growth Fund,,12,12,8/11/2020,2020-09-10 [Closed],,,2076/2077
-827,NICBF,NIC ASIA Balanced Fund,,8,8,8/11/2020,2020-09-10 [Closed],,,2076/2077
-828,SEF,Siddhartha Equity Fund,,7.5,7.5,8/9/2020,2020-08-16 [Closed],,,2076/2077
-829,SIGS2,Siddhartha Investment Growth Scheme-2,,5,5,8/9/2020,2020-08-16 [Closed],,,2076/2077
-830,ICRA,ICRA Nepal Limited,150,51.5,201.5,,,,,2076/2077
-831,NIBLACE,NIBL Ace Capital Limited,,22.22,22.22,,,,,2076/2077
-832,CARE,Care Ratings Nepal Limited,,21.05,21.05,,,,,2076/2077
-833,NMBCAP,NMB Capital Limited,,21.05,21.05,,,,,2076/2077
-834,NABILINV,Nabil Investment Banking Limited,,20,20,,,,,2076/2077
-835,NOCL,Nepal Oil Corporation Limited,,20,20,,,,,2076/2077
-836,NICACL,NIC Asia Capital Limited,,18,18,,,,,2076/2077
-837,CDS,CDS & Clearing Limited,,15,15,,,,,2076/2077
-838,SANCAP,Sanima Capital Limited,,8.5,8.5,,,,,2076/2077
-839,GLICL,Gurans Life Insurance Company Limited,7.44,0.39,7.83,,2022-10-12 [Closed],,,2076/2077
-840,MCML,Mega Capital Markets Limited,,7,7,,,,,2076/2077
-841,GBIMEL,Global IME Capital Limited,,6.5,6.5,,,,,2076/2077
-842,MCL,Machhapuchchhre Capital Limited,,6.4,6.4,,,,,2076/2077
-843,SHBL,Sahara Bikas Bank Limited,5.05,0.27,5.32,,,,,2076/2077
-844,BOKCML,BOK Capital Market Limited,,4.5,4.5,,,,,2076/2077
-845,RBBL,Rastriya Banijya Bank Limited,2,2.5,4.5,,,,,2076/2077
-846,KCL,Kumari Capital Limited,,4,4,,,,,2076/2077
-847,CCML,Century Capital Markets Limited,,4,4,,,,,2076/2077
-848,NBCL,Nepal Bangladesh Capital Limited,,2,2,,,,,2076/2077
+2,NMBCAP,NMB Capital Limited,,20,20,11/27/2026,,,,2082/2083
+3,MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,9.5,0.5,10,11/27/2026,,,,2082/2083
+4,MNBBL,Muktinath Bikas Bank Limited,,7.25,7.25,11/27/2026,,,,2082/2083
+5,SHL,Soaltee Hotel Limited,20,16.84,36.84,11/24/2026,2026-12-16,,,2082/2083
+6,MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,9.5,0.5,10,11/23/2026,,,,2082/2083
+7,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,4.75,0.25,5,11/23/2026,,,,2082/2083
+8,LLBS,Laxmi Laghubitta Bittiya Sanstha Limited,4.75,0.25,5,11/20/2026,,,,2082/2083
+9,SMPDA,Sampada Laghubitta Bittiya Sanstha Limited,4,0.21,4.21,11/19/2026,,,,2082/2083
+10,SONA,Sonapur Minerals and Oil Limited,,5.26,5.26,11/18/2026,2026-11-26 [Closed],,,2082/2083
+11,SARBTM,Sarbottam Cement Limited,6,15,21,11/17/2026,2026-12-04,,,2082/2083
+12,SHPC,Sanima Mai Hydropower Limited,10,5,15,11/17/2026,,,,2082/2083
+13,NHDL,Nepal Hydro Developer Limited,10,0.53,10.53,11/17/2026,,,,2082/2083
+14,SMH,Supermai Hydropower Limited,14,4.42,18.42,11/13/2026,,,,2082/2083
+15,SBI,Nepal SBI Bank Limited,3.4,4.85,8.25,11/13/2026,2026-12-03,,,2082/2083
+16,MLBL,Mahalaxmi Bikas Bank Limited,3.7,3.78,7.48,11/6/2026,,,,2082/2083
+17,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,11.96,13.04,25,11/5/2026,2026-12-08,,,2082/2083
+18,API,Api Power Company Limited,5,0.26,5.26,11/5/2026,2026-11-24 [Closed],,,2082/2083
+19,UNL,Unilever Nepal Limited,,"1,540.00","1,540.00",11/2/2026,2026-11-25 [Closed],,,2082/2083
+20,MAKAR,Makar Jitumaya Suri Hydropower Company Limited,13,0.68,13.68,11/2/2026,,,,2082/2083
+21,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,,9.4,9.4,11/2/2026,2026-12-04,,,2082/2083
+22,HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),4.75,0.25,5,11/2/2026,2026-12-09,,,2082/2083
+23,LSL,Laxmi Sunrise Bank Limited,5,0.26,5.26,10/29/2026,2026-11-30,,,2082/2083
+24,SCB,Standard Chartered Bank Nepal Limited,,16,16,10/27/2026,2026-11-26 [Closed],,,2082/2083
+25,MEDICARE,Medicare Hospital Limited,,31.58,31.58,10/17/2026,2026-10-25 [Closed],,,2082/2083
+26,VLUCL,Vision Lumbini Urja Company Limited,,3.68,3.68,10/17/2026,2026-11-02 [Closed],,,2082/2083
+27,MFILPNP,8.75% MFIL Perpetual Non-Cumulative Preference Share,,8.75,8.75,10/16/2026,2026-10-28 [Closed],,,2082/2083
+28,NIMBAC,NIMB Ace Capital Limited,,20,20,10/14/2026,,,,2082/2083
+29,HBLCL,Himalayan Capital Limited,,15,15,10/14/2026,,,,2082/2083
+30,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,,11.05,11.05,10/14/2026,2026-12-01,,,2082/2083
+31,SUL,Samyukta Urja Limited,,7.5,7.5,10/14/2026,,,,2082/2083
+32,BHDC,Bindhyabasini Hydropower Development Company Limited,5,0.26,5.26,10/14/2026,2026-10-27 [Closed],,,2082/2083
+33,MEN,Mountain Energy Nepal Limited,20,1.05,21.05,10/13/2026,2026-10-27 [Closed],,,2082/2083
+34,KBC,Kosh Bewasthapan Company Limited,,10.5,10.5,10/13/2026,,,,2082/2083
+35,BARUN,Barun Hydropower Company Limited,4.75,0.25,5,10/13/2026,2026-10-28 [Closed],,,2082/2083
+36,MFIL,Manjushree Finance Limited,5,15,20,10/9/2026,2026-10-28 [Closed],,,2082/2083
+37,KBSH,Kutheli Bukhari Small Hydropower Limited,18,0.95,18.95,10/8/2026,,,,2082/2083
+38,NMBPNP,8.25% NMB Perpetual Non cumulative Preference Share 2081/82,,8.25,8.25,10/8/2026,2026-11-27 [Closed],,,2082/2083
+39,NMB,NMB Bank Limited,,7,7,10/8/2026,2026-11-27 [Closed],,,2082/2083
+40,SIKLES,Sikles Hydropower Limited,12.71,0.67,13.38,10/6/2026,2026-12-04,,,2082/2083
+41,RLEL,Ridge Line Energy Limited,,10.53,10.53,10/1/2026,2026-10-09 [Closed],,,2082/2083
+42,GILB,Global IME Laghubitta Bittiya Sanstha Limited,6,3.5,9.5,9/29/2026,2026-11-27 [Closed],,,2082/2083
+43,NCHL,Nepal Clearing House Limited,15,0.79,15.79,9/28/2026,,,,2082/2083
+44,MDB,Miteri Development Bank Limited,5,6,11,9/28/2026,2026-12-02,,,2082/2083
+45,TAMOR,Sanima Middle Tamor Hydropower Limited,,5.26,5.26,9/24/2026,2026-10-05 [Closed],,,2082/2083
+46,CPPL,Champawati Hydropower Limited,4,16,20,9/23/2026,,,,2082/2083
+47,MSHL,Mid Solu Hydropower Company Limited,15,0.79,15.79,9/22/2026,,,,2082/2083
+48,CBILSL,Citizens Share Broker Limited,,4.65,4.65,9/21/2026,2026-09-29 [Closed],,,2082/2083
+49,NSML,NIMB Stock Markets Limited (former Mega Stock Markets Limited),,3.75,3.75,9/21/2026,,,,2082/2083
+50,SHEPCL,Super Hewa Power Company Limited,,3.16,3.16,9/21/2026,,,,2082/2083
+51,GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,9.5,0.5,10,9/18/2026,2026-10-14 [Closed],,,2082/2083
+52,RMF2,RBB Mutual Fund 2,,6,6,9/18/2026,2026-09-28 [Closed],,,2082/2083
+53,RMF1,RBB Mutual Fund 1,,2.75,2.75,9/18/2026,2026-09-28 [Closed],,,2082/2083
+54,SBL,Siddhartha Bank Limited,10,10,20,9/17/2026,2026-10-02 [Closed],,,2082/2083
+55,BHCL,Bikash Hydropower Company Limited,10,0.53,10.53,9/17/2026,2026-10-05 [Closed],,,2082/2083
+56,SBLPNP,SBL 8.25% Perpetual Non cumulative Preference Share,,8.25,8.25,9/17/2026,2026-10-02 [Closed],,,2082/2083
+57,ICRA,ICRA Nepal Limited,,62.5,62.5,9/16/2026,,,,2082/2083
+58,CZBIL,Citizens Bank International Limited,3.8,0.2,4,9/16/2026,2026-10-05 [Closed],,,2082/2083
+59,KBL,Kumari Bank Limited,,2.11,2.11,9/16/2026,2026-10-05 [Closed],,,2082/2083
+60,RSML,Reliance Spinning Mills Limited,,30,30,9/15/2026,2026-09-30 [Closed],,,2082/2083
+61,SNORL,Snow Rivers Limited,10,0.53,10.53,9/15/2026,2026-09-24 [Closed],,,2082/2083
+62,NLO,Nepal Lube Oil Limited,15,6.05,21.05,9/14/2026,2026-09-21 [Closed],,,2082/2083
+63,SHINE,Shine Resunga Development Bank Limited,6,10,16,9/14/2026,2026-09-29 [Closed],,,2082/2083
+64,SAPIL,Sarvottam Paints Industries Limited,10,0.53,10.53,9/14/2026,2026-09-29 [Closed],,,2082/2083
+65,MBLPNP,8.25% Machhapuchchhre Perpetual Non-cumulative Preference Share,,8.25,8.25,9/14/2026,2026-09-28 [Closed],,,2082/2083
+66,AHPC,Arun Valley Hydropower Development Company Limited,5,0.26,5.26,9/14/2026,2026-09-29 [Closed],,,2082/2083
+67,TEAM,Team Ventures Limited,3,2,5,9/14/2026,,,,2082/2083
+68,CBIL,Citizens Capital Ltd. (Former CBIL Capital ),,13,13,9/13/2026,2026-09-24 [Closed],,,2082/2083
+69,C30MF,Citizens Super 30 Mutual Fund,,5.25,5.25,9/13/2026,2026-09-24 [Closed],,,2082/2083
+70,SIDCL,Siddhartha Capital Limited,,30,30,9/11/2026,,,,2082/2083
+71,ASICL,Asian Concreto Limited,,7.5,7.5,9/11/2026,,,,2082/2083
+72,MBL,Machhapuchchhre Bank Limited,3,3,6,9/11/2026,2026-09-28 [Closed],,,2082/2083
+73,UMRH,United Idi-Mardi and R.B. Hydropower Limited,5,0.26,5.26,9/11/2026,2026-12-02,,,2082/2083
+74,GBIMEL,Global IME Capital Limited,15,10,25,9/9/2026,,,,2082/2083
+75,NABILINV,Nabil Investment Banking Limited,10,11.05,21.05,9/9/2026,2026-09-24 [Closed],,,2082/2083
+76,IME,IME Limited,,20,20,9/9/2026,,,,2082/2083
+77,KDL,Kalinchowk Darshan Limited,8.5,0.45,8.95,9/9/2026,2026-09-25 [Closed],,,2082/2083
+78,NABILPNP,8% Nabil Perpetual Non cumulative Preference Share,,8,8,9/9/2026,,,,2082/2083
+79,GBBL,Garima Bikas Bank Limited,10,10,20,9/7/2026,2026-09-30 [Closed],,,2082/2083
+80,NABIL,Nabil Bank Limited,5,10.8,15.8,9/7/2026,2026-09-30 [Closed],,,2082/2083
+81,GIBF1,Global IME Balanced Fund-I,,12,12,9/7/2026,2026-09-28 [Closed],,,2082/2083
+82,NBF2,Nabil Balanced Fund - 2,,3.5,3.5,9/4/2026,2026-09-23 [Closed],,,2082/2083
+83,NBF3,Nabil Balanced Fund III,,2.5,2.5,9/4/2026,2026-09-23 [Closed],,,2082/2083
+84,H8020,Himalayan 80-20,,15,15,9/3/2026,2026-09-22 [Closed],,,2082/2083
+85,MuktinathCap,Muktinath Capital Limited,,5,5,9/3/2026,,,,2082/2083
+86,DIVINE,Divine Healthcare Limited,1.25,0.07,1.32,9/3/2026,2026-09-11 [Closed],,,2082/2083
+87,GBIME,Global IME Bank Limited,4,6,10,9/2/2026,2026-09-21 [Closed],,,2082/2083
+88,ICFC,ICFC Finance Limited,,10.53,10.53,9/1/2026,2026-09-21 [Closed],,,2082/2083
+89,NIFRA,Nepal Infrastructure Bank Limited,,5.26,5.26,8/31/2026,2026-09-30 [Closed],,,2082/2083
+90,MNMF1,Muktinath Mutual Fund 1,,2.2,2.2,8/31/2026,2026-09-09 [Closed],,,2082/2083
+91,SANIMA,Sanima Bank Limited,,10,10,8/30/2026,2026-09-17 [Closed],,,2082/2083
+92,HSLTD,Hotel Sarathi Limited,13,2.79,15.79,8/27/2026,,,,2082/2083
+93,EBL,Everest Bank Limited,5,10,15,8/27/2026,2026-09-17 [Closed],,,2082/2083
+94,SMHL,Super Madi Hydropower Limited,15,0.79,15.79,8/25/2026,2026-09-08 [Closed],,,2082/2083
+95,HHEL,Hilton Hydro Energy Limited,,20,20,8/24/2026,2026-09-04 [Closed],,,2082/2083
+96,VHPL,Venture Hire Purchase Limited,,15,15,8/24/2026,,,,2082/2083
+97,PSF,Prabhu Select Fund,,12,12,8/24/2026,2026-09-10 [Closed],,,2082/2083
+98,PRSF,Prabhu Smart Fund,,12,12,8/24/2026,2026-09-10 [Closed],,,2082/2083
+99,SAGF,Sanima Growth Fund,,5,5,8/24/2026,2026-09-03 [Closed],,,2082/2083
+100,SFEF,Sunrise Focused Equity Fund,,4.5,4.5,8/24/2026,2026-09-03 [Closed],,,2082/2083
+101,AELTD,Aashutosh Energy Limited,,18.95,18.95,8/22/2026,2026-09-04 [Closed],,,2082/2083
+102,KHCL,Kabeli Hydropower Company Limited,,16.32,16.32,8/22/2026,2026-09-04 [Closed],,,2082/2083
+103,SADBL,Shangrila Development Bank Limited,4,6.53,10.53,8/18/2026,2026-09-24 [Closed],,,2082/2083
+104,SIGS3,Siddhartha Investment Growth Scheme 3,,10,10,8/18/2026,2026-08-31 [Closed],,,2082/2083
+105,SIGS2,Siddhartha Investment Growth Scheme-2,,8,8,8/18/2026,2026-08-31 [Closed],,,2082/2083
+106,NSIF2,NMB Sulav Investment Fund - II,,10,10,8/17/2026,2026-08-24 [Closed],,,2082/2083
+107,MCL,Machhapuchchhre Capital Limited,,7,7,8/17/2026,,,,2082/2083
+108,NMBHF2,NMB Hybrid Fund L-II,,4.5,4.5,8/17/2026,2026-08-24 [Closed],,,2082/2083
+109,NMB50,NMB 50,,3.15,3.15,8/17/2026,2026-08-24 [Closed],,,2082/2083
+110,MANDU,Mandu Hydropower Limited,,12,12,8/13/2026,2026-08-21 [Closed],,,2082/2083
+111,RSY,Reliable Samriddhi Yojana,,8.42,8.42,8/13/2026,2026-08-26 [Closed],,,2082/2083
+112,NICACL,NIC Asia Capital Limited,,50,50,8/12/2026,,,,2082/2083
+113,SHLTD,Shivam Holdings Limited,,2.5,2.5,8/8/2026,,,,2082/2083
+114,KSBBL,Kamana Sewa Bikas Bank Limited,,15,15,8/7/2026,2026-09-03 [Closed],,,2082/2083
+115,KDBY,Kumari Dhanabriddhi Yojana,,10,10,8/7/2026,2026-08-20 [Closed],,,2082/2083
+116,KEF,Kumari Equity Fund,,10,10,8/7/2026,2026-08-20 [Closed],,,2082/2083
+117,NMBSBF,NMB Saral Bachat Fund - E,,5.25,5.25,8/7/2026,2026-08-06 [Closed],,,2082/2083
+118,KSLY,Kumari Sunaulo Lagani Yojana,,4.7,4.7,8/7/2026,2026-08-06 [Closed],,,2082/2083
+119,KSY,Kumari Sabal Yojana,,2.9,2.9,8/7/2026,2026-08-20 [Closed],,,2082/2083
+120,NORVIC,Norvic International Hospital and Medical College Limited,20,22.11,42.11,8/6/2026,2026-08-16 [Closed],,,2082/2083
+121,MBLEF,MBL Equity Fund,,8,8,8/6/2026,2026-08-18 [Closed],,,2082/2083
+122,SAPSU,Sapsu Kalika Hydropower Company Limited,,5,5,8/3/2026,,,,2082/2083
+123,SSIS,Siddhartha Systematic Investment Scheme,,3,3,7/26/2026,2026-07-24 [Closed],,,2082/2083
+124,RKDHL,R.K.D Holdings Limited,,5,5,6/19/2026,,,,2081/2082
+125,UAIL,United Ajod Insurance Limited,4.29,0.23,4.51,6/19/2026,2026-07-03 [Closed],,,2081/2082
+126,ANLB,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,3/26/2026,2026-04-09 [Closed],,,2081/2082
+127,CIGL,Chandragiri Investment Group Limited,,4,4,3/22/2026,,,,2081/2082
+128,PHLTD,Professional Holdings Limited,2.63,50,52.63,3/19/2026,,,,2081/2082
+129,UNIGLOBE,Uniglobe Higher Secondary School Kathmandu Limited,0.26,5,5.26,3/19/2026,,,,2081/2082
+130,SGIC,Sanima GIC Insurance Limited,5,0.26,5.26,3/15/2026,2026-05-06 [Closed],,,2081/2082
+131,PRIN,Prabhu Insurance Company Limited,8.7,0.46,9.16,3/3/2026,2026-04-09 [Closed],,,2081/2082
+132,UMHL,United Modi Hydropower Limited,7,0.37,7.37,2/22/2026,2026-04-17 [Closed],,,2081/2082
+133,STC,Salt Trading Corporation Limited,9.5,0.5,10,2/12/2026,2026-05-27 [Closed],,,2081/2082
+134,SUMERU,Sumeru Polymers Limited,9,0.02,9.02,1/30/2026,2026-02-05 [Closed],,,2081/2082
+135,HIGHLAND,Highland Distillery Limited,25,1.32,25.32,1/21/2026,,,,2081/2082
+136,NIL,Neco Insurance Limited,3,12.79,13.79,1/16/2026,2026-02-08 [Closed],,,2081/2082
+137,ALICL,Asian Life Insurance Company Limited,5,5.53,10.53,1/14/2026,2026-02-12 [Closed],,,2081/2082
+138,HEI,Himalayan Everest Insurance Limited,,8,8,12/28/2025,2026-01-05 [Closed],,,2081/2082
+139,NTC,Nepal Doorsanchar Company Limited,,30,30,12/24/2025,2026-01-04 [Closed],,,2081/2082
+140,CHCL,Chilime Hydro power Company Limited,8,4,12,12/24/2025,2026-01-01 [Closed],,,2081/2082
+141,UHEWA,Upper Hewakhola Hydropower Company Limited,15,0.79,15.79,12/23/2025,2026-01-01 [Closed],,,2081/2082
+142,NHAEL,Nepal Hydro and Electric Limited,10,0.53,10.53,12/23/2025,,,,2081/2082
+143,NLG,NLG Insurance Company Limited,4,3.37,7.37,12/23/2025,2026-01-06 [Closed],,,2081/2082
+144,MERO,Mero Microfinance Laghubitta Bittiya Sanstha Limited,4.75,0.25,5,12/23/2025,2026-01-02 [Closed],,,2081/2082
+145,CIT,Citizen Investment Trust,5,8,13,12/22/2025,2026-01-05 [Closed],,,2081/2082
+146,KPCL,Kalika Power Company Limited,7,0.37,7.37,12/22/2025,2026-01-02 [Closed],,,2081/2082
+147,LICN,Life Insurance Corporation Nepal Limited,,21.05,21.05,12/21/2025,2026-01-01 [Closed],,,2081/2082
+148,MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/21/2025,2025-12-31 [Closed],,,2081/2082
+149,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/21/2025,2026-01-02 [Closed],,,2081/2082
+150,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,12.76,0.67,13.43,12/21/2025,,,,2081/2082
+151,SJLIC,SuryaJyoti Life Insurance Company Limited,,13,13,12/21/2025,2026-01-02 [Closed],,,2081/2082
+152,RNLI,Reliable Nepal Life Insurance Limited,,12,12,12/21/2025,2026-01-05 [Closed],,,2081/2082
+153,SPDL,Synergy Power Development Limited,10,0.53,10.53,12/21/2025,2025-12-29 [Closed],,,2081/2082
+154,KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,12/21/2025,2026-01-05 [Closed],,,2081/2082
+155,SMB,Support Laghubitta Bittiya Sanstha Limited,9.5,0.5,10,12/21/2025,2025-12-31 [Closed],,,2081/2082
+156,CDS,CDS & Clearing Limited,,100,100,12/19/2025,,,,2081/2082
+157,RURU,Ru Ru Jalbidhyut Pariyojana Limited,10,5.79,15.79,12/19/2025,2025-12-28 [Closed],,,2081/2082
+158,SALICO,Sagarmatha Lumbini Insurance Company Limited,,15,15,12/19/2025,2026-01-04 [Closed],,,2081/2082
+159,BFIINL,Banking Finance and Insurance Institute of Nepal Limited,,14.74,14.74,12/19/2025,,,,2081/2082
+160,PCBL,Prime Commercial Bank Limited,8,0.42,8.42,12/19/2025,2026-01-05 [Closed],,,2081/2082
+161,BPCL,Butwal Power Company Limited,,6,6,12/19/2025,2025-12-30 [Closed],,,2081/2082
+162,SNLI,Sun Nepal Life Insurance Company Limited,5,15.26,20.26,12/18/2025,2025-12-29 [Closed],,,2081/2082
+163,NLICL,National Life Insurance Company Limited,4,8.5,12.5,12/18/2025,2026-01-01 [Closed],,,2081/2082
+164,NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,5,7,12,12/18/2025,2026-01-01 [Closed],,,2081/2082
+165,PMLI,Prabhu Mahalaxmi Life Insurance Company Limited,4,4.42,8.42,12/18/2025,2026-01-05 [Closed],,,2081/2082
+166,NICL,Nepal Insurance Company Limited,,6.32,6.32,12/18/2025,2025-12-29 [Closed],,,2081/2082
+167,NMFBS,National Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/17/2025,2026-01-06 [Closed],,,2081/2082
+168,SICL,Shikhar Insurance Company Limited,6,0.32,6.32,12/17/2025,2025-12-29 [Closed],,,2081/2082
+169,SRLI,Sanima Reliance Life Insurance Limited,,10.18,10.18,12/16/2025,2025-12-26 [Closed],,,2081/2082
+170,CGH,Chandragiri Hills Limited,5,0.26,5.26,12/16/2025,2025-12-26 [Closed],,,2081/2082
+171,ENL,Emerging Nepal Limited,,5.26,5.26,12/15/2025,2026-01-01 [Closed],,,2081/2082
+172,JBLB,Jeevan Bikas Laghubitta Bittiya Sanstha Limited,14,0.74,14.74,12/14/2025,2026-01-05 [Closed],,,2081/2082
+173,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,5,0.26,5.26,12/14/2025,2026-01-02 [Closed],,,2081/2082
+174,HIDCL,Hydroelectricity Investment and Development Company Limited,1.5,2,3.5,12/14/2025,2025-12-23 [Closed],,,2081/2082
+175,SPIL,Siddhartha Premier Insurance Limited,,25,25,12/12/2025,2026-01-02 [Closed],,,2081/2082
+176,ILI,IME Life Insurance Company Limited,,10.53,10.53,12/12/2025,2025-12-26 [Closed],,,2081/2082
+177,NLIC,Nepal Life Insurance Company Limited,5,16.05,21.05,12/11/2025,2025-12-22 [Closed],,,2081/2082
+178,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,10,5,15,12/11/2025,2025-12-31 [Closed],,,2081/2082
+179,IGI,IGI Prudential Insurance Limited,,5,5,12/11/2025,2025-12-31 [Closed],,,2081/2082
+180,SEEL,Seed Energy Limited,,3.16,3.16,12/11/2025,,,,2081/2082
+181,CLI,Citizen Life Insurance Company Limited,,20,20,12/10/2025,2025-12-23 [Closed],,,2081/2082
+182,TRH,Taragaon Regency Hotel Limited,,5,5,12/9/2025,2025-12-22 [Closed],,,2081/2082
+183,BIGIL,Business Interest Group of Industries Limited,6,0.32,6.32,12/1/2025,,,,2081/2082
+184,GCIL,Ghorahi Cement Industry Limited,10,0.53,10.53,11/30/2025,2025-12-12 [Closed],,,2081/2082
+185,ALBSL,Asha Laghubitta Bittiya Sanstha Limited,9.5,0.5,10,11/28/2025,2025-12-08 [Closed],,,2081/2082
+186,GRDBL,Green Development Bank Limited,8.04,0.42,8.46,11/27/2025,2026-01-01 [Closed],,,2081/2082
+187,HLI,Himalayan Life Insurance Limited,14,,14,1/19/2025,2025-02-07 [Closed],,,2079/2080
+188,SRLI,Sanima Reliance Life Insurance Limited,18.38,,18.38,9/16/2024,2024-09-27 [Closed],,,2079/2080
+189,PMLI,Prabhu Mahalaxmi Life Insurance Company Limited,10,0.53,10.53,8/25/2024,2024-10-02 [Closed],,,2079/2080
+190,SWMF,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,14.01,,14.01,7/25/2024,2024-08-08 [Closed],,,2079/2080
+191,NLICL,National Life Insurance Company Limited,4,10,14,7/12/2024,2024-08-08 [Closed],,,2079/2080
+192,NHAEL,Nepal Hydro and Electric Limited,10,10.53,20.53,6/30/2024,,,,2079/2080
+193,CIT,Citizen Investment Trust,14,0.74,14.74,6/14/2024,2024-07-04 [Closed],,,2079/2080
+194,NLIC,Nepal Life Insurance Company Limited,,21.05,21.05,6/2/2024,2024-06-18 [Closed],,,2079/2080
+195,AICL,Aadishakti Investment Company Limited,,10,10,5/30/2024,,,,2079/2080
+196,ILI,IME Life Insurance Company Limited,25,1.32,26.32,5/2/2024,2024-05-27 [Closed],,,2079/2080
+197,NRIC,Nepal Reinsurance Company Limited,4.75,0.25,5,4/16/2024,2024-05-19 [Closed],,,2079/2080
+198,SJLIC,SuryaJyoti Life Insurance Company Limited,10.26,24.74,35,4/3/2024,2024-04-19 [Closed],,,2079/2080
+199,SARBTM,Sarbottam Cement Limited,,15,15,4/2/2024,2024-04-12 [Closed],,,2079/2080
+200,MKJC,Mailung Khola Jal Vidhyut Company Limited,2.22,0.12,2.34,3/21/2024,2024-03-29 [Closed],,,2079/2080
+201,PRIN,Prabhu Insurance Company Limited,4.75,0.25,5,3/4/2024,2024-04-19 [Closed],,,2079/2080
+202,SALICO,Sagarmatha Lumbini Insurance Company Limited,,5,5,2/27/2024,2024-03-26 [Closed],,,2079/2080
+203,SNLI,Sun Nepal Life Insurance Company Limited,23.8,1.25,25.05,2/25/2024,2024-05-09 [Closed],,,2079/2080
+204,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,2/15/2024,2024-03-28 [Closed],,,2079/2080
+205,HRL,Himalayan Reinsurance Limited,4,0.21,4.21,2/9/2024,2024-02-19 [Closed],,,2079/2080
+206,NMFBS,National Laghubitta Bittiya Sanstha Limited,7.5,7.5,15,2/6/2024,2024-03-13 [Closed],,,2079/2080
+207,SPIL,Siddhartha Premier Insurance Limited,,11,11,2/5/2024,2024-02-23 [Closed],,,2079/2080
+208,UMRH,United Idi-Mardi and R.B. Hydropower Limited,5.5,0.29,5.79,2/5/2024,2024-02-16 [Closed],,,2079/2080
+209,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,7,0.37,7.37,1/30/2024,2024-02-25 [Closed],,,2079/2080
+210,ALICL,Asian Life Insurance Company Limited,7.75,0.41,8.16,1/28/2024,2024-02-20 [Closed],,,2079/2080
+211,UAIL,United Ajod Insurance Limited,10.26,0.54,10.8,1/19/2024,2024-02-05 [Closed],,,2079/2080
+212,YETIBL,Yeti Brewery Limited,100,100,200,1/14/2024,,,,2079/2080
+213,NLG,NLG Insurance Company Limited,5.5,0.29,5.79,1/14/2024,2024-02-08 [Closed],,,2079/2080
+214,STC,Salt Trading Corporation Limited,15,0.79,15.79,1/11/2024,2024-03-22 [Closed],,,2079/2080
+215,RNLI,Reliable Nepal Life Insurance Limited,16,0.84,16.84,1/10/2024,2024-01-29 [Closed],,,2079/2080
+216,HEI,Himalayan Everest Insurance Limited,8.63,6.37,15,1/10/2024,2024-01-28 [Closed],,,2079/2080
+217,MEN,Mountain Energy Nepal Limited,15,0.79,15.79,1/8/2024,2024-03-13 [Closed],,,2079/2080
+218,CLI,Citizen Life Insurance Company Limited,5,0.26,5.26,1/2/2024,2024-01-14 [Closed],,,2079/2080
+219,LAXMI,Laxmi Steels Limited,14.25,5.26,19.51,12/26/2023,,,,2079/2080
+220,NMBCAP,NMB Capital Limited,,17,17,12/26/2023,,,,2079/2080
+221,UPCL,Universal Power Company Limited,8.55,0.45,9,12/26/2023,2024-01-03 [Closed],,,2079/2080
+222,NEPSE,Nepal Stock Exchange Limited,,64,64,12/24/2023,,,,2079/2080
+223,KPCL,Kalika Power Company Limited,10,0.53,10.53,12/24/2023,2024-01-03 [Closed],,,2079/2080
+224,RBBL,Rastriya Banijya Bank Limited,,5.5,5.5,12/24/2023,2024-01-03 [Closed],,,2079/2080
+225,RADHI,Radhi Bidyut Company Limited,4.75,0.25,5,12/24/2023,2023-12-31 [Closed],,,2079/2080
+226,SMHL,Super Madi Hydropower Limited,,2,2,12/24/2023,2024-01-02 [Closed],,,2079/2080
+227,CDS,CDS & Clearing Limited,,100,100,12/22/2023,,,,2079/2080
+228,MEDICARE,Medicare Hospital Limited,48.81,14.35,63.16,12/22/2023,2024-01-07 [Closed],,,2079/2080
+229,NTC,Nepal Doorsanchar Company Limited,,40,40,12/22/2023,2024-01-04 [Closed],,,2079/2080
+230,JSML,Jagdamba Spinning Mills Limited,17.46,0.92,18.38,12/22/2023,,,,2079/2080
+231,GCIL,Ghorahi Cement Industry Limited,15,,15,12/22/2023,2024-01-01 [Closed],,,2079/2080
+232,MNBBL,Muktinath Bikas Bank Limited,9.75,0.51,10.26,12/22/2023,2024-01-04 [Closed],,,2079/2080
+233,NPEL,Nepal Power Exchange Limited,,5.26,5.26,12/22/2023,,,,2079/2080
+234,GBBL,Garima Bikas Bank Limited,9.5,0.5,10,12/21/2023,2024-01-02 [Closed],,,2079/2080
+235,SIKLES,Sikles Hydropower Limited,,6,6,12/21/2023,2023-12-29 [Closed],,,2079/2080
+236,HIDCL,Hydroelectricity Investment and Development Company Limited,,5.26,5.26,12/21/2023,2024-01-03 [Closed],,,2079/2080
+237,MLBL,Mahalaxmi Bikas Bank Limited,,6.4,6.4,12/20/2023,2024-01-04 [Closed],,,2079/2080
+238,BHDC,Bindhyabasini Hydropower Development Company Limited,,5.26,5.26,12/20/2023,2024-01-02 [Closed],,,2079/2080
+239,NIMBAC,NIMB Ace Capital Limited,,25,25,12/19/2023,,,,2079/2080
+240,SHIVM,Shivam Cements Limited,14.25,0.75,15,12/19/2023,2024-01-04 [Closed],,,2079/2080
+241,HATHY,Hathway Investment Nepal Limited,10,0.53,10.53,12/19/2023,2023-12-28 [Closed],,,2079/2080
+242,NLO,Nepal Lube Oil Limited,25,5,30,12/18/2023,2023-12-26 [Closed],,,2079/2080
+243,JBLB,Jeevan Bikas Laghubitta Bittiya Sanstha Limited,14,0.74,14.74,12/18/2023,2024-01-03 [Closed],,,2079/2080
+244,RURU,Ru Ru Jalbidhyut Pariyojana Limited,,10.53,10.53,12/18/2023,2024-01-02 [Closed],,,2079/2080
+245,KSKL,Karja Suchana Kendra Limited,,20,20,12/17/2023,,,,2079/2080
+246,BPCL,Butwal Power Company Limited,,5,5,12/17/2023,2024-01-04 [Closed],,,2079/2080
+247,NRNDFL,N.R.N. Nepal Development Fund Limited,,5,5,12/17/2023,,,,2079/2080
+248,MHL,Mandakini Hydropower Limited,4.75,0.25,5,12/16/2023,2024-01-05 [Closed],,,2079/2080
+249,SSL,Secured Securities Limited,100,5.26,105.26,12/15/2023,,,,2079/2080
+250,LSL,Laxmi Sunrise Bank Limited,7,0.37,7.37,12/13/2023,2024-01-04 [Closed],,,2079/2080
+251,SIFC,Shree Investment Finance Company Limited,,5.05,5.05,12/13/2023,2024-01-05 [Closed],,,2079/2080
+252,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,5,10,15,12/12/2023,2024-01-02 [Closed],,,2079/2080
+253,LBBL,Lumbini Bikas Bank Limited,4,4.5,8.5,12/12/2023,2024-01-02 [Closed],,,2079/2080
+254,ANLB,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,10,5,15,12/11/2023,2024-01-01 [Closed],,,2079/2080
+255,BGWT,Bhagawati Hydropower Development Company Limited,,10.53,10.53,12/11/2023,2023-12-21 [Closed],,,2079/2080
+256,GILB,Global IME Laghubitta Bittiya Sanstha Limited,,10,10,12/11/2023,2024-01-04 [Closed],,,2079/2080
+257,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,5.42,0.29,5.71,12/11/2023,2024-04-01 [Closed],,,2079/2080
+258,CHCL,Chilime Hydro power Company Limited,10,5,15,12/10/2023,2023-12-24 [Closed],,,2079/2080
+259,SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/10/2023,2024-01-01 [Closed],,,2079/2080
+260,ICFC,ICFC Finance Limited,,6.5,6.5,12/10/2023,2023-12-29 [Closed],,,2079/2080
+261,CEL,Century Energy Limited,10,,10,12/5/2023,,,,2079/2080
+262,HDL,Himalayan Distillery Limited,10,15,25,12/4/2023,2023-12-29 [Closed],,,2079/2080
+263,TRH,Taragaon Regency Hotel Limited,4,11,15,12/4/2023,2023-12-28 [Closed],,,2079/2080
+264,KBC,Kosh Bewasthapan Company Limited,,5,5,12/4/2023,,,,2079/2080
+265,NHDL,Nepal Hydro Developer Limited,7,0.37,7.37,12/3/2023,2023-12-11 [Closed],,,2079/2080
+266,MFIL,Manjushree Finance Limited,,5.26,5.26,12/1/2023,2023-12-27 [Closed],,,2079/2080
+267,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,7.5,7.5,15,11/30/2023,2023-12-28 [Closed],,,2079/2080
+268,NICL,Nepal Insurance Company Limited,10,0.53,10.53,11/26/2023,2023-12-14 [Closed],,,2079/2080
+269,NABIL,Nabil Bank Limited,,11,11,11/23/2023,2023-12-15 [Closed],,,2079/2080
+270,PTCNL,Power Transmission Company Nepal Limited,,18,18,11/21/2023,,,,2079/2080
+271,SHL,Soaltee Hotel Limited,5,26.58,31.58,11/20/2023,2023-12-21 [Closed],,,2079/2080
+272,SBI,Nepal SBI Bank Limited,3.75,6.8,10.55,11/20/2023,2023-12-15 [Closed],,,2079/2080
+273,NCHL,Nepal Clearing House Limited,28.5,1.5,30,11/17/2023,,,,2079/2080
+274,CARE,Care Ratings Nepal Limited,,80,80,11/10/2023,,,,2079/2080
+275,NFML,National Fund Management Limited,,4.21,4.21,11/10/2023,,,,2079/2080
+276,BNT,Bottlers Nepal (Terai) Limited,,60,60,11/9/2023,2024-01-05 [Closed],,,2079/2080
+277,MDB,Miteri Development Bank Limited,9.5,0.5,10,11/9/2023,2023-12-14 [Closed],,,2079/2080
+278,SMB,Support Laghubitta Bittiya Sanstha Limited,13,0.68,13.68,11/8/2023,2024-01-01 [Closed],,,2079/2080
+279,ENL,Emerging Nepal Limited,,8.42,8.42,11/8/2023,2023-11-22 [Closed],,,2079/2080
+280,NIFRA,Nepal Infrastructure Bank Limited,,4.21,4.21,11/7/2023,2023-12-22 [Closed],,,2079/2080
+281,BFIINL,Banking Finance and Insurance Institute of Nepal Limited,,14.7,14.7,11/6/2023,,,,2079/2080
+282,GBIME,Global IME Bank Limited,1,8,9,11/5/2023,2023-11-29 [Closed],,,2079/2080
+283,MANDU,Mandu Hydropower Limited,,10,10,11/3/2023,2023-11-20 [Closed],,,2079/2080
+284,SCB,Standard Chartered Bank Nepal Limited,,19,19,10/31/2023,2023-11-23 [Closed],,,2079/2080
+285,AELTD,Aashutosh Energy Limited,7.5,,7.5,10/20/2023,,,,2079/2080
+286,SADBL,Shangrila Development Bank Limited,5,0.26,5.26,10/20/2023,2023-11-27 [Closed],,,2079/2080
+287,CCAIL,Chartered Capital and Investment Limited,4,0.21,4.21,10/20/2023,,,,2079/2080
+288,NEPS,Nepal Electronic Payment Systems Limited,20,1.05,21.05,10/18/2023,,,,2079/2080
+289,NICLBSL,NIC Asia Laghubitta Bittiya Sanstha Limited,,15,15,10/18/2023,2023-12-11 [Closed],,,2079/2080
+290,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,12.36,0.65,13.01,10/18/2023,2023-12-08 [Closed],,,2079/2080
+291,SANVI,Sanvi Energy Limited,,5.25,5.25,10/18/2023,,,,2079/2080
+292,UNL,Unilever Nepal Limited,,"1,580.00","1,580.00",10/16/2023,2023-11-28 [Closed],,,2079/2080
+293,NICGF,NIC Asia Growth Fund,,10.5,10.5,10/16/2023,2023-11-08 [Closed],,,2079/2080
+294,NICBF,NIC ASIA Balanced Fund,,10,10,10/16/2023,2023-11-08 [Closed],,,2079/2080
+295,Maruti,Maruti Cements Limited,,10,10,10/16/2023,,,,2079/2080
+296,SBL,Siddhartha Bank Limited,,4.21,4.21,10/12/2023,2023-11-07 [Closed],,,2079/2080
+297,SHINE,Shine Resunga Development Bank Limited,10.5,0.55,11.05,10/11/2023,2023-11-27 [Closed],,,2079/2080
+298,NIIFL,Nepal Infrastructures Investment Fund Limited,,1.05,1.05,10/9/2023,2023-11-07 [Closed],,,2079/2080
+299,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,8.6,0.45,9.05,10/8/2023,2023-11-23 [Closed],,,2079/2080
+300,SHPC,Sanima Mai Hydropower Limited,10,0.53,10.53,10/4/2023,2023-10-11 [Closed],,,2079/2080
+301,GIBF1,Global IME Balanced Fund-I,,5,5,10/3/2023,2023-10-12 [Closed],,,2079/2080
+302,NBF2,Nabil Balanced Fund - 2,,9.6,9.6,9/29/2023,2023-10-13 [Closed],,,2079/2080
+303,RBBMBL,RBB Merchant Banking Limited,,13.16,13.16,9/25/2023,,,,2079/2080
+304,ICRA,ICRA Nepal Limited,,59.1,59.1,9/19/2023,,,,2079/2080
+305,NMB50,NMB 50,,15,15,9/19/2023,2023-09-29 [Closed],,,2079/2080
+306,NMBHF1,NMB Hybrid Fund L- 1,,15,15,9/19/2023,2023-09-29 [Closed],,,2079/2080
+307,OHL,Oriental Hotel Limited,,5.26,5.26,9/19/2023,2023-09-29 [Closed],,,2079/2080
+308,CZBIL,Citizens Bank International Limited,,5.79,5.79,9/17/2023,2023-10-02 [Closed],,,2079/2080
+309,NICA,NIC Asia Bank Limited,29,1.52,30.52,9/15/2023,2023-10-03 [Closed],,,2079/2080
+310,SANIMA,Sanima Bank Limited,9,5.7,14.7,9/15/2023,2023-10-09 [Closed],,,2079/2080
+311,PRABHU,Prabhu Capital Limited,,6.31,6.31,9/15/2023,,,,2079/2080
+312,CBIL,Citizens Capital Ltd. (Former CBIL Capital ),,12,12,9/14/2023,2023-09-25 [Closed],,,2079/2080
+313,EBL,Everest Bank Limited,10,10.53,20.53,9/13/2023,2023-10-03 [Closed],,,2079/2080
+314,PSF,Prabhu Select Fund,,9.5,9.5,9/12/2023,2023-09-29 [Closed],,,2079/2080
+315,SAEF,Sanima Equity Fund,,18,18,9/10/2023,2023-10-01 [Closed],,,2079/2080
+316,SUCL,Sunrise Capital Limited (NCM/NIDC),,30,30,9/6/2023,,,,2079/2080
+317,NIBLPF,NIBL Pragati Fund,,6.8,6.8,9/3/2023,2023-09-19 [Closed],,,2079/2080
+318,MBL,Machhapuchchhre Bank Limited,13.3,0.7,14,8/30/2023,2023-09-25 [Closed],,,2079/2080
+319,CMF2,Citizens Mutual Fund - 2,,8,8,8/27/2023,2023-09-05 [Closed],,,2079/2080
+320,SIGS2,Siddhartha Investment Growth Scheme-2,,6.5,6.5,8/18/2023,2023-08-30 [Closed],,,2079/2080
+321,SEF,Siddhartha Equity Fund,,5,5,8/18/2023,2023-08-30 [Closed],,,2079/2080
+322,KCL,Kumari Capital Limited,,15,15,8/14/2023,,,,2079/2080
+323,SFMF,Sunrise First Mutual Fund,,16,16,8/11/2023,2023-10-01 [Closed],,,2079/2080
+324,KEF,Kumari Equity Fund,,10,10,8/11/2023,2023-09-04 [Closed],,,2079/2080
+325,KDBY,Kumari Dhanabriddhi Yojana,,6,6,8/11/2023,2023-09-04 [Closed],,,2079/2080
+326,NADDF,NIC Asia Dynamic Debt Fund,,10,10,8/5/2023,2023-08-04 [Closed],,,2079/2080
+327,LUK,Laxmi Unnati Kosh,,9.5,9.5,7/30/2023,2023-08-17 [Closed],,,2079/2080
+328,LEMF,Laxmi Equity Fund,,8,8,7/30/2023,2023-08-17 [Closed],,,2079/2080
+329,NIBLSF,NIBL Sahabhagita Fund,,4,4,7/28/2023,2023-07-27 [Closed],,,2079/2080
+330,NICACL,NIC Asia Capital Limited,,46,46,7/26/2023,,,,2079/2080
+331,NHAEL,Nepal Hydro and Electric Limited,,8.42,8.42,6/30/2024,,,,2078/2079
+332,CHDC,CEDB Holdings Limited,11,0.58,11.58,4/23/2024,2024-05-01 [Closed],,,2078/2079
+333,NESDO,Nesdo Sambridha Laghubitta Bittiya Sanstha Limited,,15,15,9/17/2023,2023-10-05 [Closed],,,2078/2079
+334,SAMAJ,Samaj Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,7/26/2023,2023-08-06 [Closed],,,2078/2079
+335,RLFL,Reliance Finance Limited,6.5,0.34,6.84,6/11/2023,2023-07-05 [Closed],,,2078/2079
+336,CIT,Citizen Investment Trust,25,1.32,26.32,5/14/2023,2023-07-04 [Closed],,,2078/2079
+337,NRIC,Nepal Reinsurance Company Limited,4.75,0.25,5,4/30/2023,2023-06-22 [Closed],,,2078/2079
+338,NLICL,National Life Insurance Company Limited,8,6.5,14.5,4/16/2023,2023-05-25 [Closed],,,2078/2079
+339,GRDBL,Green Development Bank Limited,3.8,0.2,4,4/10/2023,2024-03-22 [Closed],,,2078/2079
+340,KSBBL,Kamana Sewa Bikas Bank Limited,4.41,0.23,4.64,4/2/2023,2023-04-28 [Closed],,,2078/2079
+341,SIKLES,Sikles Hydropower Limited,,10.53,10.53,3/14/2023,2023-03-27 [Closed],,,2078/2079
+342,ALICL,Asian Life Insurance Company Limited,8.5,0.45,8.95,3/14/2023,2023-04-21 [Closed],,,2078/2079
+343,NICLBSL,NIC Asia Laghubitta Bittiya Sanstha Limited,,14.75,14.75,3/7/2023,2023-04-14 [Closed],,,2078/2079
+344,JSLBB,Janautthan Samudayic Laghubitta Bittiya Sanstha Limited,15,0.79,15.79,3/5/2023,2023-03-24 [Closed],,,2078/2079
+345,SWMF,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,15,,15,3/1/2023,2023-04-27 [Closed],,,2078/2079
+346,SMFDB,Summit Laghubitta Bittiya Sanstha Limited,13.56,0.71,14.28,2/28/2023,2023-06-05 [Closed],,,2078/2079
+347,SLBSL,Samudayik Laghubitta Bittiya Sanstha Limited,10,5,15,2/22/2023,2023-06-29 [Closed],,,2078/2079
+348,KLBSL,Kisan Laghubitta Bittiya Sanstha Limited(Former NRN Laghubitta Bittiya Sanstha Limited),7,0.37,7.37,2/22/2023,2023-04-03 [Closed],,,2078/2079
+349,JBLB,Jeevan Bikas Laghubitta Bittiya Sanstha Limited,14.29,0.71,14.99,2/20/2023,2023-03-31 [Closed],,,2078/2079
+350,CORBL,Corporate Development Bank Limited,5,0.26,5.26,2/14/2023,2023-02-22 [Closed],,,2078/2079
+351,NGPL,Ngadi Group Power Limited,4.75,0.25,5,2/13/2023,2023-02-22 [Closed],,,2078/2079
+352,SADBL,Shangrila Development Bank Limited,8.53,0.45,8.98,2/10/2023,2023-03-12 [Closed],,,2078/2079
+353,VLBS,Vijaya Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,2/9/2023,2023-03-30 [Closed],,,2078/2079
+354,ALBSL,Asha Laghubitta Bittiya Sanstha Limited,14.29,0.71,15,2/7/2023,2023-03-10 [Closed],,,2078/2079
+355,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,15,3,18,2/5/2023,2023-03-15 [Closed],,,2078/2079
+356,ADLB,Adarsha Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,2/2/2023,2023-02-28 [Closed],,,2078/2079
+357,MKLB,Manakamana Smart Laghubitta Bittiya Sanstha Limited,4.75,0.25,5,1/31/2023,2023-03-15 [Closed],,,2078/2079
+358,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,61.75,3.25,65,1/29/2023,2023-02-16 [Closed],,,2078/2079
+359,HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),11,0.58,11.58,1/29/2023,2023-02-26 [Closed],,,2078/2079
+360,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,1/26/2023,2023-03-17 [Closed],,,2078/2079
+361,SABSL,Sabaiko Laghubitta Bittiya Sanstha Limited,18,0.95,18.95,1/26/2023,2023-02-26 [Closed],,,2078/2079
+362,NMFBS,National Laghubitta Bittiya Sanstha Limited,15,,15,1/24/2023,2023-04-17 [Closed],,,2078/2079
+363,KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,19,1,20,1/23/2023,2023-03-30 [Closed],,,2078/2079
+364,GILB,Global IME Laghubitta Bittiya Sanstha Limited,12,8,20,1/19/2023,2023-02-28 [Closed],,,2078/2079
+365,LLBS,Laxmi Laghubitta Bittiya Sanstha Limited,15,5,20,1/19/2023,2023-03-01 [Closed],,,2078/2079
+366,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,20,,20,1/16/2023,2023-02-14 [Closed],,,2078/2079
+367,NSLB,Naya Sarathi Laghubitta Bittiya Sanstha Limited,19,1,20,1/16/2023,2023-03-29 [Closed],,,2078/2079
+368,SMB,Support Laghubitta Bittiya Sanstha Limited,11,0.58,11.58,1/16/2023,2023-03-05 [Closed],,,2078/2079
+369,UMHL,United Modi Hydropower Limited,7,0.37,7.37,1/16/2023,2023-03-23 [Closed],,,2078/2079
+370,MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,15,0.79,15.79,1/13/2023,2023-02-17 [Closed],,,2078/2079
+371,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,22,3.26,25.26,1/12/2023,2023-03-09 [Closed],,,2078/2079
+372,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,22,1.16,23.16,1/12/2023,2023-03-14 [Closed],,,2078/2079
+373,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,15,6.05,21.05,1/12/2023,2023-02-22 [Closed],,,2078/2079
+374,STC,Salt Trading Corporation Limited,10,5,15,1/12/2023,2023-03-10 [Closed],,,2078/2079
+375,NMBMF,NMB Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,1/12/2023,2023-03-31 [Closed],,,2078/2079
+376,TRH,Taragaon Regency Hotel Limited,,8.42,8.42,1/11/2023,2023-02-01 [Closed],,,2078/2079
+377,HEI,Himalayan Everest Insurance Limited,2.75,0.14,2.89,1/11/2023,2023-03-17 [Closed],,,2078/2079
+378,MLBSL,Mahila Laghubitta Bittiya Sanstha Limited,47.5,2.5,50,1/10/2023,2023-02-17 [Closed],,,2078/2079
+379,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,10,11.05,21.05,1/10/2023,2023-03-03 [Closed],,,2078/2079
+380,MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,1/10/2023,2023-04-12 [Closed],,,2078/2079
+381,ADBL,Agricultural Development Bank Limited,2,11,13,1/10/2023,2023-03-14 [Closed],,,2078/2079
+382,PRIN,Prabhu Insurance Company Limited,6.7,0.35,7.05,1/9/2023,2023-02-24 [Closed],,,2078/2079
+383,JBBL,Jyoti Bikash Bank Limited,3,3.8,6.8,1/8/2023,2023-02-12 [Closed],,,2078/2079
+384,API,Api Power Company Limited,7.5,0.39,7.89,1/6/2023,2023-02-16 [Closed],,,2078/2079
+385,NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,19,1,20,1/4/2023,2023-02-14 [Closed],,,2078/2079
+386,PICL,Prudential Insurance Company Limited,3.33,0.18,3.5,1/3/2023,2023-03-17 [Closed],,,2078/2079
+387,NIBPO,Nepal Investment Bank Limited Promoter Share,4,7,11,1/2/2023,2022-12-07 [Closed],,,2078/2079
+388,LGIL,Lumbini General Insurance Limited,6.99,0.37,7.36,12/29/2022,2023-02-10 [Closed],,,2078/2079
+389,AKBSL,Adhikhola Laghubitta Bittiya Sanstha Limited,30,1.58,31.58,12/26/2022,2023-01-17 [Closed],,,2078/2079
+390,NCHL,Nepal Clearing House Limited,38,2,40,12/23/2022,,,,2078/2079
+391,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,30,1.58,31.58,12/23/2022,2023-01-03 [Closed],,,2078/2079
+392,SDLBSL,Sadhana Laghubitta Bittiya Sanstha Limited,19,1,20,12/23/2022,2023-01-04 [Closed],,,2078/2079
+393,BPCL,Butwal Power Company Limited,5,7.5,12.5,12/23/2022,2023-01-02 [Closed],,,2078/2079
+394,NEPSE,Nepal Stock Exchange Limited,,100,100,12/22/2022,,,,2078/2079
+395,CDS,CDS & Clearing Limited,,100,100,12/22/2022,,,,2078/2079
+396,NTC,Nepal Doorsanchar Company Limited,,40,40,12/22/2022,2023-01-02 [Closed],,,2078/2079
+397,NLBBL,Nerude Laghubitta Bittiya Sanstha Limited,22,1.16,23.16,12/22/2022,2023-01-31 [Closed],,,2078/2079
+398,MMFDB,Mirmire Laghubitta Bittiya Sanstha Limited,23,,23,12/22/2022,2023-01-04 [Closed],,,2078/2079
+399,KPCL,Kalika Power Company Limited,15,0.79,15.79,12/22/2022,2023-01-01 [Closed],,,2078/2079
+400,MERO,Mero Microfinance Laghubitta Bittiya Sanstha Limited,10,10,20,12/21/2022,2023-01-06 [Closed],,,2078/2079
+401,SIC,Sagarmatha Insurance Company Limited,12.4,0.66,13.06,12/21/2022,2023-02-10 [Closed],,,2078/2079
+402,GMFIL,Guheswori Merchant Banking & Finance Limited,6.5,0.34,6.84,12/21/2022,2023-02-03 [Closed],,,2078/2079
+403,RADHI,Radhi Bidyut Company Limited,4.75,0.25,5,12/21/2022,2022-12-28 [Closed],,,2078/2079
+404,CFCL,Central Finance Limited,,5,5,12/21/2022,2023-01-01 [Closed],,,2078/2079
+405,HBL,Himalayan Bank Limited,8,11.11,19.11,12/20/2022,2023-01-02 [Closed],,,2078/2079
+406,CBL,Civil Bank Limited,5,0.26,5.26,12/20/2022,2023-01-03 [Closed],,,2078/2079
+407,PFL,Pokhara Finance Limited,4,0.21,4.21,12/20/2022,2023-01-03 [Closed],,,2078/2079
+408,FOWAD,Forward Microfinance Laghubitta Bittiya Sanstha Limited,25,5,30,12/19/2022,2023-01-01 [Closed],,,2078/2079
+409,MNBBL,Muktinath Bikas Bank Limited,13.5,0.71,14.21,12/18/2022,2023-01-04 [Closed],,,2078/2079
+410,MLBL,Mahalaxmi Bikas Bank Limited,4,6.47,10.47,12/18/2022,2023-01-02 [Closed],,,2078/2079
+411,SICL,Shikhar Insurance Company Limited,16,0.84,16.84,12/16/2022,2023-01-31 [Closed],,,2078/2079
+412,NBL,Nepal Bank Limited,2,10,12,12/16/2022,2022-12-29 [Closed],,,2078/2079
+413,SIFC,Shree Investment Finance Company Limited,2.4,5.2,7.6,12/16/2022,2023-01-03 [Closed],,,2078/2079
+414,BHDC,Bindhyabasini Hydropower Development Company Limited,5,0.03,5.03,12/16/2022,2022-12-28 [Closed],,,2078/2079
+415,MHL,Mandakini Hydropower Limited,,5,5,12/16/2022,2023-01-05 [Closed],,,2078/2079
+416,SHIVM,Shivam Cements Limited,,10.53,10.53,12/15/2022,2023-01-04 [Closed],,,2078/2079
+417,PCBL,Prime Commercial Bank Limited,4,4.95,8.95,12/15/2022,2022-12-29 [Closed],,,2078/2079
+418,HIDCL,Hydroelectricity Investment and Development Company Limited,5,0.26,5.26,12/15/2022,2022-12-29 [Closed],,,2078/2079
+419,GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,4,0.21,4.21,12/14/2022,2023-01-04 [Closed],,,2078/2079
+420,NABIL,Nabil Bank Limited,18.5,11.5,30,12/12/2022,2023-01-02 [Closed],,,2078/2079
+421,PPCL,Panchthar Power Company Limited,,7,7,12/9/2022,2022-12-22 [Closed],,,2078/2079
+422,CHCL,Chilime Hydro power Company Limited,7.5,7.5,15,12/7/2022,2022-12-18 [Closed],,,2078/2079
+423,SBL,Siddhartha Bank Limited,12.5,0.66,13.16,12/7/2022,2022-12-28 [Closed],,,2078/2079
+424,RMDC,RMDC Laghubitta Bittiya Sanstha Limited,26,1.37,27.37,12/6/2022,2023-03-15 [Closed],,,2078/2079
+425,SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,26,1.37,27.37,12/6/2022,2023-03-12 [Closed],,,2078/2079
+426,NMB,NMB Bank Limited,,8.25,8.25,12/6/2022,2022-12-26 [Closed],,,2078/2079
+427,NIL,Neco Insurance Limited,15,0.79,15.79,12/5/2022,2023-01-17 [Closed],,,2078/2079
+428,MDB,Miteri Development Bank Limited,12.35,0.65,13,12/5/2022,2022-12-29 [Closed],,,2078/2079
+429,NLG,NLG Insurance Company Limited,10,0.53,10.53,12/4/2022,2023-03-27 [Closed],,,2078/2079
+430,NRN,NRN Infrastructure and Development Limited,,5.26,5.26,12/4/2022,2022-12-20 [Closed],,,2078/2079
+431,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,19,1,20,12/2/2022,2023-01-01 [Closed],,,2078/2079
+432,AHPC,Arun Valley Hydropower Development Company Limited,8,0.42,8.42,12/2/2022,2023-02-01 [Closed],,,2078/2079
+433,ICFC,ICFC Finance Limited,5,5,10,12/1/2022,2023-01-03 [Closed],,,2078/2079
+434,CCBL,Century Commercial Bank Limited,4.75,0.25,5,12/1/2022,2022-12-19 [Closed],,,2078/2079
+435,LBBL,Lumbini Bikas Bank Limited,3,9,12,11/29/2022,2022-12-28 [Closed],,,2078/2079
+436,SBI,Nepal SBI Bank Limited,3,7.53,10.53,11/29/2022,2022-12-28 [Closed],,,2078/2079
+437,NHDL,Nepal Hydro Developer Limited,5,0.03,5.03,11/28/2022,2022-12-26 [Closed],,,2078/2079
+438,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,8,3,11,11/27/2022,2022-12-30 [Closed],,,2078/2079
+439,HDL,Himalayan Distillery Limited,60,10,70,11/25/2022,2023-01-04 [Closed],,,2078/2079
+440,SHINE,Shine Resunga Development Bank Limited,13.3,0.7,14,11/24/2022,2022-12-27 [Closed],,,2078/2079
+441,UMRH,United Idi-Mardi and R.B. Hydropower Limited,,10.53,10.53,11/24/2022,2022-12-02 [Closed],,,2078/2079
+442,NEPS,Nepal Electronic Payment Systems Limited,,10,10,11/23/2022,,,,2078/2079
+443,RIDI,Ridi Power Company Limited,40,2.1,42.1,11/22/2022,2023-02-01 [Closed],,,2078/2079
+444,IGIL,IME General Insurance Limited,6,0.32,6.32,11/22/2022,2023-01-11 [Closed],,,2078/2079
+445,PRVU,Prabhu Bank Limited,6.5,1.5,8,11/18/2022,2022-12-16 [Closed],,,2078/2079
+446,PIC,Premier Insurance Company (Nepal) Limited,14.25,0.75,15,11/16/2022,2023-01-06 [Closed],,,2078/2079
+447,NIB,Nepal Investment Bank Limited,4,7,11,11/16/2022,2022-12-07 [Closed],,,2078/2079
+448,MEN,Mountain Energy Nepal Limited,,10.53,10.53,11/16/2022,2022-12-13 [Closed],,,2078/2079
+449,SIL,Siddhartha Insurance Limited,9,0.47,9.47,11/16/2022,2023-01-02 [Closed],,,2078/2079
+450,MEGA,Mega Bank Nepal Limited,4,3.79,7.79,11/16/2022,2022-12-09 [Closed],,,2078/2079
+451,UIC,United Insurance Company (Nepal) Limited,5,0.26,5.26,11/13/2022,2023-01-01 [Closed],,,2078/2079
+452,GBBL,Garima Bikas Bank Limited,13,1.5,14.5,11/11/2022,2022-12-23 [Closed],,,2078/2079
+453,MCML,Mega Capital Markets Limited,,24.5,24.5,11/10/2022,,,,2078/2079
+454,CARE,Care Ratings Nepal Limited,21.05,,21.05,11/8/2022,,,,2078/2079
+455,NSDCL,Nagarik Stock Dealer Company Ltd.,6.85,,6.85,11/8/2022,,,,2078/2079
+456,EBL,Everest Bank Limited,13,7.68,20.68,11/6/2022,2022-11-29 [Closed],,,2078/2079
+457,JALPA,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,11/6/2022,2023-06-06 [Closed],,,2078/2079
+458,UNL,Unilever Nepal Limited,,"1,215.00","1,215.00",11/3/2022,2022-11-20 [Closed],,,2078/2079
+459,SCB,Standard Chartered Bank Nepal Limited,,16.51,16.51,10/31/2022,2022-11-23 [Closed],,,2078/2079
+460,GBIME,Global IME Bank Limited,3,10.6,13.6,10/29/2022,2022-11-23 [Closed],,,2078/2079
+461,SANIMA,Sanima Bank Limited,10,0.98,10.98,10/23/2022,2022-12-05 [Closed],,,2078/2079
+462,LAXMICAP,Laxmi Capital Market Limited,7,7,14,10/22/2022,,,,2078/2079
+463,SHL,Soaltee Hotel Limited,5,21.32,26.32,10/19/2022,2022-12-22 [Closed],,,2078/2079
+464,BOKL,Bank of Kathmandu Limited,6,14.95,20.95,10/16/2022,2022-11-25 [Closed],,,2078/2079
+465,NICGF,NIC Asia Growth Fund,,13,13,10/16/2022,2022-11-01 [Closed],,,2078/2079
+466,NICBF,NIC ASIA Balanced Fund,,13,13,10/16/2022,2022-11-01 [Closed],,,2078/2079
+467,NCCB,Nepal Credit and Commerce Bank Limited,3.37,7.63,11,10/16/2022,2022-11-01 [Closed],,,2078/2079
+468,NADDF,NIC Asia Dynamic Debt Fund,,6,6,10/16/2022,2022-11-01 [Closed],,,2078/2079
+469,NIBLACE,NIBL Ace Capital Limited,,20,20,10/14/2022,,,,2078/2079
+470,SUCL,Sunrise Capital Limited (NCM/NIDC),,25,25,10/13/2022,,,,2078/2079
+471,NMBCAP,NMB Capital Limited,,21.05,21.05,10/12/2022,,,,2078/2079
+472,NBF2,Nabil Balanced Fund - 2,,7,7,10/12/2022,2022-11-04 [Closed],,,2078/2079
+473,NEF,Nabil Equity Fund,,5,5,10/12/2022,2022-11-04 [Closed],,,2078/2079
+474,KBL,Kumari Bank Limited,,12.5,12.5,9/30/2022,2022-10-31 [Closed],,,2078/2079
+475,BOKCML,BOK Capital Market Limited,,5.79,5.79,9/28/2022,,,,2078/2079
+476,RBBMBL,RBB Merchant Banking Limited,,7.5,7.5,9/27/2022,,,,2078/2079
+477,RURU,Ru Ru Jalbidhyut Pariyojana Limited,10,0.53,10.53,9/25/2022,2022-10-13 [Closed],,,2078/2079
+478,BNT,Bottlers Nepal (Terai) Limited,,60,60,9/24/2022,2023-01-04 [Closed],,,2078/2079
+479,BNL,Bottlers Nepal Limited (Balaju),,20,20,9/24/2022,2023-01-04 [Closed],,,2078/2079
+480,HATHY,Hathway Investment Nepal Limited,,10,10,9/23/2022,,,,2078/2079
+481,NIFRA,Nepal Infrastructure Bank Limited,,4.21,4.21,9/23/2022,2022-11-17 [Closed],,,2078/2079
+482,SIDCL,Siddhartha Capital Limited,,25,25,9/22/2022,,,,2078/2079
+483,CZBIL,Citizens Bank International Limited,,9,9,9/22/2022,2022-10-14 [Closed],,,2078/2079
+484,NLO,Nepal Lube Oil Limited,25,5,30,9/21/2022,2022-09-30 [Closed],,,2078/2079
+485,AKPL,Arun Kabeli Power Limited,10,0.53,10.53,9/20/2022,2022-11-04 [Closed],,,2078/2079
+486,SANCAP,Sanima Capital Limited,,15.79,15.79,9/14/2022,,,,2078/2079
+487,SAEF,Sanima Equity Fund,,22,22,9/13/2022,2022-09-25 [Closed],,,2078/2079
+488,SHPC,Sanima Mai Hydropower Limited,,5.26,5.26,9/6/2022,2022-09-28 [Closed],,,2078/2079
+489,SFMF,Sunrise First Mutual Fund,,12,12,8/31/2022,2022-09-14 [Closed],,,2078/2079
+490,NIBLSF,NIBL Sahabhagita Fund,,7.2,7.2,8/26/2022,2022-08-25 [Closed],,,2078/2079
+491,NIBLPF,NIBL Pragati Fund,,4.2,4.2,8/25/2022,2022-09-14 [Closed],,,2078/2079
+492,KCL,Kumari Capital Limited,,5,5,8/14/2022,,,,2078/2079
+493,SIGS2,Siddhartha Investment Growth Scheme-2,,10,10,8/11/2022,2022-08-23 [Closed],,,2078/2079
+494,SEF,Siddhartha Equity Fund,,9,9,8/11/2022,2022-08-23 [Closed],,,2078/2079
+495,NMBHF1,NMB Hybrid Fund L- 1,,21.05,21.05,8/5/2022,2022-08-16 [Closed],,,2078/2079
+496,NMB50,NMB 50,,21.05,21.05,8/5/2022,2022-08-16 [Closed],,,2078/2079
+497,NICACL,NIC Asia Capital Limited,,55,55,8/2/2022,,,,2078/2079
+498,LUK,Laxmi Unnati Kosh,,5,5,8/2/2022,2022-08-23 [Closed],,,2078/2079
+499,LEMF,Laxmi Equity Fund,,5,5,8/2/2022,2022-08-23 [Closed],,,2078/2079
+500,NICL,Nepal Insurance Company Limited,8,0.42,8.42,,2022-12-23 [Closed],,,2078/2079
+501,PLI,Prabhu Life Insurance Limited,9.8,0.52,10.32,5/17/2023,2023-05-26 [Closed],,,2077/2078
+502,GLICL,Gurans Life Insurance Company Limited,13.27,,13.27,3/26/2023,2023-04-06 [Closed],,,2077/2078
+503,ULI,Union Life Insurance Company Limited,8.97,,8.97,12/28/2022,2023-01-30 [Closed],,,2077/2078
+504,PLIC,Prime Life Insurance Company Limited,13,0.68,13.68,10/20/2022,2022-12-23 [Closed],,,2077/2078
+505,NLIC,Nepal Life Insurance Company Limited,,15.79,15.79,9/16/2022,2022-11-04 [Closed],,,2077/2078
+506,NLICL,National Life Insurance Company Limited,15,0.79,15.79,9/13/2022,2022-11-24 [Closed],,,2077/2078
+507,ALICL,Asian Life Insurance Company Limited,14.5,0.76,15.26,8/7/2022,2022-09-20 [Closed],,,2077/2078
+508,CIT,Citizen Investment Trust,30,1.58,31.58,6/25/2022,2022-08-10 [Closed],,,2077/2078
+509,LGIL,Lumbini General Insurance Limited,9.52,0.48,10,6/23/2022,2022-06-29 [Closed],,,2077/2078
+510,LGIL,Lumbini General Insurance Limited,9.5,0.5,10,6/23/2022,2022-06-29 [Closed],,,2077/2078
+511,NRIC,Nepal Reinsurance Company Limited,5,0.26,5.26,6/19/2022,2022-09-04 [Closed],,,2077/2078
+512,EDBL,Excel Development Bank Limited,8.5,0.45,8.95,6/14/2022,2022-07-12 [Closed],,,2077/2078
+513,WNLB,Wean Nepal Laghubitta Bittiya Sanstha Limited,9.33,0.5,9.83,3/28/2022,2022-06-01 [Closed],,,2077/2078
+514,NICL,Nepal Insurance Company Limited,11,0.58,11.58,3/22/2022,2022-05-31 [Closed],,,2077/2078
+515,NTC,Nepal Doorsanchar Company Limited,20,20,40,3/15/2022,2022-03-25 [Closed],,,2077/2078
+516,STC,Salt Trading Corporation Limited,10,0.5,10.5,3/13/2022,2022-03-29 [Closed],,,2077/2078
+517,SIC,Sagarmatha Insurance Company Limited,20,1.05,21.05,2/25/2022,2022-04-29 [Closed],,,2077/2078
+518,NSLB,Naya Sarathi Laghubitta Bittiya Sanstha Limited,19,1,20,2/23/2022,2022-04-06 [Closed],,,2077/2078
+519,EIC,Everest Insurance Company Limited,6,0.32,6.32,2/23/2022,2022-04-25 [Closed],,,2077/2078
+520,JBLB,Jeevan Bikas Laghubitta Bittiya Sanstha Limited,70,3.68,73.68,2/20/2022,2022-03-26 [Closed],,,2077/2078
+521,IGIL,IME General Insurance Limited,7,0.37,7.37,2/17/2022,2022-04-08 [Closed],,,2077/2078
+522,NHPC,National Hydro Power Company Limited,18.53,0.98,19.5,2/14/2022,2022-02-25 [Closed],,,2077/2078
+523,ACLBSL,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,21,,21,2/9/2022,2022-03-31 [Closed],,,2077/2078
+524,PICL,Prudential Insurance Company Limited,7,0.37,7.37,2/8/2022,2022-04-07 [Closed],,,2077/2078
+525,SIL,Siddhartha Insurance Limited,15,0.79,15.79,2/3/2022,2022-03-31 [Closed],,,2077/2078
+526,NLG,NLG Insurance Company Limited,10,0.53,10.53,1/28/2022,2022-03-20 [Closed],,,2077/2078
+527,KLBSL,Kisan Laghubitta Bittiya Sanstha Limited(Former NRN Laghubitta Bittiya Sanstha Limited),20,,20,1/17/2022,2022-06-03 [Closed],,,2077/2078
+528,NIL,Neco Insurance Limited,15,0.79,15.79,1/17/2022,2022-03-15 [Closed],,,2077/2078
+529,PIC,Premier Insurance Company (Nepal) Limited,14.25,0.75,15,1/14/2022,2022-01-19 [Closed],,,2077/2078
+530,PRIN,Prabhu Insurance Company Limited,11,0.58,11.58,1/14/2022,2022-03-31 [Closed],,,2077/2078
+531,JFL,Janaki Finance Company Limited,15,0.79,15.79,1/11/2022,2022-02-07 [Closed],,,2077/2078
+532,GBBL,Garima Bikas Bank Limited,16,,16,1/6/2022,2022-03-18 [Closed],,,2077/2078
+533,HGI,Himalayan General Insurance Company Limited,6.65,0.35,7,1/6/2022,2022-02-28 [Closed],,,2077/2078
+534,KPCL,Kalika Power Company Limited,15,0.79,15.79,12/24/2021,2022-01-03 [Closed],,,2077/2078
+535,NEPSE,Nepal Stock Exchange Limited,66.67,100,166.67,12/23/2021,2022-01-02 [Closed],,,2077/2078
+536,RBBL,Rastriya Banijya Bank Limited,30,3,33,12/23/2021,2022-01-03 [Closed],,,2077/2078
+537,HDL,Himalayan Distillery Limited,75,25,100,12/22/2021,2021-12-31 [Closed],,,2077/2078
+538,CBL,Civil Bank Limited,5,0.26,5.26,12/21/2021,2022-01-04 [Closed],,,2077/2078
+539,RLFL,Reliance Finance Limited,15,0.79,15.79,12/20/2021,2022-01-04 [Closed],,,2077/2078
+540,NRN,NRN Infrastructure and Development Limited,5,0.26,5.26,12/20/2021,2021-12-30 [Closed],,,2077/2078
+541,SMFDB,Summit Laghubitta Bittiya Sanstha Limited,25.29,,25.29,12/17/2021,2021-12-30 [Closed],,,2077/2078
+542,ADBL,Agricultural Development Bank Limited,20,1.05,21.05,12/17/2021,2021-12-31 [Closed],,,2077/2078
+543,PFL,Pokhara Finance Limited,8.08,0.43,8.5,12/17/2021,2022-01-05 [Closed],,,2077/2078
+544,NHDL,Nepal Hydro Developer Limited,7,0.37,7.37,12/17/2021,2021-12-28 [Closed],,,2077/2078
+545,PROFL,Progressive Finance Limited,6,0.32,6.32,12/17/2021,2022-01-03 [Closed],,,2077/2078
+546,CCBL,Century Commercial Bank Limited,5.75,0.3,6.05,12/17/2021,2022-01-03 [Closed],,,2077/2078
+547,CFCL,Central Finance Limited,7.7,3.3,11,12/16/2021,2022-01-02 [Closed],,,2077/2078
+548,BPCL,Butwal Power Company Limited,10,10,20,12/15/2021,2021-12-26 [Closed],,,2077/2078
+549,MPFL,Multipurpose Finance Company Limited,13,0.68,13.68,12/15/2021,2022-01-05 [Closed],,,2077/2078
+550,AKBSL,Adhikhola Laghubitta Bittiya Sanstha Limited,19,1,20,12/13/2021,2022-01-02 [Closed],,,2077/2078
+551,GFCL,Goodwill Finance Company Limited,9.1,3.9,13,12/13/2021,2021-12-31 [Closed],,,2077/2078
+552,MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,12/12/2021,2022-01-03 [Closed],,,2077/2078
+553,MFIL,Manjushree Finance Limited,40,6,46,12/10/2021,2021-12-30 [Closed],,,2077/2078
+554,CHCL,Chilime Hydro power Company Limited,7.5,7.5,15,12/10/2021,2021-12-30 [Closed],,,2077/2078
+555,MDB,Miteri Development Bank Limited,13.3,0.7,14,12/9/2021,2021-12-29 [Closed],,,2077/2078
+556,FOWAD,Forward Microfinance Laghubitta Bittiya Sanstha Limited,35,7,42,12/8/2021,2021-12-31 [Closed],,,2077/2078
+557,JSLBB,Janautthan Samudayic Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,12/6/2021,2022-01-05 [Closed],,,2077/2078
+558,GMFIL,Guheswori Merchant Banking & Finance Limited,10,0.53,10.53,12/2/2021,2022-01-06 [Closed],,,2077/2078
+559,RMDC,RMDC Laghubitta Bittiya Sanstha Limited,20,5,25,12/1/2021,2022-01-02 [Closed],,,2077/2078
+560,SIFC,Shree Investment Finance Company Limited,7.7,3.3,11,12/1/2021,2022-01-06 [Closed],,,2077/2078
+561,NCCB,Nepal Credit and Commerce Bank Limited,8,0.42,8.42,12/1/2021,2021-12-27 [Closed],,,2077/2078
+562,MLBL,Mahalaxmi Bikas Bank Limited,20,1.05,21.05,11/29/2021,2021-12-28 [Closed],,,2077/2078
+563,NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,29.5,1.55,31.05,11/26/2021,2021-12-28 [Closed],,,2077/2078
+564,SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,11/25/2021,2021-12-20 [Closed],,,2077/2078
+565,JBBL,Jyoti Bikash Bank Limited,11,4.5,15.5,11/25/2021,2021-12-24 [Closed],,,2077/2078
+566,KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,13,,13,11/25/2021,2022-01-05 [Closed],,,2077/2078
+567,SBI,Nepal SBI Bank Limited,3.5,1.81,5.31,11/24/2021,2021-12-22 [Closed],,,2077/2078
+568,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,27.7,1.46,29.16,11/21/2021,2021-12-30 [Closed],,,2077/2078
+569,NMFBS,National Laghubitta Bittiya Sanstha Limited,40,5,45,11/18/2021,2022-01-11 [Closed],,,2077/2078
+570,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,27,3,30,11/18/2021,2021-12-22 [Closed],,,2077/2078
+571,VLBS,Vijaya Laghubitta Bittiya Sanstha Limited,20.03,1.05,21.09,11/16/2021,2021-12-27 [Closed],,,2077/2078
+572,WOMI,Womi Laghubitta Bittiya Sanstha Limited,20,,20,11/12/2021,2021-12-16 [Closed],,,2077/2078
+573,SLBS,Suryodaya Laghubitta Bittiya Sanstha Limited,20,,20,11/11/2021,2021-12-16 [Closed],,,2077/2078
+574,PRVU,Prabhu Bank Limited,12,0.63,12.63,11/11/2021,2021-12-19 [Closed],,,2077/2078
+575,LBL,Laxmi Bank Limited,8,3.5,11.5,11/11/2021,2021-12-10 [Closed],,,2077/2078
+576,PCBL,Prime Commercial Bank Limited,16,0.63,16.63,11/9/2021,2021-12-08 [Closed],,,2077/2078
+577,MEGA,Mega Bank Nepal Limited,10,2.07,12.07,11/9/2021,2021-11-30 [Closed],,,2077/2078
+578,SRBL,Sunrise Bank Limited,6.65,0.35,7,11/9/2021,2021-12-19 [Closed],,,2077/2078
+579,NABIL,Nabil Bank Limited,33.6,4.4,38,11/3/2021,2021-12-31 [Closed],,,2077/2078
+580,MKLB,Manakamana Smart Laghubitta Bittiya Sanstha Limited,17,,17,11/2/2021,2021-12-19 [Closed],,,2077/2078
+581,HIDCL,Hydroelectricity Investment and Development Company Limited,8,0.42,8.42,11/2/2021,2021-12-20 [Closed],,,2077/2078
+582,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,20,5,25,11/1/2021,2021-12-10 [Closed],,,2077/2078
+583,SHINE,Shine Resunga Development Bank Limited,10.93,0.57,11.5,11/1/2021,2021-12-03 [Closed],,,2077/2078
+584,MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,26,,26,10/31/2021,2021-12-27 [Closed],,,2077/2078
+585,MNBBL,Muktinath Bikas Bank Limited,17.58,0.93,18.5,10/31/2021,2021-12-01 [Closed],,,2077/2078
+586,NMB,NMB Bank Limited,12.5,3.3,15.8,10/31/2021,2021-12-22 [Closed],,,2077/2078
+587,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,30,,30,10/29/2021,2021-12-29 [Closed],,,2077/2078
+588,NMBMF,NMB Laghubitta Bittiya Sanstha Limited,21.5,1.13,22.63,10/29/2021,2021-12-24 [Closed],,,2077/2078
+589,EBL,Everest Bank Limited,6,4.32,10.32,10/29/2021,2021-12-03 [Closed],,,2077/2078
+590,NADEP,NADEP Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,10/28/2021,2022-01-17 [Closed],,,2077/2078
+591,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,19,1,20,10/28/2021,2021-12-22 [Closed],,,2077/2078
+592,BOKL,Bank of Kathmandu Limited,10,4,14,10/26/2021,2021-11-26 [Closed],,,2077/2078
+593,LBBL,Lumbini Bikas Bank Limited,13,0.68,13.68,10/26/2021,2021-12-13 [Closed],,,2077/2078
+594,NBL,Nepal Bank Limited,14,3,17,10/25/2021,2021-12-07 [Closed],,,2077/2078
+595,SBL,Siddhartha Bank Limited,14.25,0.75,15,10/25/2021,2022-01-02 [Closed],,,2077/2078
+596,SMB,Support Laghubitta Bittiya Sanstha Limited,30,1.58,31.58,10/24/2021,2021-12-16 [Closed],,,2077/2078
+597,ICFC,ICFC Finance Limited,10,4,14,10/17/2021,2021-12-09 [Closed],,,2077/2078
+598,GIMES1,Global IME Samunnat Scheme 1,,100,100,10/11/2021,2021-12-08 [Closed],,,2077/2078
+599,NLBBL,Nerude Laghubitta Bittiya Sanstha Limited,21.49,1.13,22.62,10/11/2021,2021-12-12 [Closed],,,2077/2078
+600,GBIME,Global IME Bank Limited,10,3.5,13.5,10/11/2021,2021-11-29 [Closed],,,2077/2078
+601,RRHP,Rairang Hydropower Development Company Limited.,,12.6,12.6,10/11/2021,2021-10-21 [Closed],,,2077/2078
+602,MLBSL,Mahila Laghubitta Bittiya Sanstha Limited,47.5,2.5,50,10/10/2021,2021-12-02 [Closed],,,2077/2078
+603,SHIVM,Shivam Cements Limited,,29,29,10/10/2021,2021-10-25 [Closed],,,2077/2078
+604,NBB,Nepal Bangladesh Bank Limited,12,3.5,15.5,10/10/2021,2021-11-01 [Closed],,,2077/2078
+605,HBL,Himalayan Bank Limited,21.38,4.62,26,10/8/2021,2021-12-26 [Closed],,,2077/2078
+606,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,19,6,25,10/8/2021,2021-12-21 [Closed],,,2077/2078
+607,MBL,Machhapuchchhre Bank Limited,13.3,0.7,14,10/8/2021,2021-10-24 [Closed],,,2077/2078
+608,SABSL,Sabaiko Laghubitta Bittiya Sanstha Limited,31.05,1.63,32.68,10/6/2021,2021-12-03 [Closed],,,2077/2078
+609,GILB,Global IME Laghubitta Bittiya Sanstha Limited,28,,28,10/6/2021,2021-11-30 [Closed],,,2077/2078
+610,SADBL,Shangrila Development Bank Limited,10,0.53,10.53,10/6/2021,2021-10-22 [Closed],,,2077/2078
+611,MERO,Mero Microfinance Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,10/5/2021,2021-11-25 [Closed],,,2077/2078
+612,SCB,Standard Chartered Bank Nepal Limited,10,3.06,13.06,10/5/2021,2021-11-26 [Closed],,,2077/2078
+613,NICLBSL,NIC Asia Laghubitta Bittiya Sanstha Limited,,5.41,5.41,10/5/2021,2021-11-09 [Closed],,,2077/2078
+614,ALBSL,Asha Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,10/4/2021,2021-10-29 [Closed],,,2077/2078
+615,NIB,Nepal Investment Bank Limited,12.61,3.39,16,10/4/2021,2021-11-22 [Closed],,,2077/2078
+616,NIBPO,Nepal Investment Bank Limited Promoter Share,12.61,3.39,16,10/4/2021,2021-11-22 [Closed],,,2077/2078
+617,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,32.3,1.7,34,10/3/2021,2021-12-09 [Closed],,,2077/2078
+618,LLBS,Laxmi Laghubitta Bittiya Sanstha Limited,20,7.37,27.37,10/3/2021,2021-11-16 [Closed],,,2077/2078
+619,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,10/3/2021,2021-11-16 [Closed],,,2077/2078
+620,HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),19,1,20,9/30/2021,2021-10-31 [Closed],,,2077/2078
+621,RHPC,Ridi Hydropower Development Company Limited,,12.6,12.6,9/30/2021,2021-10-19 [Closed],,,2077/2078
+622,KBL,Kumari Bank Limited,6,2.67,8.67,9/28/2021,2021-10-25 [Closed],,,2077/2078
+623,GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,16.91,0.89,17.8,9/27/2021,2021-10-25 [Closed],,,2077/2078
+624,CZBIL,Citizens Bank International Limited,12.91,3.09,16,9/26/2021,2021-10-08 [Closed],,,2077/2078
+625,KSBBL,Kamana Sewa Bikas Bank Limited,18.5,0.97,19.47,9/24/2021,2021-10-27 [Closed],,,2077/2078
+626,SANIMA,Sanima Bank Limited,17,0.89,17.89,9/23/2021,2021-10-24 [Closed],,,2077/2078
+627,NIFRA,Nepal Infrastructure Bank Limited,8,0.42,8.42,9/21/2021,2021-11-25 [Closed],,,2077/2078
+628,AHPC,Arun Valley Hydropower Development Company Limited,10,0.53,10.53,9/16/2021,2021-09-27 [Closed],,,2077/2078
+629,NLO,Nepal Lube Oil Limited,30,5,35,9/12/2021,2021-09-21 [Closed],,,2077/2078
+630,SDLBSL,Sadhana Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,9/10/2021,2021-10-20 [Closed],,,2077/2078
+631,SHPC,Sanima Mai Hydropower Limited,10,0.53,10.53,9/10/2021,2021-10-04 [Closed],,,2077/2078
+632,NEF,Nabil Equity Fund,,40,40,9/8/2021,2021-09-27 [Closed],,,2077/2078
+633,NBF2,Nabil Balanced Fund - 2,,35,35,9/8/2021,2021-09-27 [Closed],,,2077/2078
+634,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,25,,25,9/8/2021,2021-10-29 [Closed],,,2077/2078
+635,UNL,Unilever Nepal Limited,,650,650,9/7/2021,2021-10-11 [Closed],,,2077/2078
+636,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,9/5/2021,2021-11-21 [Closed],,,2077/2078
+637,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,9/2/2021,2021-09-28 [Closed],,,2077/2078
+638,SAEF,Sanima Equity Fund,,33,33,9/1/2021,2021-09-17 [Closed],,,2077/2078
+639,SLCF,Sanima Large Cap Fund,,4,4,9/1/2021,2021-09-17 [Closed],,,2077/2078
+640,CMF1,Citizens Mutual Fund-1,,40,40,8/18/2021,2021-09-09 [Closed],,,2077/2078
+641,CMF2,Citizens Mutual Fund - 2,,40,40,8/18/2021,2021-09-09 [Closed],,,2077/2078
+642,AKPL,Arun Kabeli Power Limited,17,0.89,17.89,8/18/2021,2021-08-31 [Closed],,,2077/2078
+643,RURU,Ru Ru Jalbidhyut Pariyojana Limited,10,0.53,10.53,8/18/2021,2021-09-23 [Closed],,,2077/2078
+644,NMB50,NMB 50,,30,30,8/17/2021,2021-09-03 [Closed],,,2077/2078
+645,NMBHF1,NMB Hybrid Fund L- 1,,20,20,8/17/2021,2021-09-03 [Closed],,,2077/2078
+646,API,Api Power Company Limited,10.5,0.55,11.05,8/17/2021,2021-09-03 [Closed],,,2077/2078
+647,SFMF,Sunrise First Mutual Fund,,50,50,8/16/2021,2021-09-01 [Closed],,,2077/2078
+648,NGPL,Ngadi Group Power Limited,20,1.05,21.05,8/15/2021,2021-09-03 [Closed],,,2077/2078
+649,MMFDB,Mirmire Laghubitta Bittiya Sanstha Limited,20,,20,8/15/2021,2022-01-03 [Closed],,,2077/2078
+650,SPDL,Synergy Power Development Limited,10,0.53,10.53,8/9/2021,2021-08-20 [Closed],,,2077/2078
+651,SEF,Siddhartha Equity Fund,,30,30,8/6/2021,2021-08-16 [Closed],,,2077/2078
+652,SIGS2,Siddhartha Investment Growth Scheme-2,,30,30,8/6/2021,2021-08-16 [Closed],,,2077/2078
+653,KEF,Kumari Equity Fund,,5,5,8/2/2021,2021-08-09 [Closed],,,2077/2078
+654,NICGF,NIC Asia Growth Fund,,30,30,8/1/2021,2021-09-12 [Closed],,,2077/2078
+655,NICBF,NIC ASIA Balanced Fund,,30,30,8/1/2021,2021-09-12 [Closed],,,2077/2078
+656,NADDF,NIC Asia Dynamic Debt Fund,,10,10,8/1/2021,2021-08-12 [Closed],,,2077/2078
+657,NIBLPF,NIBL Pragati Fund,,50,50,7/30/2021,2021-08-13 [Closed],,,2077/2078
+658,NIBLSF,NIBL Sahabhagita Fund,,50,50,7/30/2021,2021-07-29 [Closed],,,2077/2078
+659,NIBSF1,NIBL Samriddhi Fund 1,,35,35,7/30/2021,2021-08-13 [Closed],,,2077/2078
+660,LEMF,Laxmi Equity Fund,,35,35,7/22/2021,2021-07-30 [Closed],,,2077/2078
+661,LUK,Laxmi Unnati Kosh,,25,25,7/20/2021,2021-07-28 [Closed],,,2077/2078
+662,GBIMEL,Global IME Capital Limited,70,30,100,,,,,2077/2078
+663,HATHY,Hathway Investment Nepal Limited,25,30,55,,,,,2077/2078
+664,ICRA,ICRA Nepal Limited,20,31.32,51.32,,,,,2077/2078
+665,NICACL,NIC Asia Capital Limited,,48,48,,,,,2077/2078
+666,PRABHU,Prabhu Capital Limited,28.39,17.61,46,,,,,2077/2078
+667,SIDCL,Siddhartha Capital Limited,,40,40,,,,,2077/2078
+668,SUCL,Sunrise Capital Limited (NCM/NIDC),,40,40,,,,,2077/2078
+669,CDS,CDS & Clearing Limited,,40,40,,,,,2077/2078
+670,NABILINV,Nabil Investment Banking Limited,35,1.84,36.84,,,,,2077/2078
+671,NMBCAP,NMB Capital Limited,,30,30,,,,,2077/2078
+672,NIBLACE,NIBL Ace Capital Limited,,26,26,,,,,2077/2078
+673,SANCAP,Sanima Capital Limited,,25,25,,,,,2077/2078
+674,CBIL,Citizens Capital Ltd. (Former CBIL Capital ),,25,25,,,,,2077/2078
+675,NBCL,Nepal Bangladesh Capital Limited,,19,19,,,,,2077/2078
+676,MuktinathCap,Muktinath Capital Limited,,18,18,,,,,2077/2078
+677,BOKCML,BOK Capital Market Limited,,18,18,,,,,2077/2078
+678,MCML,Mega Capital Markets Limited,,16,16,,,,,2077/2078
+679,GCL,Garima Capital Limited,,15.65,15.65,,,,,2077/2078
+680,MCL,Machhapuchchhre Capital Limited,7,6.4,13.4,,,,,2077/2078
+681,RBBMBL,RBB Merchant Banking Limited,,10,10,,,,,2077/2078
+682,CCML,Century Capital Markets Limited,,6.25,6.25,,,,,2077/2078
+683,SLI,Sanima Life Insurance Company Limited,4.2,0.22,4.42,4/13/2022,2022-06-22 [Closed],,,2076/2077
+684,NLIC,Nepal Life Insurance Company Limited,14,0.74,14.74,2/6/2022,2022-03-21 [Closed],,,2076/2077
+685,NLICL,National Life Insurance Company Limited,19,1,20,1/27/2022,2022-03-06 [Closed],,,2076/2077
+686,LICN,Life Insurance Corporation Nepal Limited,20,1.05,21.05,12/24/2021,2022-02-07 [Closed],,,2076/2077
+687,RLI,Reliance Life Insurance Limited,,5.26,5.26,12/5/2021,2021-12-12 [Closed],,,2076/2077
+688,ALICL,Asian Life Insurance Company Limited,25,2,27,11/17/2021,2022-01-26 [Closed],,,2076/2077
+689,JLI,Jyoti Life Insurance Company Limited,10,0.53,10.53,11/1/2021,2022-02-07 [Closed],,,2076/2077
+690,SLICL,Surya Life Insurance Company Limited,12.7,0.67,13.37,10/31/2021,2021-12-24 [Closed],,,2076/2077
+691,PLIC,Prime Life Insurance Company Limited,15,0.87,15.87,9/26/2021,2021-11-26 [Closed],,,2076/2077
+692,RURU,Ru Ru Jalbidhyut Pariyojana Limited,,10.53,10.53,8/18/2021,2021-09-23 [Closed],,,2076/2077
+693,NRIC,Nepal Reinsurance Company Limited,16.5,2.5,19,6/22/2021,2021-12-29 [Closed],,,2076/2077
+694,NAGRO,Nepal Agro Laghubitta Bittiya Sanstha Limited,14,,14,6/14/2021,2021-06-22 [Closed],,,2076/2077
+695,NLG,NLG Insurance Company Limited,10,0.53,10.53,6/1/2021,2021-07-29 [Closed],,,2076/2077
+696,NIL,Neco Insurance Limited,15.5,0.82,16.32,5/24/2021,2021-07-02 [Closed],,,2076/2077
+697,SIC,Sagarmatha Insurance Company Limited,11,0.58,11.58,5/19/2021,2021-07-01 [Closed],,,2076/2077
+698,RADHI,Radhi Bidyut Company Limited,36.5,,36.5,5/17/2021,2021-06-29 [Closed],,,2076/2077
+699,LGIL,Lumbini General Insurance Limited,5,5,10,4/16/2021,2021-05-28 [Closed],,,2076/2077
+700,EDBL,Excel Development Bank Limited,12,0.63,12.63,4/9/2021,2021-09-17 [Closed],,,2076/2077
+701,STC,Salt Trading Corporation Limited,20,5,25,4/5/2021,2021-10-19 [Closed],,,2076/2077
+702,CIT,Citizen Investment Trust,9,8.89,17.89,4/4/2021,2021-06-22 [Closed],,,2076/2077
+703,SIL,Siddhartha Insurance Limited,12,3.79,15.79,3/25/2021,2021-05-28 [Closed],,,2076/2077
+704,SLBS,Suryodaya Laghubitta Bittiya Sanstha Limited,15.35,0.81,16.15,3/15/2021,2021-04-01 [Closed],,,2076/2077
+705,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,17.81,,17.81,3/9/2021,2021-03-31 [Closed],,,2076/2077
+706,MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,12,0.63,12.63,3/9/2021,2021-03-30 [Closed],,,2076/2077
+707,NHDL,Nepal Hydro Developer Limited,15,0.79,15.79,3/7/2021,2021-03-16 [Closed],,,2076/2077
+708,RLFL,Reliance Finance Limited,10,0.53,10.53,3/5/2021,2021-04-23 [Closed],,,2076/2077
+709,KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,10,,10,3/5/2021,2021-04-04 [Closed],,,2076/2077
+710,EIC,Everest Insurance Company Limited,8,0.42,8.42,3/5/2021,2021-05-12 [Closed],,,2076/2077
+711,NTC,Nepal Doorsanchar Company Limited,,40,40,3/3/2021,2021-03-12 [Closed],,,2076/2077
+712,SADBL,Shangrila Development Bank Limited,5,0.26,5.26,2/28/2021,2021-03-23 [Closed],,,2076/2077
+713,ACLBSL,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,8.85,,8.85,2/24/2021,2021-03-31 [Closed],,,2076/2077
+714,NSLB,Naya Sarathi Laghubitta Bittiya Sanstha Limited,8.12,0.43,8.55,2/24/2021,2021-04-01 [Closed],,,2076/2077
+715,IGIL,IME General Insurance Limited,7,0.37,7.37,2/17/2021,2021-04-15 [Closed],,,2076/2077
+716,HGI,Himalayan General Insurance Company Limited,3,3.75,6.75,2/16/2021,2021-05-27 [Closed],,,2076/2077
+717,MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,2/14/2021,2021-03-23 [Closed],,,2076/2077
+718,PRIN,Prabhu Insurance Company Limited,10,0.53,10.53,2/14/2021,2021-05-09 [Closed],,,2076/2077
+719,DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,15,5,20,2/11/2021,2021-03-23 [Closed],,,2076/2077
+720,PICL,Prudential Insurance Company Limited,8,0.42,8.42,2/8/2021,2021-05-02 [Closed],,,2076/2077
+721,MLBL,Mahalaxmi Bikas Bank Limited,8.8,0.46,9.26,2/3/2021,2021-03-16 [Closed],,,2076/2077
+722,JSLBB,Janautthan Samudayic Laghubitta Bittiya Sanstha Limited,49.4,2.6,52,2/2/2021,2021-05-06 [Closed],,,2076/2077
+723,SABSL,Sabaiko Laghubitta Bittiya Sanstha Limited,10.5,0.55,11.05,1/31/2021,2021-03-12 [Closed],,,2076/2077
+724,NICL,Nepal Insurance Company Limited,8,2,10,1/22/2021,2021-03-30 [Closed],,,2076/2077
+725,MSMBS,Mahila Sahayatra Laghubitta Bittiya Sanstha Limited,10,0.53,10.53,1/21/2021,2021-03-14 [Closed],,,2076/2077
+726,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,20,1.05,21.05,1/18/2021,2021-02-12 [Closed],,,2076/2077
+727,GRDBL,Green Development Bank Limited,3.8,0.2,4,1/13/2021,2021-03-30 [Closed],,,2076/2077
+728,PIC,Premier Insurance Company (Nepal) Limited,,11.05,11.05,1/12/2021,2021-03-24 [Closed],,,2076/2077
+729,CBL,Civil Bank Limited,8,0.42,8.42,1/12/2021,2021-02-05 [Closed],,,2076/2077
+730,HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),3.5,0.18,3.68,1/12/2021,2021-03-04 [Closed],,,2076/2077
+731,NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,13,0.68,13.68,1/10/2021,2021-02-23 [Closed],,,2076/2077
+732,NLBBL,Nerude Laghubitta Bittiya Sanstha Limited,8,0.42,8.42,1/10/2021,2021-02-19 [Closed],,,2076/2077
+733,TRH,Taragaon Regency Hotel Limited,,10,10,1/8/2021,2021-02-12 [Closed],,,2076/2077
+734,FOWAD,Forward Microfinance Laghubitta Bittiya Sanstha Limited,25,6.58,31.58,1/7/2021,2021-02-17 [Closed],,,2076/2077
+735,NIBPO,Nepal Investment Bank Limited Promoter Share,13,5.5,18.5,1/7/2021,2021-01-06 [Closed],,,2076/2077
+736,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,15,0.79,15.79,1/7/2021,2021-02-26 [Closed],,,2076/2077
+737,SICL,Shikhar Insurance Company Limited,27.77,1.46,29.23,1/5/2021,2021-03-10 [Closed],,,2076/2077
+738,NMFBS,National Laghubitta Bittiya Sanstha Limited,21,6,27,1/4/2021,2021-02-26 [Closed],,,2076/2077
+739,NRN,NRN Infrastructure and Development Limited,2.85,0.15,3,1/1/2021,2021-01-25 [Closed],,,2076/2077
+740,CFCL,Central Finance Limited,7,3,10,12/28/2020,2021-01-25 [Closed],,,2076/2077
+741,GBBL,Garima Bikas Bank Limited,13.5,0.71,14.21,12/27/2020,2021-01-25 [Closed],,,2076/2077
+742,SFFIL,Srijana Finance Limited,13.59,0.68,14.27,12/24/2020,2021-03-14 [Closed],,,2076/2077
+743,NEPSE,Nepal Stock Exchange Limited,20,30,50,12/23/2020,2021-01-02 [Closed],,,2076/2077
+744,NABIL,Nabil Bank Limited,33.5,1.76,35.26,12/22/2020,2020-12-30 [Closed],,,2076/2077
+745,NGPL,Ngadi Group Power Limited,10,0.53,10.53,12/22/2020,2020-12-30 [Closed],,,2076/2077
+746,VLBS,Vijaya Laghubitta Bittiya Sanstha Limited,19,1,20,12/21/2020,2021-01-01 [Closed],,,2076/2077
+747,NMB,NMB Bank Limited,13,3.2,16.2,12/21/2020,2020-12-31 [Closed],,,2076/2077
+748,PCBL,Prime Commercial Bank Limited,15,,15,12/21/2020,2021-01-04 [Closed],,,2076/2077
+749,BPCL,Butwal Power Company Limited,10,15,25,12/20/2020,2021-01-01 [Closed],,,2076/2077
+750,LLBS,Laxmi Laghubitta Bittiya Sanstha Limited,15,8.16,23.16,12/20/2020,2021-01-01 [Closed],,,2076/2077
+751,SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,19.01,1,20.01,12/20/2020,2021-03-12 [Closed],,,2076/2077
+752,NIB,Nepal Investment Bank Limited,13,5.5,18.5,12/20/2020,2021-01-06 [Closed],,,2076/2077
+753,SHINE,Shine Resunga Development Bank Limited,13,,13,12/20/2020,2020-12-31 [Closed],,,2076/2077
+754,GFCL,Goodwill Finance Company Limited,8.4,3.6,12,12/20/2020,2021-01-01 [Closed],,,2076/2077
+755,NCCB,Nepal Credit and Commerce Bank Limited,10.27,0.54,10.81,12/20/2020,2021-01-05 [Closed],,,2076/2077
+756,PFL,Pokhara Finance Limited,5,0.26,5.26,12/20/2020,2021-01-01 [Closed],,,2076/2077
+757,KSBBL,Kamana Sewa Bikas Bank Limited,4.4,0.23,4.63,12/20/2020,2020-12-31 [Closed],,,2076/2077
+758,HDL,Himalayan Distillery Limited,50,50,100,12/18/2020,2021-01-01 [Closed],,,2076/2077
+759,JBBL,Jyoti Bikash Bank Limited,10,,10,12/18/2020,2021-01-13 [Closed],,,2076/2077
+760,NBL,Nepal Bank Limited,12,4,16,12/17/2020,2020-12-31 [Closed],,,2076/2077
+761,MEGA,Mega Bank Nepal Limited,10,3.05,13.05,12/17/2020,2021-01-01 [Closed],,,2076/2077
+762,TMDBL,Tinau Mission Development Bank Limited,6,,6,12/17/2020,2021-01-15 [Closed],,,2076/2077
+763,CHL,Chhyangdi Hydropower Company Limited,5,0.26,5.26,12/16/2020,2021-01-01 [Closed],,,2076/2077
+764,SPDL,Synergy Power Development Limited,4.75,0.25,5,12/16/2020,2020-12-27 [Closed],,,2076/2077
+765,SPARS,Sparsha Laghubitta Bittiya Sanstha Limited,19.5,1.03,20.53,12/15/2020,2020-12-30 [Closed],,,2076/2077
+766,LBL,Laxmi Bank Limited,9,2.5,11.5,12/15/2020,2021-01-01 [Closed],,,2076/2077
+767,GILB,Global IME Laghubitta Bittiya Sanstha Limited,27.47,1.45,28.92,12/14/2020,2020-12-30 [Closed],,,2076/2077
+768,ADBL,Agricultural Development Bank Limited,15,0.79,15.79,12/14/2020,2020-12-30 [Closed],,,2076/2077
+769,CCBL,Century Commercial Bank Limited,5.25,2.25,7.5,12/14/2020,2020-12-31 [Closed],,,2076/2077
+770,BARUN,Barun Hydropower Company Limited,5,0.26,5.26,12/14/2020,2020-12-31 [Closed],,,2076/2077
+771,SDLBSL,Sadhana Laghubitta Bittiya Sanstha Limited,18,0.95,20,12/13/2020,2020-12-31 [Closed],,,2076/2077
+772,GMFIL,Guheswori Merchant Banking & Finance Limited,8,3.4,11.4,12/10/2020,2021-01-05 [Closed],,,2076/2077
+773,UMHL,United Modi Hydropower Limited,,5.26,5.26,12/10/2020,2020-12-20 [Closed],,,2076/2077
+774,SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,25,1.32,26.32,12/8/2020,2020-12-31 [Closed],,,2076/2077
+775,LBBL,Lumbini Bikas Bank Limited,7,3,10,12/8/2020,2020-12-29 [Closed],,,2076/2077
+776,MNBBL,Muktinath Bikas Bank Limited,11.25,4.26,15.51,12/7/2020,2020-12-28 [Closed],,,2076/2077
+777,ICFC,ICFC Finance Limited,10.5,4.5,15,12/7/2020,2021-01-03 [Closed],,,2076/2077
+778,PRVU,Prabhu Bank Limited,10,0.53,10.52,12/7/2020,2020-12-25 [Closed],,,2076/2077
+779,MFIL,Manjushree Finance Limited,18,5.5,23.5,12/6/2020,2020-12-30 [Closed],,,2076/2077
+780,MDB,Miteri Development Bank Limited,15,0.79,15.79,12/6/2020,2020-12-29 [Closed],,,2076/2077
+781,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,14.25,0.75,15,12/6/2020,2021-01-22 [Closed],,,2076/2077
+782,SBL,Siddhartha Bank Limited,12,3,15,12/6/2020,2021-01-12 [Closed],,,2076/2077
+783,SIFC,Shree Investment Finance Company Limited,7.37,3.16,10.53,12/4/2020,2020-12-30 [Closed],,,2076/2077
+784,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,22,7,29,12/3/2020,2020-12-30 [Closed],,,2076/2077
+785,WOMI,Womi Laghubitta Bittiya Sanstha Limited,30,,30,12/2/2020,2020-12-30 [Closed],,,2076/2077
+786,CHCL,Chilime Hydro power Company Limited,10,10,20,12/1/2020,2020-12-14 [Closed],,,2076/2077
+787,SHPC,Sanima Mai Hydropower Limited,10,5,15,12/1/2020,2020-12-28 [Closed],,,2076/2077
+788,NBB,Nepal Bangladesh Bank Limited,6,2.42,8.42,12/1/2020,2020-12-25 [Closed],,,2076/2077
+789,HBL,Himalayan Bank Limited,14,6,20,11/30/2020,2020-12-29 [Closed],,,2076/2077
+790,SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,12.39,0.65,13.04,11/29/2020,2021-02-27 [Closed],,,2076/2077
+791,AHPC,Arun Valley Hydropower Development Company Limited,5,0.26,5.26,11/29/2020,2020-12-11 [Closed],,,2076/2077
+792,NMBMF,NMB Laghubitta Bittiya Sanstha Limited,19,1,20,11/25/2020,2020-12-29 [Closed],,,2076/2077
+793,SRBL,Sunrise Bank Limited,5.8,2.48,8.28,11/23/2020,2020-12-22 [Closed],,,2076/2077
+794,SBI,Nepal SBI Bank Limited,6,3.47,9.47,11/20/2020,2020-12-30 [Closed],,,2076/2077
+795,RHPC,Ridi Hydropower Development Company Limited,5,0.26,5.26,11/20/2020,2020-11-30 [Closed],,,2076/2077
+796,AKPL,Arun Kabeli Power Limited,5.71,0.29,6,11/19/2020,2020-11-27 [Closed],,,2076/2077
+797,MMFDB,Mirmire Laghubitta Bittiya Sanstha Limited,9.2,0.48,9.68,11/12/2020,2021-03-21 [Closed],,,2076/2077
+798,EBL,Everest Bank Limited,5,5.53,10.53,11/5/2020,2020-12-25 [Closed],,,2076/2077
+799,MERO,Mero Microfinance Laghubitta Bittiya Sanstha Limited,16.94,0.89,17.83,11/4/2020,2021-01-01 [Closed],,,2076/2077
+800,RMDC,RMDC Laghubitta Bittiya Sanstha Limited,15,5,20,11/2/2020,2020-11-23 [Closed],,,2076/2077
+801,API,Api Power Company Limited,9,,9,11/1/2020,2020-11-16 [Closed],,,2076/2077
+802,SCB,Standard Chartered Bank Nepal Limited,7,4.84,11.84,10/30/2020,2020-12-24 [Closed],,,2076/2077
+803,GBIME,Global IME Bank Limited,14,2,16,10/28/2020,2020-12-30 [Closed],,,2076/2077
+804,KBL,Kumari Bank Limited,10.85,3.15,14,10/22/2020,2020-11-30 [Closed],,,2076/2077
+805,NICA,NIC Asia Bank Limited,19,1,20,10/21/2020,2020-11-25 [Closed],,,2076/2077
+806,CZBIL,Citizens Bank International Limited,8,3,11,10/19/2020,2020-11-26 [Closed],,,2076/2077
+807,SHIVM,Shivam Cements Limited,,24.21,24.21,10/15/2020,2020-10-29 [Closed],,,2076/2077
+808,SANIMA,Sanima Bank Limited,10,3.6,13.6,10/14/2020,2020-11-02 [Closed],,,2076/2077
+809,RSDC,RSDC Laghubitta Bittiya Sanstha Limited,9,3.63,12.63,10/11/2020,2020-12-25 [Closed],,,2076/2077
+810,SAEF,Sanima Equity Fund,,7,7,10/4/2020,2020-10-30 [Closed],,,2076/2077
+811,BOKL,Bank of Kathmandu Limited,13,3,16,10/1/2020,2020-11-13 [Closed],,,2076/2077
+812,NLO,Nepal Lube Oil Limited,,10,10,9/30/2020,2020-10-08 [Closed],,,2076/2077
+813,UNL,Unilever Nepal Limited,,100,100,9/27/2020,2020-11-12 [Closed],,,2076/2077
+814,NMBHF1,NMB Hybrid Fund L- 1,,8,8,9/21/2020,2020-10-02 [Closed],,,2076/2077
+815,NMB50,NMB 50,,5,5,9/21/2020,2020-10-02 [Closed],,,2076/2077
+816,ALBSL,Asha Laghubitta Bittiya Sanstha Limited,15,0.79,15.79,9/17/2020,2020-12-27 [Closed],,,2076/2077
+817,MBL,Machhapuchchhre Bank Limited,7.03,3.37,10.4,9/17/2020,2020-10-08 [Closed],,,2076/2077
+818,CMF1,Citizens Mutual Fund-1,,15,15,9/15/2020,2020-10-01 [Closed],,,2076/2077
+819,CMF2,Citizens Mutual Fund - 2,,10,10,9/15/2020,2020-10-01 [Closed],,,2076/2077
+820,SFMF,Sunrise First Mutual Fund,,7,7,9/13/2020,2020-09-27 [Closed],,,2076/2077
+821,GIMES1,Global IME Samunnat Scheme 1,,4,4,8/31/2020,2020-09-25 [Closed],,,2076/2077
+822,LEMF,Laxmi Equity Fund,,4.25,4.25,8/30/2020,2020-09-08 [Closed],,,2076/2077
+823,FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,9.5,4.18,13.68,8/27/2020,2020-11-20 [Closed],,,2076/2077
+824,NBF2,Nabil Balanced Fund - 2,,9,9,8/27/2020,2020-09-10 [Closed],,,2076/2077
+825,NEF,Nabil Equity Fund,,6,6,8/27/2020,2020-09-10 [Closed],,,2076/2077
+826,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,20,6.32,26.32,8/23/2020,2020-12-20 [Closed],,,2076/2077
+827,NIBLSF,NIBL Sahabhagita Fund,,8.25,8.25,8/19/2020,2020-08-07 [Closed],,,2076/2077
+828,NIBSF1,NIBL Samriddhi Fund 1,,12,12,8/14/2020,2020-08-21 [Closed],,,2076/2077
+829,NICGF,NIC Asia Growth Fund,,12,12,8/11/2020,2020-09-10 [Closed],,,2076/2077
+830,NICBF,NIC ASIA Balanced Fund,,8,8,8/11/2020,2020-09-10 [Closed],,,2076/2077
+831,SEF,Siddhartha Equity Fund,,7.5,7.5,8/9/2020,2020-08-16 [Closed],,,2076/2077
+832,SIGS2,Siddhartha Investment Growth Scheme-2,,5,5,8/9/2020,2020-08-16 [Closed],,,2076/2077
+833,ICRA,ICRA Nepal Limited,150,51.5,201.5,,,,,2076/2077
+834,NIBLACE,NIBL Ace Capital Limited,,22.22,22.22,,,,,2076/2077
+835,CARE,Care Ratings Nepal Limited,,21.05,21.05,,,,,2076/2077
+836,NMBCAP,NMB Capital Limited,,21.05,21.05,,,,,2076/2077
+837,NABILINV,Nabil Investment Banking Limited,,20,20,,,,,2076/2077
+838,NOCL,Nepal Oil Corporation Limited,,20,20,,,,,2076/2077
+839,NICACL,NIC Asia Capital Limited,,18,18,,,,,2076/2077
+840,CDS,CDS & Clearing Limited,,15,15,,,,,2076/2077
+841,SANCAP,Sanima Capital Limited,,8.5,8.5,,,,,2076/2077
+842,GLICL,Gurans Life Insurance Company Limited,7.44,0.39,7.83,,2022-10-12 [Closed],,,2076/2077
+843,MCML,Mega Capital Markets Limited,,7,7,,,,,2076/2077
+844,GBIMEL,Global IME Capital Limited,,6.5,6.5,,,,,2076/2077
+845,MCL,Machhapuchchhre Capital Limited,,6.4,6.4,,,,,2076/2077
+846,SHBL,Sahara Bikas Bank Limited,5.05,0.27,5.32,,,,,2076/2077
+847,BOKCML,BOK Capital Market Limited,,4.5,4.5,,,,,2076/2077
+848,RBBL,Rastriya Banijya Bank Limited,2,2.5,4.5,,,,,2076/2077
+849,KCL,Kumari Capital Limited,,4,4,,,,,2076/2077
+850,CCML,Century Capital Markets Limited,,4,4,,,,,2076/2077
+851,NBCL,Nepal Bangladesh Capital Limited,,2,2,,,,,2076/2077
